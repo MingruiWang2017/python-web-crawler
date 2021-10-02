@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# PyCharm
+.idea/
+
+#vscode
+.code/
+
+# 爬取的html网页信息
+*.html
