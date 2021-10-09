@@ -25,6 +25,7 @@ if result:
     print(result.group())
 
 # =============================================
+print("=" * 40)
 two = "2.5.03,42,5"
 
 pattern = re.compile('2\.5')
@@ -36,6 +37,7 @@ result = pattern.findall(two)
 print(result)
 
 # ==============================================
+print("=" * 40)
 three = """
     mngdhauf dbnaajdf
     12345678 9999900f
@@ -56,12 +58,10 @@ pattern = re.compile('m.*f', re.S | re.I)  # 可以匹配换行符，同时忽�
 result = pattern.findall(three)
 print(result)
 
-
 # ===================================================
 print("=" * 40)
 four = "abcd1234abcd"
-pattern = re.compile('\d+') # 匹配一个或多个数字
-
+pattern = re.compile('\d+')  # 匹配一个或多个数字
 
 result = pattern.findall(four)
 print(result)
@@ -80,5 +80,13 @@ result = pattern.sub("#", four)  # 将匹配到的数字替换为#
 print(result)
 
 # 拆分字符串
-result = pattern.split(four) # 按照匹配到的字符进行分割
+result = pattern.split(four)  # 按照匹配到的字符进行分割
+print(result)
+
+# =====================================================
+print("=" * 40)
+# 匹配汉字
+five = "hello 你好 123"
+pattern = re.compile("[\u4e00-\u9fa5]")
+result = pattern.findall(five)
 print(result)
