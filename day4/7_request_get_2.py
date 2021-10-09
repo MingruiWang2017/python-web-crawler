@@ -28,4 +28,3 @@ data = response.content
 with open("7_requests_get_2.html", 'wb') as f:
     f.write(data)
 print(response.url)
-
