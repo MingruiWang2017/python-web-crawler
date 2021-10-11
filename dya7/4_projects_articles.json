@@ -1,0 +1,5258 @@
+{
+  "projects": [
+    {
+      "name": "比特币",
+      "url": "https://www.8btc.com/p/bitcoin",
+      "articles_num": 20,
+      "articles": [
+        {
+          "数据：比特币闪电网络中锁定的BTC数量近3000枚": "https://www.8btc.com/article/6693740"
+        },
+        {
+          "技术贴：如何用Signet 测试网尝鲜体验Taproot": "https://www.8btc.com/article/6693740"
+        },
+        {
+          "The Giving Block与RenPSG合作为慈善机构提供加密货币捐赠解决方案": "https://www.8btc.com/article/6692348"
+        },
+        {
+          "数据：比特币闪电网络通道数量达72380个，创历史新高": "https://www.8btc.com/writer/27420"
+        },
+        {
+          "今日恐慌与贪婪指数为33，等级仍为恐慌": "https://www.8btc.com/writer/27420"
+        },
+        {
+          "推特将于本周推出比特币支付功能，首先支持iOS设备": "https://www.8btc.com/tag/taproot"
+        },
+        {
+          "彭博策略师：美股下跌的同时，比特币将是最大的长期受益者之一": "https://www.8btc.com/article/6692348"
+        },
+        {
+          "一个沉寂8.8年的比特币地址今日被激活，持有约400 BTC": "https://www.8btc.com/article/6690638"
+        },
+        {
+          "主题度假村PortAventura World将接受比特币支付": "https://www.8btc.com/article/6690638"
+        },
+        {
+          "PlanB：不同模型显示比特币12月底价格存在巨大出入，仍押注S2F模型": "https://www.8btc.com/article/6690502"
+        },
+        {
+          "对冲基金Cambrian Asset Management将推出比特币和以太币信托": "https://www.8btc.com/article/6690502"
+        },
+        {
+          "比特币生态开发者Jameson Lopp发起众包项目调查美国政客持有BTC数据": "https://www.8btc.com/article/6690196"
+        },
+        {
+          "彭博大宗商品策略师：黄金投资者正在转向比特币和以太坊": "https://www.8btc.com/article/6690196"
+        },
+        {
+          "数据：过去两天Purpose Bitcoin ETF增持390枚BTC": "https://www.8btc.com/article/6690092"
+        },
+        {
+          "今日恐慌与贪婪指数为27，等级由极度恐慌转为恐慌": "https://www.8btc.com/article/6690092"
+        },
+        {
+          "NFL球星汤姆·布拉迪：希望用比特币、以太坊或SOL来支付我的部分薪水": "https://www.8btc.com/article/6690014"
+        },
+        {
+          "数据：昨晚第三大比特币鲸鱼以4.05万美元的价格购入321枚比特币": "https://www.8btc.com/article/6690014"
+        },
+        {
+          "数据：比特币市值是其总生产成本的近30倍": "https://www.8btc.com/article/6689984"
+        },
+        {
+          "分析师：自7月中旬以来，加密鲸鱼已购买高达88亿美元的比特币": "https://www.8btc.com/article/6689984"
+        },
+        {
+          "数据：当前比特币市值占比41%，以太坊市值占比17.9%": "https://www.8btc.com/article/6689966"
+        }
+      ]
+    },
+    {
+      "name": "IPFS",
+      "url": "https://www.8btc.com/p/ipfs",
+      "articles_num": 20,
+      "articles": [
+        {
+          "使用分布式存储协议能让您的NFT收藏保存100年": "https://www.8btc.com/media/6638251"
+        },
+        {
+          "为IPFS产业提供新动能，“蒙顶论链”2021全球算力峰会圆满成功": "https://www.8btc.com/writer/653200"
+        },
+        {
+          "IPFS存储一致性难题？IPFS-Cluster帮你解决": "https://www.8btc.com/writer/653200"
+        },
+        {
+          "如何将IPFS置于Brave之中？": "https://www.8btc.com/tag/NFT"
+        },
+        {
+          "2021年，IPFS的“小目标”有哪些？": "https://www.8btc.com/tag/post_tag93"
+        },
+        {
+          "科普 | IPFS中MFS以及GC机制": "https://www.8btc.com/media/6638251"
+        },
+        {
+          "巴比特专栏 | 浅析区块链和星际文件系统在无线专网中的应用": "https://www.8btc.com/article/6614641"
+        },
+        {
+          "分布式存储综合服务商星际联盟完成近亿元A轮融资": "https://www.8btc.com/writer/603038"
+        },
+        {
+          "Filecoin存储革命与生态价值，剑指何方？（上）": "https://www.8btc.com/writer/603038"
+        },
+        {
+          "【IPFS生态】如何借助Fleek快速构建IPFS应用程序？": "https://www.8btc.com/tag/post_tag93"
+        },
+        {
+          "Filecoin太空竞赛2正式启动：一文了解轨道2 Slingshot详情": "https://www.8btc.com/article/6614641"
+        },
+        {
+          "IPFS周报：谷歌浏览器测试版添加了对IPFS的支持": "https://www.8btc.com/media/6610717"
+        },
+        {
+          "Filecoin太空竞赛将进入终极挑战，这些问题你要搞懂": "https://www.8btc.com/writer/570478"
+        },
+        {
+          "干货｜原来IPFS是这样存储文件的": "https://www.8btc.com/writer/570478"
+        },
+        {
+          "一文览尽2020年IPFS发展历程": "https://www.8btc.com/tag/post_tag93"
+        },
+        {
+          "精通 Filecoin：Lotus真实数据处理之Provider处理存储": "https://www.8btc.com/media/6610717"
+        },
+        {
+          "【IPFS周报99】去中心化的协议学院新教程来了！": "https://www.8btc.com/media/6590304"
+        },
+        {
+          "“新基建新机遇：区块链分布式存储行业大会”于西安圆满落幕": "https://www.8btc.com/writer/271827"
+        },
+        {
+          "万字长文丨新数字交换网络：后疫情时代的黎明和曙光": "https://www.8btc.com/writer/271827"
+        },
+        {
+          "一文看清Filecoin的生态位与现状": "https://www.8btc.com/tag/brave"
+        }
+      ]
+    },
+    {
+      "name": "EOS",
+      "url": "https://www.8btc.com/p/eos",
+      "articles_num": 20,
+      "articles": [
+        {
+          "赛迪发布第25期全球公有链技术评估指数：EOS、以太坊、波场居前三": "https://www.8btc.com/article/6674827"
+        },
+        {
+          "数据：USDT已在8条公链发行，TRC版发行逾319亿美元居首位": "https://www.8btc.com/article/6674827"
+        },
+        {
+          "EOS母公司Block.One支付承包商8.3万枚EOS": "https://www.8btc.com/article/6669587"
+        },
+        {
+          "Dan Larimer发表针对EOS主网的EdenOS路线图建议": "https://www.8btc.com/article/6669587"
+        },
+        {
+          "BM重返EOS：意料之外，又在情理之中": "https://www.8btc.com/article/6653374"
+        },
+        {
+          "BB回应BM离职：我们相互尊重，但是选择了不同道路": "https://www.8btc.com/article/6653374"
+        },
+        {
+          "辞职还注销了电报账号的EOS创始人，下一个项目是啥？": "https://www.8btc.com/article/6614096"
+        },
+        {
+          "BM发文解释离开EOS的原因：不希望创新受监管限制": "https://www.8btc.com/article/6614096"
+        },
+        {
+          "这一天终于来临，BM宣布离开EOS": "https://www.8btc.com/article/6611013"
+        },
+        {
+          "BM在Voice.com发文称已于2020年12月31日辞去block.one CTO 职务": "https://www.8btc.com/writer/373540"
+        },
+        {
+          "EOS创始人BM疑似辞去Block.one首席技术官一职": "https://www.8btc.com/writer/373540"
+        },
+        {
+          "抽丝剥茧：从B1的24万枚BTC揪出B1背后股东": "https://www.8btc.com/tag/eos"
+        },
+        {
+          "Block.one宣布推出EOSIO的升级版本EOSIO 2.1": "https://www.8btc.com/tag/bm"
+        },
+        {
+          "英国数字银行Revolut现已支持ZRX、XTZ、OMG和EOS": "https://www.8btc.com/article/6611013"
+        },
+        {
+          "北美数字资产公司GDA Group为比特币投资者推出抵押贷款": "https://www.8btc.com/article/6585373"
+        },
+        {
+          "BB：EOSVC正致力于帮助加密项目解决合规问题": "https://www.8btc.com/article/6585373"
+        },
+        {
+          "美联社在以太坊区块链上公布11月3日选举结果": "https://www.8btc.com/article/6584453"
+        },
+        {
+          "BM：EOS可以整合为平行链": "https://www.8btc.com/writer/373540"
+        },
+        {
+          "BM：所有合约都应遵循启用智能合约的原则": "https://www.8btc.com/writer/373540"
+        },
+        {
+          "Block.one推出EOSIO区块链的商业版本": "https://www.8btc.com/tag/eos"
+        }
+      ]
+    },
+    {
+      "name": "Filecoin",
+      "url": "https://www.8btc.com/p/filecoin",
+      "articles_num": 20,
+      "articles": [
+        {
+          "Filecoin基金会推出存储提供者的赏金奖励计划": "https://www.8btc.com/article/6681528"
+        },
+        {
+          "一文读懂web3.0数据存储时代的经济激励模型": "https://www.8btc.com/article/6681528"
+        },
+        {
+          "Filecoin与区块链游戏开发商Dapper Labs达成合作": "https://www.8btc.com/media/6679280"
+        },
+        {
+          "Mask Network计划与Filecoin合作推动数据去中心化，用户将可在推特用Filecoin传输文件": "https://www.8btc.com/writer/570799"
+        },
+        {
+          "Filecoin与NEAR共同推出30万美元联合赠款计划，用于支持开发人员以推进二者生态发展": "https://www.8btc.com/writer/570799"
+        },
+        {
+          "Chainlink和Filecoin发起联合资助计划，以加速混合智能合约开发": "https://www.8btc.com/tag/filecoin"
+        },
+        {
+          "区块链开发公司ChainSafe收购同行公司Node Factory": "https://www.8btc.com/tag/crust"
+        },
+        {
+          "Filecoin Lotus v1.6.0版本发布，升级完成后可扩展V1扇区生命周期": "https://www.8btc.com/media/6679280"
+        },
+        {
+          "FIL突破155美元关口": "https://www.8btc.com/article/6678336"
+        },
+        {
+          "为IPFS产业提供新动能，“蒙顶论链”2021全球算力峰会圆满成功": "https://www.8btc.com/article/6678336"
+        },
+        {
+          "Filecoin火了！深度解析近期两大热点：灰度、减产": "https://www.8btc.com/article/6675557"
+        },
+        {
+          "FIL突破新高，最高达137.89美元": "https://www.8btc.com/article/6675557"
+        },
+        {
+          "一文回顾Filecoin“双花”事件始末": "https://www.8btc.com/article/6673055"
+        },
+        {
+          "给矿工打“信用分”？探讨Filecoin矿工的质量指标和声誉": "https://www.8btc.com/article/6673055"
+        },
+        {
+          "Filecoin plus到底是什么？为什么能够实现三赢？": "https://www.8btc.com/article/6670927"
+        },
+        {
+          "Filecoin网络经济学": "https://www.8btc.com/article/6670927"
+        },
+        {
+          "协议实验室创始人胡安：EIP-1559在Filecoin网络的应用以及改进措施": "https://www.8btc.com/article/6666159"
+        },
+        {
+          "如何核算Filecoin网络上的Gas费": "https://www.8btc.com/article/6666159"
+        },
+        {
+          "Filecoin网络进入EB时代，共同见证里程碑的诞生": "https://www.8btc.com/article/6617804"
+        },
+        {
+          "解读Filecoin六大FIP提案": "https://www.8btc.com/article/6617804"
+        }
+      ]
+    },
+    {
+      "name": "Diem（原Libra）",
+      "url": "https://www.8btc.com/p/libra",
+      "articles_num": 20,
+      "articles": [
+        {
+          "知情人士：Facebook高管与美国政府高官会面，寻求批准其全球支付系统Diem": "https://www.8btc.com/article/6684662"
+        },
+        {
+          "中国银行前行长李礼辉：中国应积极争取全球数字金融话语权": "https://www.8btc.com/article/6684662"
+        },
+        {
+          "Libra团队正在试验新支付系统Fastpay：比Visa快7倍": "https://www.8btc.com/article/670809"
+        },
+        {
+          "IMF前首席经济学家：比特币像黄金，数字资产有可能改变现有金融体系": "https://www.8btc.com/writer/6818"
+        },
+        {
+          "观点 | Facebook能否凭借LIBRA再次腾飞？": "https://www.8btc.com/writer/6818"
+        },
+        {
+          "韦氏评级：公众对Libra正在失去兴趣": "https://www.8btc.com/tag/cbdc"
+        },
+        {
+          "Libra分析：局限性明显，短期内无法实现惠普金融": "https://www.8btc.com/tag/4158"
+        },
+        {
+          "巴比特专栏 | Libra战DCEP，外贸数字消费券是破解美元霸权的重要抓手": "https://www.8btc.com/tag/libra"
+        },
+        {
+          "“数字美元”VS“数字人民币”：关键还得看Libra？": "https://www.8btc.com/article/670809"
+        },
+        {
+          "Libra如何帮助Facebook赚更多钱？扎克伯格这样解释": "https://www.8btc.com/article/668029"
+        },
+        {
+          "Facebook将数字钱包Calibra更名为Novi，首批细节公布": "https://www.8btc.com/writer/622247"
+        },
+        {
+          "Calibra首席研究员：LibraBFT算法或存在安全与活性漏洞，Twins系统可尝试解决": "https://www.8btc.com/writer/622247"
+        },
+        {
+          "英国支付公司Checkout.com加入Libra 协会": "https://www.8btc.com/tag/visa"
+        },
+        {
+          "Libra协会副主席：Libra的核心是区块链，预计将于第四季度推出": "https://www.8btc.com/tag/libra"
+        },
+        {
+          "姚前：新型货币战争才刚刚开始": "https://www.8btc.com/tag/7222"
+        },
+        {
+          "美国CFTC前主席：美国应将中国央行数字货币和Libra视为考虑数字美元的充分理由": "https://www.8btc.com/article/668029"
+        },
+        {
+          "Libra又双叒叕要改了？": "https://www.8btc.com/article/639723"
+        },
+        {
+          "Facebook考虑重新设计Libra以获监管机构批准": "https://www.8btc.com/writer/164840"
+        },
+        {
+          "从比特币到Libra，一个金融人眼中的区块链 | 巴比特产业迎新大课": "https://www.8btc.com/writer/164840"
+        },
+        {
+          "加拿大电商Shopify的加入，是否会给Libra带来新希望？": "https://www.8btc.com/tag/bitcoin"
+        }
+      ]
+    },
+    {
+      "name": "瑞波",
+      "url": "https://www.8btc.com/p/Ripple",
+      "articles_num": 20,
+      "articles": [
+        {
+          "Ripple首席执行官：若SEC明确XRP的监管地位，将愿意与其和解": "https://www.8btc.com/article/6691380"
+        },
+        {
+          "律师：美SEC寻求延长提交封存关于豪威测试应用于XRP销售相关证据的动议": "https://www.8btc.com/article/6691380"
+        },
+        {
+          "资深交易员Peter Brandt：XRP是一种证券": "https://www.8btc.com/article/6689930"
+        },
+        {
+          "美国SEC和Ripple将就内部录音制作范围进行会面和协商": "https://www.8btc.com/article/6689930"
+        },
+        {
+          "美SEC承认在起诉Ripple之前未曾告知问询第三方XRP的法律地位": "https://www.8btc.com/article/6688314"
+        },
+        {
+          "Ripple前CTO Jed McCaleb 9月份暂未出售任何XRP": "https://www.8btc.com/article/6688314"
+        },
+        {
+          "美SEC拒绝对Ripple的争议质询提供进一步回应": "https://www.8btc.com/article/6684786"
+        },
+        {
+          "美SEC获得对Ripple Slack和电子邮件的访问权": "https://www.8btc.com/article/6684786"
+        },
+        {
+          "美国地方法官命令Ripple向SEC移交100万条Slack消息": "https://www.8btc.com/article/6684696"
+        },
+        {
+          "日本乐天钱包将于下周恢复XRP保证金交易": "https://www.8btc.com/article/6684696"
+        },
+        {
+          "SEC请求法院强制Ripple公开其员工会议的视频和录音": "https://www.8btc.com/article/6683942"
+        },
+        {
+          "法院批准Ripple和美SEC有关专家发现延期的动议": "https://www.8btc.com/article/6683942"
+        },
+        {
+          "Ripple律师：美国SEC“歪曲”了其前高级官员William Hinman的证词": "https://www.8btc.com/article/6683746"
+        },
+        {
+          "Ripple Labs前CTO Jed McCaleb称还剩余8.21亿XRP": "https://www.8btc.com/article/6683746"
+        },
+        {
+          "美国国会议员：SEC针对Ripple的诉讼将对加密货币行业产生重大影响": "https://www.8btc.com/article/6681108"
+        },
+        {
+          "韩国大型金融公司GME加入RippleNet以扩展从韩国到泰国的支付业务": "https://www.8btc.com/article/6681108"
+        },
+        {
+          "新加坡金融管理局批准Tranglo提供汇款和电子货币发行服务": "https://www.8btc.com/article/6680790"
+        },
+        {
+          "美国SEC要求Ripple提供进一步Slack信息，Ripple对此表示拒绝": "https://www.8btc.com/article/6680790"
+        },
+        {
+          "瑞波在日本首次实施ODL服务，旨在为该地区采用加密货币服务创造条件": "https://www.8btc.com/article/6680464"
+        },
+        {
+          "Ripple前CTO在过去的三周内卖出1.507亿XRP": "https://www.8btc.com/article/6680464"
+        }
+      ]
+    },
+    {
+      "name": "闪电网络",
+      "url": "https://www.8btc.com/p/lightning-network",
+      "articles_num": 20,
+      "articles": [
+        {
+          "闪电网络的缺环：一个去中心化的流动性市场": "https://www.8btc.com/article/6684646"
+        },
+        {
+          "闪电网络上的比特币价值首次超过1亿美元": "https://www.8btc.com/writer/564816"
+        },
+        {
+          "闪电网络客户端 Eclair 发布 0.5.0 大版本更新，新增集群模式和 Watchdog": "https://www.8btc.com/writer/564816"
+        },
+        {
+          "数据：比特币闪电网节点数量为14913个": "https://www.8btc.com/tag/lightning-network"
+        },
+        {
+          "Interlapse将收购比特币闪电网络公司LQwD": "https://www.8btc.com/article/6684646"
+        },
+        {
+          "闪电实验室负责人：Lightning Pool早期增长速度超出预期": "https://www.8btc.com/article/6680094"
+        },
+        {
+          "数据：比特币闪电网节点数量为14623个": "https://www.8btc.com/article/6680094"
+        },
+        {
+          "数据：比特币闪电网节点数量为14312个": "https://www.8btc.com/article/6578225"
+        },
+        {
+          "研发人员披露 2018 年 Bitcoin Core 高危漏洞 可导致黑客窃取资金": "https://www.8btc.com/article/6578225"
+        },
+        {
+          "数据：比特币闪电网节点数量为13715个": "https://www.8btc.com/article/674531"
+        },
+        {
+          "闪电网络客户端c-lightning发布0.9.0版本，支持暸望塔插件": "https://www.8btc.com/article/674531"
+        },
+        {
+          "闪电网络节点数量已达13203个": "https://www.8btc.com/article/672329"
+        },
+        {
+          "DAI目前持有比特币数量是闪电网络的五倍": "https://www.8btc.com/article/672329"
+        },
+        {
+          "闪电网络客户端Zap桌面端发布0.7.0版本": "https://www.8btc.com/article/671036"
+        },
+        {
+          "观点：包括闪电网络在内的调整将扩大比特币全球经济份额": "https://www.8btc.com/article/671036"
+        },
+        {
+          "报告：闪电网络节点分布不均衡，网络抗风险性趋弱": "https://www.8btc.com/article/669218"
+        },
+        {
+          "比特币技术周报丨闪电网络面临三大安全隐患，BTC的layer 2扩展有点难": "https://www.8btc.com/article/669218"
+        },
+        {
+          "图说：比特币能靠闪电网络爆发吗？": "https://www.8btc.com/article/664042"
+        },
+        {
+          "开发者Fiatjaf推出以太坊“中心化”版本Etleneum": "https://www.8btc.com/article/664042"
+        },
+        {
+          "科普 | 又快又便宜的 BTC 转账方式——闪电网络": "https://www.8btc.com/article/645616"
+        }
+      ]
+    },
+    {
+      "name": "Polkadot",
+      "url": "https://www.8btc.com/p/polkadot",
+      "articles_num": 20,
+      "articles": [
+        {
+          "Gavin Wood：深入研究XCM底层设计和执行模型": "https://www.8btc.com/article/6692962"
+        },
+        {
+          "科普 | 一文了解波卡的通货膨胀": "https://www.8btc.com/writer/580339"
+        },
+        {
+          "本周DOT将解锁314.15万枚，上周共质押352.24万枚": "https://www.8btc.com/writer/580339"
+        },
+        {
+          "Polkadot理事会通过新议案，旨在将DOT最低质押金额增加到120 DOT": "https://www.8btc.com/tag/polkadot"
+        },
+        {
+          "本周DOT将解锁416.29万枚，上周共质押1413.74万枚": "https://www.8btc.com/article/6692962"
+        },
+        {
+          "Moonbeam与流动性抵押协议Lido合作，为Polkadot生态系统提供流动性质押": "https://www.8btc.com/media/6689182"
+        },
+        {
+          "Cere Network获得3100万美元融资，Republic、Polygon领投": "https://www.8btc.com/writer/1023425"
+        },
+        {
+          "去中心化数据索引工具SubQuery宣布获得900万美元融资，DCG等领投": "https://www.8btc.com/writer/1023425"
+        },
+        {
+          "波卡联合创始人Gavin Wood：即将发布跨共识消息格式XCM": "https://www.8btc.com/tag/polkadot"
+        },
+        {
+          "Astar宣布启动3000万美元Astar/Shiden生态系统成长基金": "https://www.8btc.com/media/6689182"
+        },
+        {
+          "科普 | 波卡平行链插槽拍卖是什么，有什么潜在风险和收益？": "https://www.8btc.com/article/6688222"
+        },
+        {
+          "Subscan与去中心化数据索引工具SubQuery合作推出波卡生态的多签钱包工具": "https://www.8btc.com/article/6688222"
+        },
+        {
+          "Kusama第二批拍卖将于明日开始，已有13个项目开启Crowdloan": "https://www.8btc.com/article/6685874"
+        },
+        {
+          "波卡生态DApp平台Astar推出shiden-7版本，新增兼容MetaMask钱包": "https://www.8btc.com/article/6685874"
+        },
+        {
+          "Kusama即将进入第二轮拍卖，Polkadot的拍卖还有多远？": "https://www.8btc.com/article/6685176"
+        },
+        {
+          "波卡发布Kusama和平行链稳定报告：存在网络确定性停顿问题，但总体运行平稳": "https://www.8btc.com/article/6685176"
+        },
+        {
+          "波卡周报 | Polkadot 最低提名金额将增加到 80 DOT！": "https://www.8btc.com/article/6683986"
+        },
+        {
+          "Web3 基金会 Grant 资助项目达 300 个！": "https://www.8btc.com/article/6683986"
+        },
+        {
+          "摇滚乐队KISS主唱Gene Simmons：已“all in”比特币": "https://www.8btc.com/article/6683976"
+        },
+        {
+          "波卡生态跨链封装资产协议Knit Finance上线Polygon及以太坊测试网": "https://www.8btc.com/article/6683976"
+        }
+      ]
+    },
+    {
+      "name": "Telegram",
+      "url": "https://www.8btc.com/p/telegram",
+      "articles_num": 20,
+      "articles": [
+        {
+          "大批 “川粉” 涌入加密社交平台Telegram，已成美国下载量第二大应用程序": "https://www.8btc.com/article/6585411"
+        },
+        {
+          "俄罗斯正在调查英国一项涉嫌欺诈的Gram代币销售": "https://www.8btc.com/writer/6818"
+        },
+        {
+          "罚款1850万美元，返还12亿美元，Telegram与SEC和解": "https://www.8btc.com/writer/6818"
+        },
+        {
+          "社区重启TON，为了理想还是新一轮炒作？": "https://www.8btc.com/tag/trump"
+        },
+        {
+          "Telegram首席执行官向俄罗斯慈善项目捐赠10 BTC": "https://www.8btc.com/tag/telegram"
+        },
+        {
+          "TON已不再代表Telegram开放网络": "https://www.8btc.com/article/6585411"
+        },
+        {
+          "观点 | Telegram宣布停止开发区块链项目“TON”，投资者还能拿回投资款吗": "https://www.8btc.com/article/617407"
+        },
+        {
+          "大多数TON投资者选择退出以获得72％的退款": "https://www.8btc.com/writer/590183"
+        },
+        {
+          "TON终止的背后：中心化监管是否将成为去中心化发展的阻碍？": "https://www.8btc.com/writer/590183"
+        },
+        {
+          "观察 | TON之死": "https://www.8btc.com/tag/telegram"
+        },
+        {
+          "其实Telegram Open Network原本是可以启动的": "https://www.8btc.com/tag/ton"
+        },
+        {
+          "Telegram终止区块链项目TON和Gram": "https://www.8btc.com/article/617407"
+        },
+        {
+          "备受瞩目的区块链项目TON正式宣布终止，Telegram创始人亲述来龙去脉": "https://www.8btc.com/article/614403"
+        },
+        {
+          "Telegram创始人：TON是什么？它为什么结束？": "https://www.8btc.com/writer/38354"
+        },
+        {
+          "无疾而终！一文回顾Telegram区块链项目由生到死的891天": "https://www.8btc.com/writer/38354"
+        },
+        {
+          "Telegram的区块链操作系统TON OS将于明天在GitHub上开源": "https://www.8btc.com/tag/telegram"
+        },
+        {
+          "Kik欲借SAFT豁免，结局恐与Telegram相同": "https://www.8btc.com/tag/ton"
+        },
+        {
+          "史上最大ICO，17亿美金项目被美SEC和法院判处“死刑”": "https://www.8btc.com/article/614403"
+        },
+        {
+          "Telegram再遭重挫，纽约法院裁定其ICO违反美国证券法": "https://www.8btc.com/article/604712"
+        },
+        {
+          "Telegram称最近的裁决从“根本上”推翻了SEC禁令": "https://www.8btc.com/writer/582659"
+        }
+      ]
+    },
+    {
+      "name": "超级账本（hyperledger）",
+      "url": "https://www.8btc.com/p/hyperledger",
+      "articles_num": 20,
+      "articles": [
+        {
+          "一文了解DigiCert和Thales如何增强Hyperledger的网络安全性": "https://www.8btc.com/article/6691960"
+        },
+        {
+          "一文看懂Hyperledger和Interledger在未来国际支付系统中的作用": "https://www.8btc.com/writer/27420"
+        },
+        {
+          "Cardano开发公司将加入Hyperledger项目和W3C": "https://www.8btc.com/writer/27420"
+        },
+        {
+          "Hyperledger眼中的区块链大方向，互操作性项目Cactus打通整个技术体系": "https://www.8btc.com/tag/hyperledger-fabric"
+        },
+        {
+          "Hyperledger联合埃森哲及富士通推出区块链互操作性解决方案": "https://www.8btc.com/article/6691960"
+        },
+        {
+          "企业级以太坊软件客户端进入日本市场，日立集团与ConsenSys建立合作": "https://www.8btc.com/media/635948"
+        },
+        {
+          "世卫组织、IBM和微软联合开发区块链项目MiPasa，构建新冠肺炎感染人群热点图": "https://www.8btc.com/writer/570799"
+        },
+        {
+          "技术指南丨如何在HyperLedger Fabric上实现链下存储": "https://www.8btc.com/writer/570799"
+        },
+        {
+          "区块链创业公司EagleCheck推出简历真伪鉴别解决方案": "https://www.8btc.com/tag/hyperledger"
+        },
+        {
+          "2020年全球联盟链平台一览": "https://www.8btc.com/tag/interledger"
+        },
+        {
+          "超级账本Fabric 2.0版本正式发布，重要更新都在这了": "https://www.8btc.com/media/635948"
+        },
+        {
+          "超级账本执行董事：供应链管理和贸易金融是区块链落地两大方向": "https://www.8btc.com/article/598996"
+        },
+        {
+          "巴比特专访 | 超级账本Brian：百人规模企业不用区块链？这在未来难以想象": "https://www.8btc.com/writer/590183"
+        },
+        {
+          "区块链入门丨超级账本：全球最大的分布式开源项目及最知名联盟链项目": "https://www.8btc.com/writer/590183"
+        },
+        {
+          "科技巨头争抢的“超级账本”，到底是个什么组织？": "https://www.8btc.com/tag/hyperledger"
+        },
+        {
+          "在Fabric、 Quorum以及Corda之间实现跨链，超级账本的集成框架是这样的": "https://www.8btc.com/tag/Cardano"
+        },
+        {
+          "Hyperledger副总裁：对中国区块链市场的期望很高": "https://www.8btc.com/article/598996"
+        },
+        {
+          "一文了解超级账本DLT、库、开发工具有哪些，Hyperledger家族成员你认识几个？": "https://www.8btc.com/article/596681"
+        },
+        {
+          "超级账本被IBM控制了？委员会选举结果引发广泛担忧": "https://www.8btc.com/writer/33672"
+        },
+        {
+          "以太坊发展开启新方向？Hyperledger宣布接纳首个公有以太坊区块链项目Pantheon": "https://www.8btc.com/writer/33672"
+        }
+      ]
+    },
+    {
+      "name": "比原链（Bytom）",
+      "url": "https://www.8btc.com/p/bytom",
+      "articles_num": 20,
+      "articles": [
+        {
+          "Bytom2.0主网正式上线！2.0时代有你同行丨比原链项目周报（第206期）": "https://www.8btc.com/media/6676418"
+        },
+        {
+          "6月合伙人计划收益已发放丨比原链项目周报（第202期）": "https://www.8btc.com/writer/79740"
+        },
+        {
+          "Bytom2.0全球共识节点竞选正式开启": "https://www.8btc.com/writer/79740"
+        },
+        {
+          "社区开发者基于比原链完成HTLC Swap项目": "https://www.8btc.com/tag/bytom"
+        },
+        {
+          "比原链成功举办IEEE P3209 IKM工作组第三次线上会议": "https://www.8btc.com/tag/mov"
+        },
+        {
+          "MOV超导社区治理BAPP已上线，SUP持有者治理手册": "https://www.8btc.com/tag/bycoin"
+        },
+        {
+          "团队回复：关于SUP后续治理，社区最关心的11个问题": "https://www.8btc.com/media/6676418"
+        },
+        {
+          "Bytom加入AWS Partner Network，助力 MOV 全球化布局": "https://www.8btc.com/media/6664655"
+        },
+        {
+          "锁仓4.2亿！比原链发布延迟满足智能合约锁仓计划": "https://www.8btc.com/writer/79740"
+        },
+        {
+          "比原链研究院 | 一种基于MOV/OFMF框架的交叉跨链系统": "https://www.8btc.com/writer/79740"
+        },
+        {
+          "比原链：一种针对身份的私钥管理系统标准": "https://www.8btc.com/tag/bytom"
+        },
+        {
+          "解读比原团队的区块链技术专利": "https://www.8btc.com/media/6664655"
+        },
+        {
+          "隔壁L叔的MOV火了，小馒头老板却飘了？": "https://www.8btc.com/article/6652999"
+        },
+        {
+          "比原链基金会成为IEEE计算机协会区块链和分布式记账委员会成员单位，牵头IEEE区块链新标准提案": "https://www.8btc.com/writer/79740"
+        },
+        {
+          "比原链设立1亿MOV生态专项基金，赏金计划重磅发布": "https://www.8btc.com/writer/79740"
+        },
+        {
+          "社区观点 | 关于MOV巡查官制度的几点思考": "https://www.8btc.com/tag/bytom"
+        },
+        {
+          "乌镇回顾 | James：“MOV”比原链上的未来预言机": "https://www.8btc.com/article/6652999"
+        },
+        {
+          "乌镇比原专场活动大咖云集，共话区块链生态与应用": "https://www.8btc.com/article/6594025"
+        },
+        {
+          "比原在乌镇，等你来赴约": "https://www.8btc.com/writer/79740"
+        },
+        {
+          "比原链研究院 | 一种弱同步网络假设下的门限签名系统": "https://www.8btc.com/writer/79740"
+        }
+      ]
+    },
+    {
+      "name": "狗狗币",
+      "url": "https://www.8btc.com/p/dogecoin",
+      "articles_num": 20,
+      "articles": [
+        {
+          "The Giving Block与RenPSG合作为慈善机构提供加密货币捐赠解决方案": "https://www.8btc.com/article/6690638"
+        },
+        {
+          "马斯克：狗狗币费用需要下降才能被广泛地用于零售购物": "https://www.8btc.com/article/6690638"
+        },
+        {
+          "马斯克点赞AMC首席执行官关于接受狗狗币支付的推特投票": "https://www.8btc.com/article/6689724"
+        },
+        {
+          "环球航空旅行计划UATP与BitPay合作，接受加密货币支付": "https://www.8btc.com/article/6689724"
+        },
+        {
+          "加州大学分校男篮队后卫与社交代币平台Rally合作推出粉丝代币": "https://www.8btc.com/article/6689232"
+        },
+        {
+          "英国营销机构Absolute Digital Media宣布将接受BTC等加密货币": "https://www.8btc.com/article/6689232"
+        },
+        {
+          "Solana市值超越狗狗币，暂列第7": "https://www.8btc.com/article/6684802"
+        },
+        {
+          "V神回复Zhu Su：希望Doge能尽快转为PoS共识": "https://www.8btc.com/article/6684802"
+        },
+        {
+          "网球明星大坂直美：狗狗币激发了她对加密货币和NFT的兴趣": "https://www.8btc.com/article/6684792"
+        },
+        {
+          "原版“Doge”NFT的碎片化代币DOG将在SushiSwap MISO平台出售": "https://www.8btc.com/article/6684792"
+        },
+        {
+          "美国伊利诺伊州莱克县政治候选人Holly Kim接受加密货币捐款": "https://www.8btc.com/article/6683130"
+        },
+        {
+          "三箭资本首席执行官：狗狗币的品牌知名度是以太坊的四倍，更能吸引蓝领交易者的兴趣": "https://www.8btc.com/article/6683130"
+        },
+        {
+          "芝加哥动物收容所PAWS Chicago现已接受加密货币捐赠": "https://www.8btc.com/article/6681136"
+        },
+        {
+          "Robinhood：第二季度加密货币交易营收占比为41%，其中62%来自狗狗币": "https://www.8btc.com/article/6681136"
+        },
+        {
+          "新狗狗币基金会计划将总部设在列支敦士登": "https://www.8btc.com/article/6680250"
+        },
+        {
+          "Mark Cuban透露其仅拥有价值500美元的DOGE": "https://www.8btc.com/article/6680250"
+        },
+        {
+          "英超球队Watford F.C与加密博彩公司Stake.com建立合作，将在球衣上露出狗狗币标志": "https://www.8btc.com/article/6679866"
+        },
+        {
+          "Mark Cuban：将在小牛队夏季促销期间为使用狗狗币付款的人提供\"特殊价格\"": "https://www.8btc.com/article/6679866"
+        },
+        {
+          "美国前总统候选人Andrew Yang：加密货币是实现全民基本收入的一个途径": "https://www.8btc.com/article/6679808"
+        },
+        {
+          "因客户频繁要求，Chainalysis报告将开始纳入狗狗币": "https://www.8btc.com/article/6679808"
+        }
+      ]
+    },
+    {
+      "name": "比特大陆",
+      "url": "https://www.8btc.com/p/bitmain",
+      "articles_num": 20,
+      "articles": [
+        {
+          "媒体：比特大陆股东大会结束，和解协议将开始执行": "https://www.8btc.com/article/6580255"
+        },
+        {
+          "媒体：比特大陆大分拆启动，詹克团回归": "https://www.8btc.com/article/6580255"
+        },
+        {
+          "矿机竞购战升温，比特大陆S19系列提价20％": "https://www.8btc.com/article/6577815"
+        },
+        {
+          "外媒：来自主要制造商的最新比特币矿机售罄": "https://www.8btc.com/article/6577815"
+        },
+        {
+          "比特大陆范建伟：新疆内蒙或将很快出台最低用电量的限制要求": "https://www.8btc.com/article/6577367"
+        },
+        {
+          "比特大陆内斗大结局，和解然后拆分？": "https://www.8btc.com/article/6577367"
+        },
+        {
+          "比特大陆和Core Scientific合作于北美建立首个维修中心": "https://www.8btc.com/article/670111"
+        },
+        {
+          "专业律师解读：比特大陆公司控制权再生变，吴忌寒重新掌权，还会反转吗？": "https://www.8btc.com/article/670111"
+        },
+        {
+          "神马下一代矿机M50S或在年底发布 30J/T左右 继续使用三星8nm": "https://www.8btc.com/article/666559"
+        },
+        {
+          "詹克团提行政复议“还能变”？ 矿工求购蚂蚁矿机优惠券（比特大陆系列23）": "https://www.8btc.com/article/666559"
+        },
+        {
+          "比特大陆：北京比特已重新领取领取营业执照 将全面恢复正常工作秩序": "https://www.8btc.com/article/656399"
+        },
+        {
+          "北京比特大陆法人重回吴忌寒手中，后续走向解读": "https://www.8btc.com/writer/573179"
+        },
+        {
+          "北京比特大陆法人再次更换，由詹克团变回吴忌寒": "https://www.8btc.com/writer/573179"
+        },
+        {
+          "詹克团将召开新闻发布会，或发布新一代5nm芯片": "https://www.8btc.com/tag/bitmain"
+        },
+        {
+          "詹克团威胁取消员工期权，蚂蚁矿机海外多笔破亿订单": "https://www.8btc.com/tag/wujihan"
+        },
+        {
+          "比特大陆与其两家控股公司在天津自贸区成立新公司": "https://www.8btc.com/tag/7542"
+        },
+        {
+          "矿机大厂的动荡世界": "https://www.8btc.com/article/656399"
+        },
+        {
+          "詹克团卖楼，嘉楠或是买家之一？": "https://www.8btc.com/article/653040"
+        },
+        {
+          "吴忌寒卸任比特大陆全资子公司监事": "https://www.8btc.com/article/653040"
+        },
+        {
+          "比特大陆：取回正蓝旗矿场矿机系合法行为，部分媒体报道不实": "https://www.8btc.com/article/647927"
+        }
+      ]
+    },
+    {
+      "name": "比特币现金（BCH）",
+      "url": "https://www.8btc.com/p/bch",
+      "articles_num": 20,
+      "articles": [
+        {
+          "支付巨头PayPal正式支持英国用户交易BTC、BCH、ETH和LTC": "https://www.8btc.com/article/6687376"
+        },
+        {
+          "影院运营商AMC CEO：除BTC之外，计划接受ETH、LTC和BCH支付": "https://www.8btc.com/article/6687376"
+        },
+        {
+          "BCH硬分叉后，灰度BCH信托管理资产价值已下降160万美元": "https://www.8btc.com/article/6686796"
+        },
+        {
+          "灰度推出比特币现金和莱特币信托，二季度有7.51亿美元流入GBTC产品": "https://www.8btc.com/article/6686796"
+        },
+        {
+          "轮动行情开始？BCH有短线机会": "https://www.8btc.com/article/669221"
+        },
+        {
+          "行情分析丨比特币走持续震荡，BCH预备弯道超车": "https://www.8btc.com/article/669221"
+        },
+        {
+          "BCH的再次分叉和投资价值": "https://www.8btc.com/article/636424"
+        },
+        {
+          "杨海坡：比特币现金社区需要真正的领导者": "https://www.8btc.com/writer/622247"
+        },
+        {
+          "加密支付处理器BitPay已支持SegWit": "https://www.8btc.com/writer/622247"
+        },
+        {
+          "报告：算力存在伴随加密货币减半的风险": "https://www.8btc.com/tag/litecoin"
+        },
+        {
+          "比特币现金减半后，哈希率降低价格走势平稳": "https://www.8btc.com/tag/bch"
+        },
+        {
+          "减半和库存流量模型，你要的减半行情可能并不会如愿": "https://www.8btc.com/tag/6855"
+        },
+        {
+          "行情解析：减半频出，更多为后市预热，现货持仓不动": "https://www.8btc.com/article/636424"
+        },
+        {
+          "减半在即，一文尽览BCH与BSV那些年的恩怨纠葛": "https://www.8btc.com/media/633658"
+        },
+        {
+          "行情解析：太子发力，减产带动全局利好不断，坚定多": "https://www.8btc.com/writer/87522"
+        },
+        {
+          "有内味儿的BCH！据说它才是原汁原味的比特币？！": "https://www.8btc.com/writer/87522"
+        },
+        {
+          "报告：二月份澳大利亚商户加密货币贸易额达到7.4万美元": "https://www.8btc.com/tag/bch"
+        },
+        {
+          "Roger Ver：BCH可能会比现在涨500倍或1000倍": "https://www.8btc.com/media/633658"
+        },
+        {
+          "多个主流项目开发资金都面临“烧光”，BCH该不该征矿工税?": "https://www.8btc.com/media/632655"
+        },
+        {
+          "耗时两年！神秘矿工卷走隔离见证地址中误发的9000个BCH": "https://www.8btc.com/writer/604002"
+        }
+      ]
+    },
+    {
+      "name": "Cosmos",
+      "url": "https://www.8btc.com/p/cosmos",
+      "articles_num": 20,
+      "articles": [
+        {
+          "Astar发起构建Astar/Shiden&Cosmos跨链桥新提案": "https://www.8btc.com/article/6689308"
+        },
+        {
+          "Mirror Protocol发起上线蔚来、Cardano、Cosmos相关合成资产的治理投票": "https://www.8btc.com/article/6689308"
+        },
+        {
+          "Cosmos开发公司Tendermint已上线跨链门户Emeris测试版": "https://www.8btc.com/article/6677374"
+        },
+        {
+          "加密应用程序商店Emeris将于8月17日发布公测版本": "https://www.8btc.com/article/6677374"
+        },
+        {
+          "去中心化云计算项目Akash正式启动开发者资助计划，奖金高达10万美元": "https://www.8btc.com/article/6676053"
+        },
+        {
+          "Cosmos原生DEX GravityDEX开启测试网竞赛，即将上线主网": "https://www.8btc.com/article/6676053"
+        },
+        {
+          "Tendermint推出2000万美元风投基金，促进Cosmos发展": "https://www.8btc.com/article/6674433"
+        },
+        {
+          "Cosmos将举行Launch Party，首次演示IBC代币跨链传输": "https://www.8btc.com/article/6674433"
+        },
+        {
+          "Interchain基金会公布2020年Q4的主要财务数据和投资活动": "https://www.8btc.com/article/6670127"
+        },
+        {
+          "关于 Cosmos 基本面恶化的风险警示": "https://www.8btc.com/article/6670127"
+        },
+        {
+          "科普 | XTZ质押率是78%还是94%？原来ATOM流动性只剩下4%": "https://www.8btc.com/article/6620111"
+        },
+        {
+          "Cosmos一、二把手相继辞职：公司内部矛盾激化，离开是最好的解决办法": "https://www.8btc.com/article/6620111"
+        },
+        {
+          "那些创始人退出的区块链项目，后来都怎么样了？": "https://www.8btc.com/article/6614682"
+        },
+        {
+          "ATOM两日下跌9%，或受Cosmos创始人离职罗生门影响": "https://www.8btc.com/article/6614682"
+        },
+        {
+          "Cosmos 董事爆料：Jae Kwon卸任 CEO，其实是为了逃避责任": "https://www.8btc.com/article/6613734"
+        },
+        {
+          "Tendermint公司取消CEO角色，去中心化的Cosmos与virgo关系成谜": "https://www.8btc.com/article/6613734"
+        },
+        {
+          "透过Cosmos 23号议案，看PoS治理（上）": "https://www.8btc.com/article/6586980"
+        },
+        {
+          "科普 | Cosmos 不是什么？": "https://www.8btc.com/article/6586980"
+        },
+        {
+          "一文看懂跨链项目Cosmos第二次主网升级的意义": "https://www.8btc.com/article/591993"
+        },
+        {
+          "Cosmos升级遇故障，大量节点应对不及时恐引发扣币": "https://www.8btc.com/writer/594607"
+        }
+      ]
+    },
+    {
+      "name": "Algorand",
+      "url": "https://www.8btc.com/p/algorand",
+      "articles_num": 20,
+      "articles": [
+        {
+          "Algorand斥资1亿美元与无人机竞赛联盟DRL达成5年期的冠名赞助合作": "https://www.8btc.com/article/6685994"
+        },
+        {
+          "基于区块链的支付公司Wyre与Algorand达成合作": "https://www.8btc.com/article/6685994"
+        },
+        {
+          "天桥资本与NAX合作推出2.5亿美元基金UNLOX，将利用Algorand区块链将资产证券化": "https://www.8btc.com/article/6685988"
+        },
+        {
+          "哥伦比亚政府选择基于Algorand区块链的Vitalpass作为官方数字疫苗接种护照": "https://www.8btc.com/article/6685988"
+        },
+        {
+          "加密资产管理公司Valkyrie Investments推出第四支加密货币投资产品Dash信托": "https://www.8btc.com/article/6685468"
+        },
+        {
+          "数据：USDT已在8条公链发行，TRC版发行逾319亿美元居首位": "https://www.8btc.com/article/6685468"
+        },
+        {
+          "Algorand全球伙伴计划(3)：源自比利时的金融科技公司IntellectEU": "https://www.8btc.com/article/6684784"
+        },
+        {
+          "Algorand全球伙伴计划(2)：Applied Blockchain核心团队": "https://www.8btc.com/article/6684784"
+        },
+        {
+          "Algorand伙伴计划(1)：斩获壳牌石油投资的Applied Blockchain": "https://www.8btc.com/article/6670103"
+        },
+        {
+          "Algorand生态伙伴们(32)：人工智能与区块链服务商Mentat": "https://www.8btc.com/article/6670103"
+        },
+        {
+          "Algorand生态伙伴们(31)：航空供应链平台VeriTX之传奇团队": "https://www.8btc.com/article/6669587"
+        },
+        {
+          "Props核心团队(2)：首席技术官彼得·瓦茨": "https://www.8btc.com/article/6669587"
+        },
+        {
+          "Algorand顾问们(5)：低调的实力派印度学者维·瓦库塔纳坦": "https://www.8btc.com/media/676170"
+        },
+        {
+          "Algorand生态伙伴们：中国自主创新并控制入网权的BSN": "https://www.8btc.com/writer/389616"
+        },
+        {
+          "Algorand生态伙伴们(6)：国际棋联及服务商World Chess": "https://www.8btc.com/writer/389616"
+        },
+        {
+          "Algorand生态创业工坊(6)：E-货币项目Monerium之业务篇": "https://www.8btc.com/tag/algorand"
+        },
+        {
+          "Algorand生态创业工坊(5)：E-货币项目Monerium之团队篇": "https://www.8btc.com/media/676170"
+        },
+        {
+          "Algorand生态创业工坊(4)：空气监测项目PlanetWatch": "https://www.8btc.com/media/675332"
+        },
+        {
+          "Algorand生态创业工坊(3)：埃特纳资本": "https://www.8btc.com/writer/389616"
+        },
+        {
+          "Algorand生态伙伴们(3)：保险科技新锐Attestiv": "https://www.8btc.com/writer/389616"
+        }
+      ]
+    },
+    {
+      "name": "Chainlink",
+      "url": "https://www.8btc.com/p/chainlink",
+      "articles_num": 20,
+      "articles": [
+        {
+          "Fantom推出开源NFT市场Artion测试版": "https://www.8btc.com/article/6690700"
+        },
+        {
+          "合成资产协议Linear Finance已在BSC网络集成Chainlink预言机": "https://www.8btc.com/article/6690700"
+        },
+        {
+          "去中心化波动率衍生品平台Divergence集成Chainlink价格信息以结算二元期权": "https://www.8btc.com/article/6689826"
+        },
+        {
+          "Protofire获得Chainlink社区激励奖金，在Celo上集成Chainlink预言机": "https://www.8btc.com/article/6689826"
+        },
+        {
+          "Chainlink预言机推出链上注册表Feed Registry": "https://www.8btc.com/article/6687054"
+        },
+        {
+          "Chainlink参与Gitcoin第11轮Grants，以支持以太坊基础设施开发": "https://www.8btc.com/article/6687054"
+        },
+        {
+          "ETHGlobal将于9月17日至10月15日在线上举办ETHOnline峰会": "https://www.8btc.com/article/6681834"
+        },
+        {
+          "全聚合协议OpenOcean将集成Chainlink喂价": "https://www.8btc.com/article/6681834"
+        },
+        {
+          "Chainlink发布跨链互操作性协议，旨在实现去中心化跨链消息传递和通证转移": "https://www.8btc.com/article/6681490"
+        },
+        {
+          "区块链游戏Polypulsar在Polygon主网集成Chainlink VRF": "https://www.8btc.com/article/6681490"
+        },
+        {
+          "NFT管理平台Picipo将在Polygon网络上集成Chainlink VRF": "https://www.8btc.com/article/6680974"
+        },
+        {
+          "AC：已根据Synthetix SIP-120要求开发了两款易于集成的链上预言机": "https://www.8btc.com/article/6680974"
+        },
+        {
+          "美国前总统候选人Andrew Yang：加密货币是实现全民基本收入的一个途径": "https://www.8btc.com/article/6679928"
+        },
+        {
+          "Chainlink与Google Cloud达成合作，将天气和气候数据传输至智能合约": "https://www.8btc.com/article/6679928"
+        },
+        {
+          "Chainlink和Filecoin发起联合资助计划，以加速混合智能合约开发": "https://www.8btc.com/article/6679686"
+        },
+        {
+          "Coin Metrics将为Chainlink喂价提供其机构级参考利率数据": "https://www.8btc.com/article/6679686"
+        },
+        {
+          "数据：2021年Chainlink日均新增集成1.4个合作项目，集成速度翻倍": "https://www.8btc.com/article/6679216"
+        },
+        {
+          "加密返现电商平台StormX集成Chainlink喂价支持首次NFT销售": "https://www.8btc.com/article/6679216"
+        },
+        {
+          "LINK突破30美元，24H涨幅超10%": "https://www.8btc.com/article/6678684"
+        },
+        {
+          "LINK突破25美元，创历史新高": "https://www.8btc.com/article/6678684"
+        }
+      ]
+    },
+    {
+      "name": "CryptoPunks",
+      "url": "https://www.8btc.com/p/CryptoPunks",
+      "articles_num": 20,
+      "articles": [
+        {
+          "CryptoPunk #6728以149.99 ETH出售，价值逾42.7万美元": "https://www.8btc.com/article/6691180"
+        },
+        {
+          "数据：近1小时内有7个Cryptopunks NFT转售，地板价提升至99.5ETH": "https://www.8btc.com/article/6691180"
+        },
+        {
+          "数据：近24小时NFT交易量有所回升，CryptoPunks交易量达5485 ETH": "https://www.8btc.com/article/6686956"
+        },
+        {
+          "数据：Cryptopunks两小时内密集成交30多枚，最低成交价83.5 ETH": "https://www.8btc.com/article/6686956"
+        },
+        {
+          "Reddit创始人为其太太“小威”买入7枚风格像其的CryptoPunk": "https://www.8btc.com/article/6686888"
+        },
+        {
+          "知名演员余文乐收藏的CryptoPunk、BAYC等NFT将在佳士得进行拍卖": "https://www.8btc.com/article/6686888"
+        },
+        {
+          "美国R&B歌手Jason Derulo购买CryptoPunks以进入NFT领域": "https://www.8btc.com/article/6686820"
+        },
+        {
+          "NFT狂热时代：从炒作到新范式，有哪些挑战和期待？": "https://www.8btc.com/article/6686820"
+        },
+        {
+          "NFT市场OpenSea总交易量突破55亿美元，创历史新高": "https://www.8btc.com/article/6686798"
+        },
+        {
+          "浅谈加密朋克和加密猫：NFT收藏类的两种范式": "https://www.8btc.com/article/6686798"
+        },
+        {
+          "打造下一个百万美元的NFT需要注意什么？": "https://www.8btc.com/article/6686340"
+        },
+        {
+          "虚假Banksy NFT：是Pranksy为名监守自盗，还是黑客恶作剧": "https://www.8btc.com/article/6686340"
+        },
+        {
+          "DappRadar发布上周NFT榜单：前10售价均超150万美元": "https://www.8btc.com/article/6684318"
+        },
+        {
+          "数据：交易总额超1亿美元的NFT收藏品系列已达10个": "https://www.8btc.com/article/6684318"
+        },
+        {
+          "NFT市场OpenSea总交易额突破40亿美元，创新高": "https://www.8btc.com/article/6683652"
+        },
+        {
+          "数据：CryptoPunks 24小时销售额达1.43亿美元，地板价升至143 ETH": "https://www.8btc.com/writer/394046"
+        },
+        {
+          "CryptoPunk 8888以888.88 ETH的价格出售，价值近287万美元": "https://www.8btc.com/writer/394046"
+        },
+        {
+          "数据：CryptoPunks NFT地板价已升至119 ETH": "https://www.8btc.com/tag/NFT"
+        },
+        {
+          "数据：CryptoPunks总交易额突破10亿美元，创新高": "https://www.8btc.com/tag/CryptoPunks"
+        },
+        {
+          "数据：CryptoPunks NFT地板价升至99.99 ETH": "https://www.8btc.com/tag/Loot"
+        }
+      ]
+    },
+    {
+      "name": "Blockstream",
+      "url": "https://www.8btc.com/p/blockstream",
+      "articles_num": 20,
+      "articles": [
+        {
+          "观点：机构投资者不会以特定价格购买BTC，而是以美元购买一定数量": "https://www.8btc.com/article/6582430"
+        },
+        {
+          "Blockstream 研究人员发表基于 Schnorr 的 MuSig2 论文": "https://www.8btc.com/article/6582430"
+        },
+        {
+          "Blockstream首席执行官Adam Back提示风险，称不法者正在冒充自己行骗": "https://www.8btc.com/article/660115"
+        },
+        {
+          "委内瑞拉部署首个比特币卫星节点": "https://www.8btc.com/article/660115"
+        },
+        {
+          "隐私基础设施Nym将支持比特币奖励节点运营商": "https://www.8btc.com/article/653775"
+        },
+        {
+          "Blockstream首席战略官：并没有人在故意攻击比特币核心开发者": "https://www.8btc.com/article/653775"
+        },
+        {
+          "Blockstream已开发Schnorr多签算法MuSig-DN，可防御因确定性随机数导致的密钥泄露攻击": "https://www.8btc.com/article/651054"
+        },
+        {
+          "Blockstream首席执行官：PoS机制存在根本性问题 PoW优于PoS": "https://www.8btc.com/article/651054"
+        },
+        {
+          "Ripple CTO列举XRP的创新举措以回击Adam Back": "https://www.8btc.com/article/645918"
+        },
+        {
+          "BM回击Adam Back：不应将自己与其他人归为一类": "https://www.8btc.com/article/645918"
+        },
+        {
+          "Vitalik回击Adam Back ：以太坊正在崛起 历史潮流不会使最大化主义者受益": "https://www.8btc.com/article/644623"
+        },
+        {
+          "Blockstream首席执行官抨击以太坊、Ripple和庞氏骗局没什么两样": "https://www.8btc.com/article/644623"
+        },
+        {
+          "区块链游戏Infinite Fleet通过STO筹集310万美元": "https://www.8btc.com/article/643423"
+        },
+        {
+          "Blockstream首席战略官：无法应对价格波动的人不配拥有比特币": "https://www.8btc.com/article/643423"
+        },
+        {
+          "Liquid Network联盟新增八名成员": "https://www.8btc.com/article/639282"
+        },
+        {
+          "Blockstream首席战略官：10万美元价格对比特币来说是保守的": "https://www.8btc.com/article/639282"
+        },
+        {
+          "Blockstream推出旨在打击诈骗活动的数据库": "https://www.8btc.com/article/632483"
+        },
+        {
+          "Blockstream CEO：随着需求和采用增长，比特币涨到10万美元并不是梦": "https://www.8btc.com/article/632483"
+        },
+        {
+          "昨晚1亿枚XRP从Ripple托管钱包转入Ripple，Whale Alert遭假冒推特账号嘲讽": "https://www.8btc.com/article/631931"
+        },
+        {
+          "闪电网络客户端c-lightning发布0.8.2版本，移除0.16 BTC付款限额": "https://www.8btc.com/article/631931"
+        }
+      ]
+    },
+    {
+      "name": "卡尔达诺",
+      "url": "https://www.8btc.com/p/Cardano",
+      "articles_num": 20,
+      "articles": [
+        {
+          "Cardano创始公司EMURGO将投资1亿美元促进Cardano生态发展": "https://www.8btc.com/article/6691446"
+        },
+        {
+          "Cardano创始人：没有进军印度市场的原因是印度加密货币监管缺乏明确性": "https://www.8btc.com/article/6691446"
+        },
+        {
+          "区块链初创公司dcSpark推出基于Cardano的NFT碎片化协议Fracada": "https://www.8btc.com/article/6690786"
+        },
+        {
+          "卡尔达诺创始人：暂时无法确定未来是否会和亚马逊合作": "https://www.8btc.com/article/6690786"
+        },
+        {
+          "Cardano创始人坚决反对“ADA销毁”提案": "https://www.8btc.com/article/6690274"
+        },
+        {
+          "Cardano创始人：Cardano新功能应被称为“可编程验证器”而非“智能合约”": "https://www.8btc.com/article/6690274"
+        },
+        {
+          "Cardano创始人发出欺诈提醒称其没有领英和Instagram账户": "https://www.8btc.com/article/6689896"
+        },
+        {
+          "Cardano自Alonzo升级后智能合约部署数量已超2500个": "https://www.8btc.com/article/6689896"
+        },
+        {
+          "订阅支付应用Revuto推出200万美元基金促进Cardano生态项目发展": "https://www.8btc.com/article/6688364"
+        },
+        {
+          "Cardano推出Daedalus钱包4.3.1版本": "https://www.8btc.com/article/6688364"
+        },
+        {
+          "英国营销机构Absolute Digital Media宣布将接受BTC等加密货币": "https://www.8btc.com/article/6688140"
+        },
+        {
+          "Cardano创始人：Alonzo升级前出现大量FUD是因为不理解或感受到了威胁": "https://www.8btc.com/article/6688140"
+        },
+        {
+          "数据：64%的Cardano质押池为Alonzo升级做好准备": "https://www.8btc.com/article/6687712"
+        },
+        {
+          "卡尔达诺创始人：阿富汗塔利班未来可能也会逐步接受加密货币": "https://www.8btc.com/article/6687712"
+        },
+        {
+          "Cardano创始人Charles Hoskinson发推称赞Solana": "https://www.8btc.com/article/6687702"
+        },
+        {
+          "Cardano基金会与全球黑客社区HackerOne达成合作，启动漏洞赏金计划": "https://www.8btc.com/article/6687702"
+        },
+        {
+          "Cardano计划于下周在测试网发布ERC-20转换器": "https://www.8btc.com/article/6685366"
+        },
+        {
+          "Cardano已进入在主网激活智能合约功能前的最后阶段": "https://www.8btc.com/article/6685366"
+        },
+        {
+          "Cardano 产品交付负责人：Cardano Alonzo 硬分叉最终测试网将于9月1日启动": "https://www.8btc.com/article/6684642"
+        },
+        {
+          "侧链项目Milkomeda将允许与EVM兼容的智能合约在Cardano主网上执行": "https://www.8btc.com/article/6684642"
+        }
+      ]
+    },
+    {
+      "name": "Polygon",
+      "url": "https://www.8btc.com/p/MaticNetwork",
+      "articles_num": 20,
+      "articles": [
+        {
+          "互操作性协议Connext宣布已在主网上线其通用的跨链交易协议NXTP": "https://www.8btc.com/article/6692160"
+        },
+        {
+          "数字艺术市场beyond mars art在Polygon上发布": "https://www.8btc.com/article/6692160"
+        },
+        {
+          "区块链游戏平台GAMEE将在Polygon上部署Arc8电竞Play-to-Earn平台": "https://www.8btc.com/article/6690878"
+        },
+        {
+          "Crust Network宣布为Polygon提供分布式存储解决方案": "https://www.8btc.com/article/6690878"
+        },
+        {
+          "加密风投公司VYSYN Ventures推出3000万美元基金，将支持Polygon上的游戏项目": "https://www.8btc.com/article/6690002"
+        },
+        {
+          "跨链通信协议Optics v1智能合约已部署至Celo、以太坊和Polygon": "https://www.8btc.com/article/6690002"
+        },
+        {
+          "安永宣布与以太坊扩展解决方案的Polygon协议和框架集成": "https://www.8btc.com/article/6689260"
+        },
+        {
+          "OpenSea八月Polygon链上交易额达到5170万，创历史新高": "https://www.8btc.com/article/6689260"
+        },
+        {
+          "Loot创始人：将为Polygon上的dungeon做概念证明PoC工作": "https://www.8btc.com/article/6688094"
+        },
+        {
+          "Polygon与元宇宙游戏开发公司Decentral Games合作，旨在推动Play-to-Earn游戏发展": "https://www.8btc.com/article/6688094"
+        },
+        {
+          "Polygon Hermez：用户现可使用官方代币兑换App将HEZ换成MATIC": "https://www.8btc.com/article/6685788"
+        },
+        {
+          "NFT赛马项目DeRace将集成Polygon": "https://www.8btc.com/article/6685788"
+        },
+        {
+          "多人竞技NFT游戏Snook完成240万美元私募融资，DAO Maker等参投": "https://www.8btc.com/article/6685778"
+        },
+        {
+          "NFT和游戏平台GamyFi在Polygon上发布NFT Battle Royale V2": "https://www.8btc.com/article/6685778"
+        },
+        {
+          "Project Ark与乐事品牌合作，在Polygon上推出ImpactNFT": "https://www.8btc.com/article/6685750"
+        },
+        {
+          "MakerDAO新增支持MATIC作为Dai抵押品": "https://www.8btc.com/article/6685750"
+        },
+        {
+          "Celer推出的跨链支付网络cBridge宣布支持Optimism和Arbitrum": "https://www.8btc.com/article/6685162"
+        },
+        {
+          "O3Labs：O3 Swap Polygon跨链转移功能已恢复": "https://www.8btc.com/article/6685162"
+        },
+        {
+          "Polygon联合创始人：“以太坊杀手”不得不向以太坊的网络效应低头": "https://www.8btc.com/article/6683694"
+        },
+        {
+          "YFI创始人AC：Fantom将向使用过Polygon等6个跨链桥的用户发送FTM代币": "https://www.8btc.com/article/6683694"
+        }
+      ]
+    },
+    {
+      "name": "恒星币",
+      "url": "https://www.8btc.com/p/stellar",
+      "articles_num": 20,
+      "articles": [
+        {
+          "巨量销毁导致币价飙升，恒星币到底想做什么": "https://www.8btc.com/media/508106"
+        },
+        {
+          "恒星币基金会销毁550亿XLM，币价应声上涨24%": "https://www.8btc.com/writer/91068"
+        },
+        {
+          "撒钱啦！恒星（Stellar）联合Keybase空投1.2亿美元的XLM，每月坐等收钱即可": "https://www.8btc.com/writer/91068"
+        },
+        {
+          "恒星（Stellar）吞并区块链明星企业Chain，涉及资金接近2亿美元": "https://www.8btc.com/tag/stellar"
+        },
+        {
+          "支付处理商 Stripe将停止对比特币的支持，或启用恒星（ Stellar）网络": "https://www.8btc.com/media/508106"
+        },
+        {
+          "黑客攻击：价值40万美元恒星币被盗，主机供应商或有责任": "https://www.8btc.com/article/507620"
+        },
+        {
+          "价值40万美金恒星币被盗": "https://www.8btc.com/writer/27420"
+        },
+        {
+          "恒星（Stellar）将赠送160亿代币，比特币持有者可免费申领": "https://www.8btc.com/writer/27420"
+        },
+        {
+          "乐视押注恒星（Stellar）分布式账本，跨境支付应用或首先落地": "https://www.8btc.com/tag/stellar"
+        },
+        {
+          "大手笔！德勤表示已经与5家区块链公司合作开发了20种区块链原型": "https://www.8btc.com/article/507620"
+        },
+        {
+          "恒星币联合创始人出席Sibos会议": "https://www.8btc.com/article/478440"
+        },
+        {
+          "恒星币的多重签名和简要合约": "https://www.8btc.com/writer/33672"
+        },
+        {
+          "恒星币网络升级在即": "https://www.8btc.com/writer/33672"
+        },
+        {
+          "Stellar vs. Ripple: 谁将赢得协议之战？": "https://www.8btc.com/tag/stellar"
+        },
+        {
+          "恒星币：把160亿美元还给世界上最贫困的人们": "https://www.8btc.com/tag/keybase"
+        },
+        {
+          "恒星共识协议发布！": "https://www.8btc.com/article/478440"
+        },
+        {
+          "恒星(Stellar)：唤醒所有沉睡的经济巨人": "https://www.8btc.com/article/270456"
+        },
+        {
+          "恒星基金会的Joyce Kim谈恒星币的启动、分叉以及未来": "https://www.8btc.com/writer/8305"
+        },
+        {
+          "研究表明Ripple/Stellar仅在有限的情况下是安全的": "https://www.8btc.com/writer/8305"
+        },
+        {
+          "恒星币，瑞波币的复制品，还是又一个支付系统创新？": "https://www.8btc.com/tag/chain"
+        }
+      ]
+    },
+    {
+      "name": "莱特币",
+      "url": "https://www.8btc.com/p/litecoin",
+      "articles_num": 20,
+      "articles": [
+        {
+          "支付巨头PayPal正式支持英国用户交易BTC、BCH、ETH和LTC": "https://www.8btc.com/article/6687376"
+        },
+        {
+          "影院运营商AMC CEO：除BTC之外，计划接受ETH、LTC和BCH支付": "https://www.8btc.com/article/6687376"
+        },
+        {
+          "堪称史上最大“假消息拉盘”，莱特币与沃尔玛的“乌龙”大戏让整个行业背锅": "https://www.8btc.com/article/6686796"
+        },
+        {
+          "CNBC：沃尔玛发言人证实此前关于接受莱特币的新闻稿为虚假消息": "https://www.8btc.com/article/6686796"
+        },
+        {
+          "环球航空旅行计划UATP与BitPay合作，接受加密货币支付": "https://www.8btc.com/article/6685520"
+        },
+        {
+          "日本乐天钱包将于下周恢复XRP保证金交易": "https://www.8btc.com/writer/33672"
+        },
+        {
+          "美国伊利诺伊州莱克县政治候选人Holly Kim接受加密货币捐款": "https://www.8btc.com/writer/33672"
+        },
+        {
+          "数据：灰度目前管理着价值100亿美元的以太坊": "https://www.8btc.com/tag/litecoin"
+        },
+        {
+          "伦敦金融服务公司ETC Group发布加密季报：比特币年化营收运转率达29.86亿美元": "https://www.8btc.com/article/6685520"
+        },
+        {
+          "零售巨头Newegg接受LTC付款": "https://www.8btc.com/article/6685524"
+        },
+        {
+          "数据：灰度增持2.12万枚LTC": "https://www.8btc.com/article/6685524"
+        },
+        {
+          "灰度推出比特币现金和莱特币信托，二季度有7.51亿美元流入GBTC产品": "https://www.8btc.com/article/6684802"
+        },
+        {
+          "BlockCard正在推出首张莱特币Visa借记卡": "https://www.8btc.com/article/6684802"
+        },
+        {
+          "因虚拟币支付密码错误无法转移资金，用户起诉相关网站遭驳回": "https://www.8btc.com/article/6680464"
+        },
+        {
+          "做MimbleWimble，莱特币是认真的！基金会计划募集7.2万美元资助开发者": "https://www.8btc.com/article/6680464"
+        },
+        {
+          "江卓尔：减半牛市会不会来，会怎么来？": "https://www.8btc.com/article/6677894"
+        },
+        {
+          "LTC基金会第二季度收到数十万美元捐款，或全部来自李启威": "https://www.8btc.com/article/6677894"
+        },
+        {
+          "【链周刊】第258期：中国央行数字货币“渐入佳境”；莱特币成功减半": "https://www.8btc.com/article/6674861"
+        },
+        {
+          "【莱特币减半来了】专题：莱特币喜迎减半，能否再创新高？": "https://www.8btc.com/article/6674861"
+        },
+        {
+          "LTC创新高，回调需求大": "https://www.8btc.com/article/6673773"
+        }
+      ]
+    },
+    {
+      "name": "侧链(sidechain)",
+      "url": "https://www.8btc.com/p/sidechain",
+      "articles_num": 20,
+      "articles": [
+        {
+          "aelf主网部署首个侧链“共享侧链”多链结构正式启动运行": "https://www.8btc.com/article/6579720"
+        },
+        {
+          "观点 | 如何理解 “侧链”？": "https://www.8btc.com/article/6579720"
+        },
+        {
+          "以太坊扩容方案 Arbitrum Rollup 测试网完成重大更新": "https://www.8btc.com/article/666820"
+        },
+        {
+          "隐私基础设施Nym将支持比特币奖励节点运营商": "https://www.8btc.com/writer/596522"
+        },
+        {
+          "比特币侧链RSK将集成Chainlink预言机": "https://www.8btc.com/writer/596522"
+        },
+        {
+          "因以太坊费用攀升 BitGo欲重为WBTC建立以太坊侧链": "https://www.8btc.com/tag/sidechain"
+        },
+        {
+          "Liquid Network联盟新增八名成员": "https://www.8btc.com/tag/ethereum"
+        },
+        {
+          "因网络拥堵及交易费过高，区块链初创公司Sky Mavis计划构建以太坊侧链Ronin": "https://www.8btc.com/article/666820"
+        },
+        {
+          "以太坊侧链扩容方案Matic Network或在6月29日前开放Staking功能": "https://www.8btc.com/article/656328"
+        },
+        {
+          "门罗币二层协议Tari发布测试网和移动钱包Tari Aurora": "https://www.8btc.com/article/656328"
+        },
+        {
+          "基于Optimistic Rollup的以太坊侧链Fuel已上线公开测试网": "https://www.8btc.com/article/645918"
+        },
+        {
+          "Blockstream推出Liquid网络数据统计网站": "https://www.8btc.com/article/645918"
+        },
+        {
+          "比特币技术先驱：从长远来看，比特币侧链将削弱山寨币的影响力": "https://www.8btc.com/article/641968"
+        },
+        {
+          "Blockstream CEO Adam Back：比特币侧链可能摧毁竞争币": "https://www.8btc.com/article/641968"
+        },
+        {
+          "日本社交媒体巨头Line发布虚拟货币LINK白皮书v 2.0版": "https://www.8btc.com/article/639975"
+        },
+        {
+          "Vitalik：如何区分侧链、Plasma和分片？": "https://www.8btc.com/article/639975"
+        },
+        {
+          "Liquid接入闪电网络，比特币侧链功能越来越强": "https://www.8btc.com/article/629096"
+        },
+        {
+          "Vitalik ：侧链 VS Plasma VS 分片，区块链扩展方案优劣对比": "https://www.8btc.com/article/629096"
+        },
+        {
+          "2019杭州区块链周 | 有了跨链，区块链能变得更好吗？": "https://www.8btc.com/article/616524"
+        },
+        {
+          "BM：我喜欢有KYC的侧链，因为其填补了一个商机": "https://www.8btc.com/article/616524"
+        }
+      ]
+    },
+    {
+      "name": "OpenBazaar",
+      "url": "https://www.8btc.com/p/openbazaar",
+      "articles_num": 20,
+      "articles": [
+        {
+          "bitcoiner的集体回忆OpenBazaar或将关闭，10万美元能“救它一命”": "https://www.8btc.com/article/651310"
+        },
+        {
+          "Openbazaar系列 | Openbazaar开设店铺教程": "https://www.8btc.com/writer/38354"
+        },
+        {
+          "Openbazaar系列 | 如何在Openbazaar里购物": "https://www.8btc.com/writer/38354"
+        },
+        {
+          "OpenBazaar 2.1正式发布，支持BCH和Zcash付款方式": "https://www.8btc.com/tag/bitcoin"
+        },
+        {
+          "去中心化比特币市场OpenBazaar发布2.0 Beta版本，整合洋葱网络实现匿名访问": "https://www.8btc.com/tag/openbazaar"
+        },
+        {
+          "OpenBazaar再获300万美元融资，立志打造自由公开的交易市场": "https://www.8btc.com/article/651310"
+        },
+        {
+          "比特币黑色星期五即将开始，准备好剁手了吗？": "https://www.8btc.com/media/542625"
+        },
+        {
+          "OpenBazaar提供丝绸之路无法带来的去中心化自由贸易平台，绝不会步其后尘": "https://www.8btc.com/writer/645615"
+        },
+        {
+          "OpenBazaar 2.0 测试版成功连接Tor网络": "https://www.8btc.com/writer/645615"
+        },
+        {
+          "OpenBazaar不是下一个丝绸之路，而是一个无政府主义的eBay": "https://www.8btc.com/tag/openbazaar"
+        },
+        {
+          "OpenBazaar 2.0 : 比特币自由市场的主流之路": "https://www.8btc.com/media/542625"
+        },
+        {
+          "OpenBazaar快速增长，获得众多首创突破": "https://www.8btc.com/media/512189"
+        },
+        {
+          "OpenBazaar的宏伟蓝图": "https://www.8btc.com/writer/645615"
+        },
+        {
+          "OpenBazaar发布发展路线图，计划整合Tor网络以及开发移动APP": "https://www.8btc.com/writer/645615"
+        },
+        {
+          "在OpenBazaar市场用不到10美元比特币就能买到的商品": "https://www.8btc.com/tag/openbazaar"
+        },
+        {
+          "OpenBazaar引领群雄获得2016年区块链大奖3项提名": "https://www.8btc.com/media/512189"
+        },
+        {
+          "OpenBazaar整合星际文件系统（IPFS），运行商店无需再24小时开机": "https://www.8btc.com/article/158062"
+        },
+        {
+          "OpenBazaar网络首现毒品清单，如何避免“走暗网市场老路”已成关键": "https://www.8btc.com/article/158062"
+        },
+        {
+          "比特币迎来里程碑，去中心化市场OpenBazaar 正式上线": "https://www.8btc.com/article/140473"
+        },
+        {
+          "去中心化市场OpenBazaar的‘圈地大战’开始了": "https://www.8btc.com/writer/33672"
+        }
+      ]
+    },
+    {
+      "name": "本体",
+      "url": "https://www.8btc.com/p/ontology",
+      "articles_num": 7,
+      "articles": [
+        {
+          "本体已完成EVM兼容开发，以太坊账户互通体系测试完成20%": "https://www.8btc.com/article/6667745"
+        },
+        {
+          "技术视点 | Python智能合约教程之原生合约调用": "https://www.8btc.com/article/6667745"
+        },
+        {
+          "技术指南 | 手把手教你Wasm合约开发：（C++篇）": "https://www.8btc.com/media/481887"
+        },
+        {
+          "技术视点 | 虚拟机中引用性动态语言对象模型思考": "https://www.8btc.com/writer/578478"
+        },
+        {
+          "技术指南 | 手把手教你Wasm合约开发": "https://www.8btc.com/writer/578478"
+        },
+        {
+          "3分钟速读大会之跨链丨2018全球区块链（杭州）高峰论坛": "https://www.8btc.com/tag/ontology"
+        },
+        {
+          "融合分布式信任的新一代基础性公有链 “本体网络（ONT）”预览发布": "https://www.8btc.com/tag/python"
+        }
+      ]
+    },
+    {
+      "name": "BitPay",
+      "url": "https://www.8btc.com/p/bitpay",
+      "articles_num": 20,
+      "articles": [
+        {
+          "加密支付服务提供商Bitpay已更新钱包并集成Google Pay": "https://www.8btc.com/article/6674101"
+        },
+        {
+          "BitPay和Travala合作推出礼品卡 支持30多种代币": "https://www.8btc.com/article/6674101"
+        },
+        {
+          "美国国会议员Darren Soto将在连任竞选中接受加密货币捐赠": "https://www.8btc.com/article/671033"
+        },
+        {
+          "加密支付处理器BitPay已支持SegWit": "https://www.8btc.com/article/671033"
+        },
+        {
+          "Ripple首席执行官：新开放支付联盟将消除银行，比特币和加密市场障碍": "https://www.8btc.com/article/645846"
+        },
+        {
+          "荷兰红十字会接受比特币捐款以抗击新冠病毒": "https://www.8btc.com/article/645846"
+        },
+        {
+          "BitPay将支持使用XRP购买可在连锁零售商和餐厅消费礼品卡": "https://www.8btc.com/article/617037"
+        },
+        {
+          "支付行业资深人士Bill Zielke加入BitPay担任首席营销官": "https://www.8btc.com/article/617037"
+        },
+        {
+          "火箭队老板成比特币头号粉丝，旗下豪车经销商接受BTC、BCH支付": "https://www.8btc.com/article/612037"
+        },
+        {
+          "Bitpay完成4000万美元B轮融资": "https://www.8btc.com/article/612037"
+        },
+        {
+          "Bitpay力挺Segwit2x，矿工与Core的对决再次升温": "https://www.8btc.com/article/569506"
+        },
+        {
+          "一夜之间惹众怒，Bitpay到底干了什么？": "https://www.8btc.com/article/569506"
+        },
+        {
+          "BitPay推出比特币Visa预付卡，可在131个国家使用": "https://www.8btc.com/article/548139"
+        },
+        {
+          "BitPay与印度Coinsecure合作为商家提供比特币支付服务，抢夺10亿中产阶级消费者": "https://www.8btc.com/article/548139"
+        },
+        {
+          "WB21成为第一家接受比特币存款的数字银行，BitPay为其提供技术支持": "https://www.8btc.com/article/496360"
+        },
+        {
+          "德国t3n公司将启用PEY的比特币薪资服务，员工可免税数百元": "https://www.8btc.com/article/496360"
+        },
+        {
+          "BitPay宣布与区块链服务供应商Bloq进行合作，为了提供更好的服务和新的功能": "https://www.8btc.com/article/268611"
+        },
+        {
+          "贵金属销售商JMBullion整合比特币支付，比特币下单优惠4%": "https://www.8btc.com/writer/8305"
+        },
+        {
+          "BitPay首席执行官：工作量证明机制就是最好的共识机制": "https://www.8btc.com/writer/8305"
+        },
+        {
+          "BitPay再下一城，著名游戏平台Steam或将接受比特币支付": "https://www.8btc.com/tag/bitcoin"
+        }
+      ]
+    },
+    {
+      "name": "Kusama",
+      "url": "https://www.8btc.com/p/kusama",
+      "articles_num": 20,
+      "articles": [
+        {
+          "跨链交易协议Anyswap与Moonriver集成，已部署18种资产": "https://www.8btc.com/article/6690320"
+        },
+        {
+          "波卡生态跨链流动性协议Basilisk赢得Kusama上第八个平行链插槽": "https://www.8btc.com/article/6690320"
+        },
+        {
+          "Altair和RMRK达成合作，为Kusama Auctions推出限量版NFT": "https://www.8btc.com/article/6689402"
+        },
+        {
+          "波卡隐私保护项目Manta Network先行网Calamari赢得Kusama第七次平行链插槽竞拍": "https://www.8btc.com/article/6689402"
+        },
+        {
+          "KILT在赢得Kusama第六个平行链插槽后启动主网": "https://www.8btc.com/article/6688326"
+        },
+        {
+          "Kusama正式开启第七次插槽拍卖": "https://www.8btc.com/article/6688326"
+        },
+        {
+          "开源区块链协议KILT Protocol赢得Kusama第六个平行链插槽竞拍": "https://www.8btc.com/article/6686470"
+        },
+        {
+          "去中心化数据索引工具SubQuery宣布获得900万美元融资，DCG等领投": "https://www.8btc.com/article/6686470"
+        },
+        {
+          "波卡先行网络Kusama开启第6次平行链拍卖，将持续到9月8日": "https://www.8btc.com/article/6683318"
+        },
+        {
+          "Kusama第二批拍卖将于明日开始，已有13个项目开启Crowdloan": "https://www.8btc.com/article/6683318"
+        },
+        {
+          "Astar先行网Shiden Network上线代币转账功能": "https://www.8btc.com/article/6683296"
+        },
+        {
+          "Litentry推出元宇宙身份应用My Crypto Profile以关联元宇宙和社交网络身份": "https://www.8btc.com/article/6683296"
+        },
+        {
+          "Kusama即将进入第二轮拍卖，Polkadot的拍卖还有多远？": "https://www.8btc.com/article/6683226"
+        },
+        {
+          "波卡先行网络Kusama将在未来几周内启动第二轮五次平行链插槽拍卖": "https://www.8btc.com/article/6683226"
+        },
+        {
+          "加拿大公共艺术展览组织Vancouver Biennale将推出以Kusama为原型的数字艺术AR装置": "https://www.8btc.com/article/6683212"
+        },
+        {
+          "Kusama平行链Moonriver现已启动第三阶段部署": "https://www.8btc.com/article/6683212"
+        },
+        {
+          "波卡先行网络Kusama：理事会通过“允许创建无许可资产”的议案331，社区正进行公投": "https://www.8btc.com/article/6680032"
+        },
+        {
+          "数据：Kusama第五轮卡槽拍卖已锁定超30万KSM": "https://www.8btc.com/article/6680032"
+        },
+        {
+          "数据：第五轮Kusama卡槽拍卖众筹已锁定20.81万KSM": "https://www.8btc.com/article/6679626"
+        },
+        {
+          "Kusama第五轮卡槽拍卖已锁定约18.26万KSM": "https://www.8btc.com/article/6679626"
+        }
+      ]
+    },
+    {
+      "name": "Solana",
+      "url": "https://www.8btc.com/p/Solana",
+      "articles_num": 20,
+      "articles": [
+        {
+          "基于Solana的区块链社交网络Solcial融资290万美元，Alameda Research领投": "https://www.8btc.com/article/6691832"
+        },
+        {
+          "Solana与TRM Labs集成，为网络成员提供更高安全性和合规性": "https://www.8btc.com/article/6691832"
+        },
+        {
+          "NFL球星汤姆·布拉迪：希望用比特币、以太坊或SOL来支付我的部分薪水": "https://www.8btc.com/article/6690036"
+        },
+        {
+          "摩根大通董事总经理：ETH被严重高估，其公允价值为1500美元": "https://www.8btc.com/article/6690036"
+        },
+        {
+          "数据：去中心化融资交易平台Solanium总锁仓量达1亿美元": "https://www.8btc.com/article/6689390"
+        },
+        {
+          "Solana网络已恢复出块，超过80%验证节点已升级至最新版客户端": "https://www.8btc.com/article/6689390"
+        },
+        {
+          "Solana发布主网Beta 1.6.25版本，修复验证器逻辑漏洞": "https://www.8btc.com/article/6688336"
+        },
+        {
+          "Gavin Wood疑似回应Solana事件：真正去中心化和安全性比网络高性能更有价值": "https://www.8btc.com/article/6688336"
+        },
+        {
+          "Lido Finance：交易过载导致大多数Solana节点出现内存溢出错误": "https://www.8btc.com/article/6686492"
+        },
+        {
+          "Solana：网络资源耗尽导致拒绝服务": "https://www.8btc.com/article/6686492"
+        },
+        {
+          "Solana主网Beta版正在经历间歇性的不稳定性": "https://www.8btc.com/article/6686390"
+        },
+        {
+          "稳定资产协议Mercurial Finance TVL超2亿美元，创历史新高": "https://www.8btc.com/article/6686390"
+        },
+        {
+          "机构交易员涌向Solana，上周SOL投资产品资金流入量为4940万美元": "https://www.8btc.com/article/6686332"
+        },
+        {
+          "Solana去中心化算法质押池Socean已在主网发布": "https://www.8btc.com/article/6686332"
+        },
+        {
+          "Raydium将推出Solana NFT项目启动平台DropZone": "https://www.8btc.com/article/6686242"
+        },
+        {
+          "数据：Raydium 24小时交易量超8亿美元，排名升至DEX交易量第二": "https://www.8btc.com/article/6686242"
+        },
+        {
+          "报告：上周有9800万美元流入加密投资产品，机构比特币需求显著增长": "https://www.8btc.com/article/6686080"
+        },
+        {
+          "数据：比特币基金结束持续8周净流出，以太坊基金市场份额创历史新高": "https://www.8btc.com/article/6686080"
+        },
+        {
+          "数据：Raydium 24小时交易量突破5亿美元，成为第三大DEX": "https://www.8btc.com/article/6686064"
+        },
+        {
+          "数据：9月4日Solana协议收入超过6.34万美元": "https://www.8btc.com/article/6686064"
+        }
+      ]
+    },
+    {
+      "name": "R3CEV",
+      "url": "https://www.8btc.com/p/r3cev",
+      "articles_num": 20,
+      "articles": [
+        {
+          "R3刚被曝陷入财务危机，居然就开始酝酿上市计划？": "https://www.8btc.com/article/235392"
+        },
+        {
+          "怒刷存在感，R3发布Corda企业版为自己正名": "https://www.8btc.com/writer/38354"
+        },
+        {
+          "募资上亿美元的R3被指陷入财务危机，或在明年败光家底": "https://www.8btc.com/writer/38354"
+        },
+        {
+          "R3联盟A轮融资已募集1.07亿美元，未来将有更多资金流入": "https://www.8btc.com/tag/r3cev"
+        },
+        {
+          "不是区块链，胜似区块链，R3总经理认为Corda在金融领域应用前景极佳": "https://www.8btc.com/article/235392"
+        },
+        {
+          "当R3都开始抛弃私有区块链时，你就知道它的应用有多难了": "https://www.8btc.com/article/233581"
+        },
+        {
+          "R3 Corda声明“不需要区块链”让人大跌眼镜，私有链走向了死胡同？": "https://www.8btc.com/writer/38354"
+        },
+        {
+          "R3主管：我们不需要区块链系统，只希望从这项技术中获得启示": "https://www.8btc.com/writer/38354"
+        },
+        {
+          "区块链行业最大笔融资？R3首席执行官称17年第一季度完成": "https://www.8btc.com/tag/r3cev"
+        },
+        {
+          "Peter Todd：Corda是没有区块链的比特币，涉嫌概念抄袭": "https://www.8btc.com/tag/corda"
+        },
+        {
+          "R3分布式账本平台Corda正式开源": "https://www.8btc.com/article/233581"
+        },
+        {
+          "R3已成功收获5000多万美元，摩根大通等7个创始成员或拒绝参与融资": "https://www.8btc.com/article/219618"
+        },
+        {
+          "高盛等行业巨头相继脱离R3，区块链联盟已经过气了？": "https://www.8btc.com/writer/38354"
+        },
+        {
+          "桑坦德银行成为第二家脱离R3的企业，1.5亿美元会费或是关键导火索？": "https://www.8btc.com/writer/38354"
+        },
+        {
+          "高盛集团脱离R3CEV区块链联盟，将自行开发区块链项目": "https://www.8btc.com/tag/blockchain"
+        },
+        {
+          "10位R3银行成员成功测试区块链身份登记系统": "https://www.8btc.com/tag/r3cev"
+        },
+        {
+          "中国外汇交易中心加入R3区块链联盟，构建金融市场公共标准": "https://www.8btc.com/article/219618"
+        },
+        {
+          "R3区块链软件平台Corda将开源，打造全球银行业公共标准": "https://www.8btc.com/article/128628"
+        },
+        {
+          "R3联盟连续发布新成果，联合金融技术公司Symbiont完成银团贷款交易区块链测试": "https://www.8btc.com/writer/38354"
+        },
+        {
+          "8位R3区块链联盟银行成员成功测试英特尔‘锯齿湖’区块链平台": "https://www.8btc.com/writer/38354"
+        }
+      ]
+    },
+    {
+      "name": "StarkWare",
+      "url": "https://www.8btc.com/p/starkware",
+      "articles_num": 12,
+      "articles": [
+        {
+          "StarkWare联合创始人：StarkEx上Immutable已处理超800万笔交易，Sorare处理超100万笔": "https://www.8btc.com/article/6689802"
+        },
+        {
+          "二层NFT交易平台Immutable X对所有用户开放铸造和交易服务": "https://www.8btc.com/article/6689802"
+        },
+        {
+          "StarkWare推出ZK Rollup扩容方案StarkNet Alpha 2版本，支持智能合约之间进行交换": "https://www.8btc.com/article/6681130"
+        },
+        {
+          "StarkWare正与MakerDAO开发DAI铸造功能，或将把Maker核心组件拓展至L2": "https://www.8btc.com/article/6681130"
+        },
+        {
+          "StarkWare推出以太坊侧链和StarkEx之间无需信任的转账方案": "https://www.8btc.com/article/6680098"
+        },
+        {
+          "StarkWare联合创始人：过去24小时StarkEx为dYdX处理了价值2.35亿美元的交易": "https://www.8btc.com/article/6680098"
+        },
+        {
+          "L2的强力竞争对手，一文了解ZK Rollup赛道的StarkNet": "https://www.8btc.com/article/6673469"
+        },
+        {
+          "速览 StarkWare 推出的 Cairo：图灵完备的生产级 STARK 系统": "https://www.8btc.com/article/6673469"
+        },
+        {
+          "Authereum将采用StarkWar的Layer 2解决方案降低链上交易费智能合约钱包": "https://www.8btc.com/article/6672023"
+        },
+        {
+          "以太坊扩容引擎StarkEx作为自主托管型方案：合约可升级性": "https://www.8btc.com/article/6672023"
+        },
+        {
+          "3 分钟了解进行 Reddit 积分系统演示的以太坊扩容引擎 StarkEx": "https://www.8btc.com/article/6669693"
+        },
+        {
+          "寒武纪密码学证明大爆发，数十个零知识证明系统该如何选？": "https://www.8btc.com/article/6669693"
+        }
+      ]
+    },
+    {
+      "name": "比特储",
+      "url": "https://www.8btc.com/p/bitreserve",
+      "articles_num": 20,
+      "articles": [
+        {
+          "移动应用更加方便！尚持发布IOS手机客户端": "https://www.8btc.com/article/88363"
+        },
+        {
+          "尚持进入印度市场，再度与银行达成合作": "https://www.8btc.com/writer/29878"
+        },
+        {
+          "尚持：更深层的透明性=可验证的信任": "https://www.8btc.com/writer/29878"
+        },
+        {
+          "尚持将上线莱特币和以太币": "https://www.8btc.com/tag/bitreserve"
+        },
+        {
+          "Ausecure与尚持整合，现在尚持会员可以购买黄金了": "https://www.8btc.com/tag/uphold"
+        },
+        {
+          "尚持提出“去银行化”前景，近期发布西班牙语版本网站": "https://www.8btc.com/article/88363"
+        },
+        {
+          "尚持首席执行官被《每日电讯报》授予为英国最具影响力的LGBT商业领袖": "https://www.8btc.com/article/85850"
+        },
+        {
+          "尚持与Netki 合作，提供个性化命名比特币地址服务": "https://www.8btc.com/writer/10358"
+        },
+        {
+          "电子货币卡片Cadoo即日起可在尚持应用中心下载": "https://www.8btc.com/writer/10358"
+        },
+        {
+          "尚持任命杰夫▪皮特拉斯为支付副总裁": "https://www.8btc.com/tag/bitreserve"
+        },
+        {
+          "尚持与世界最大钻石市场AWDC达成合作，为其网络提供下一代金融服务": "https://www.8btc.com/tag/uphold"
+        },
+        {
+          "戴安·格雷史密斯出任尚持首席财务官": "https://www.8btc.com/article/85850"
+        },
+        {
+          "移动应用已经准备好！尚持发布安卓版手机app": "https://www.8btc.com/article/85171"
+        },
+        {
+          "尚持接受中国银联卡进行人民币充值": "https://www.8btc.com/writer/29878"
+        },
+        {
+          "尚持通过云货币平台为金奈洪灾募集捐款": "https://www.8btc.com/writer/29878"
+        },
+        {
+          "尚持接受美国会员使用银行转账，信用卡、借记卡充值": "https://www.8btc.com/tag/bitreserve"
+        },
+        {
+          "Voxelus：融合虚拟现实与加密货币，现已在云端发行": "https://www.8btc.com/tag/uphold"
+        },
+        {
+          "比特币公司 Uphold CEO反感银行插手区块链": "https://www.8btc.com/article/85171"
+        },
+        {
+          "比特储全面改版，正式更名为 'Uphold'": "https://www.8btc.com/article/84050"
+        },
+        {
+          "比特储新增中东及亚洲四种新兴货币服务": "https://www.8btc.com/writer/10358"
+        }
+      ]
+    },
+    {
+      "name": "ETC",
+      "url": "https://www.8btc.com/p/etc",
+      "articles_num": 20,
+      "articles": [
+        {
+          "ETC官方：ETC主网算力因分叉最初跌幅约20%": "https://www.8btc.com/article/6681196"
+        },
+        {
+          "数据：灰度目前管理着价值100亿美元的以太坊": "https://www.8btc.com/article/6681196"
+        },
+        {
+          "以太经典Ethereum Classic（ETC） Magneto硬分叉成功激活": "https://www.8btc.com/article/6674861"
+        },
+        {
+          "观察｜ETC遭受的廉价51%攻击迷局": "https://www.8btc.com/article/6674861"
+        },
+        {
+          "ETC 2020技术路线图公布：以太坊堆栈客户端Core-Geth完成开发": "https://www.8btc.com/article/6664797"
+        },
+        {
+          "比特币减半前板块轮动研究：ETC或将领跌": "https://www.8btc.com/article/6664797"
+        },
+        {
+          "加密货币最大机构资产管理者Grayscale：ETH和ETC的受欢迎程度仅次于比特币": "https://www.8btc.com/article/631036"
+        },
+        {
+          "ETH与ETC被“和平之桥（peaceBridge）”连通，区块链互通技术将成为下一个技术爆点？": "https://www.8btc.com/writer/675359"
+        },
+        {
+          "V神：ETC的51%攻击证明了ETH转向PoS的决定是正确的": "https://www.8btc.com/writer/675359"
+        },
+        {
+          "倒在融资的路上，知名项目ETC核心开发团队不敌熊市": "https://www.8btc.com/tag/51attack"
+        },
+        {
+          "首席开发团队ETCDEV停止运作，但ETC的发展仍在继续": "https://www.8btc.com/tag/etc"
+        },
+        {
+          "以太坊基金会发出和解信号，向ETC社区捐赠1.5万ETC": "https://www.8btc.com/article/631036"
+        },
+        {
+          "五千万美元注资孵化器，ETC能实现绝地反击吗？": "https://www.8btc.com/article/564360"
+        },
+        {
+          "ETC价格突破20美元，市值已超越辣条": "https://www.8btc.com/writer/33672"
+        },
+        {
+          "Digix宣布向DGD持有者返还465,000ETC": "https://www.8btc.com/writer/33672"
+        },
+        {
+          "ETC投资信托正式开放，初期规模已达1000万美元": "https://www.8btc.com/tag/etc"
+        },
+        {
+          "ETC创下历史新高，分析师认为可能与数字货币集团的ETC投资信托基金有关": "https://www.8btc.com/article/564360"
+        },
+        {
+          "ETC投资信托正式上线，命名问题惹争议": "https://www.8btc.com/media/557374"
+        },
+        {
+          "黑客马拉松又来啦！ETC专场Etcathon等你大展身手": "https://www.8btc.com/writer/596544"
+        },
+        {
+          "微软主办ETC讨论会，以太坊前CEO将出席": "https://www.8btc.com/writer/596544"
+        }
+      ]
+    },
+    {
+      "name": "达世币",
+      "url": "https://www.8btc.com/p/dash",
+      "articles_num": 20,
+      "articles": [
+        {
+          "加密资产管理公司Valkyrie Investments推出第四支加密货币投资产品Dash信托": "https://www.8btc.com/article/6670103"
+        },
+        {
+          "黑市？洗白？DASH的暗黑究竟是他的黑历史还是他的发家之本": "https://www.8btc.com/article/6670103"
+        },
+        {
+          "达世币也涨了200％，要不要寻找下一个“黑马”？": "https://www.8btc.com/article/573355"
+        },
+        {
+          "达世钱包MyDashWallet私钥泄露持续两个月，具体损失未知": "https://www.8btc.com/writer/597110"
+        },
+        {
+          "Dash CEO：Chainlock协议可降低网络51%攻击，Dash的安全性或高于比特币": "https://www.8btc.com/writer/597110"
+        },
+        {
+          "达世币（Dash）屡创新高背后，数字现金路线或展现价值": "https://www.8btc.com/tag/dash"
+        },
+        {
+          "首个加密货币支付手环问世，零成本即时交易的开始": "https://www.8btc.com/article/573355"
+        },
+        {
+          "Vinny Lingham：竞争币爆发是假象，最终都会崩盘": "https://www.8btc.com/article/547698"
+        },
+        {
+          "曾为NASA工作的La Quey博士细致分析-达世币主节点": "https://www.8btc.com/writer/588794"
+        },
+        {
+          "达世币2016年5月、6月预算提案": "https://www.8btc.com/writer/588794"
+        },
+        {
+          "2016年旧金山d10e峰会，达世币或迎来新的突破": "https://www.8btc.com/tag/dash"
+        },
+        {
+          "达世币2016年4月预算提案": "https://www.8btc.com/article/547698"
+        },
+        {
+          "蓄势待发，达世币已为集成销售终端做好准备": "https://www.8btc.com/article/448110"
+        },
+        {
+          "达世币登陆Lamassu比特币ATM机": "https://www.8btc.com/writer/38354"
+        },
+        {
+          "达世币两周岁，创始人埃文•杜菲尔德发文庆祝并宣布扩容计划": "https://www.8btc.com/writer/38354"
+        },
+        {
+          "一台拥有达世币即时支付功能的饮料自动贩卖机": "https://www.8btc.com/tag/dash"
+        },
+        {
+          "埃文•杜菲尔德：达世币的目标是提高数字货币的易用性": "https://www.8btc.com/article/448110"
+        },
+        {
+          "Dash Evolution：进化后的达世币将实现哪些新的功能？": "https://www.8btc.com/article/445951"
+        },
+        {
+          "达世币团队迎来新成员": "https://www.8btc.com/writer/61272"
+        },
+        {
+          "突破封锁,自行编译,达世币Iphone钱包发布": "https://www.8btc.com/writer/61272"
+        }
+      ]
+    },
+    {
+      "name": "Chain",
+      "url": "https://www.8btc.com/p/chain",
+      "articles_num": 17,
+      "articles": [
+        {
+          "恒星（Stellar）吞并区块链明星企业Chain，涉及资金接近2亿美元": "https://www.8btc.com/article/270456"
+        },
+        {
+          "高盛高管出任区块链创业公司Chain新任总裁": "https://www.8btc.com/writer/8305"
+        },
+        {
+          "Chain推出基于微软区块链即服务平台的开源区块链解决方案——Chain Core开发者版本": "https://www.8btc.com/writer/8305"
+        },
+        {
+          "Visa宣布将于2017年推出区块链B2B支付服务": "https://www.8btc.com/tag/chain"
+        },
+        {
+          "Chain CEO：比特币不会因区块链技术的兴起而走向没落": "https://www.8btc.com/tag/stellar"
+        },
+        {
+          "你知道吗？这5家金融科技公司可能将会塑造货币的未来": "https://www.8btc.com/tag/interstellar"
+        },
+        {
+          "90家央行公开表达对区块链与数字货币的广泛兴趣，开始采取实际行动": "https://www.8btc.com/article/270456"
+        },
+        {
+          "区块链协议OS1问世：资产数字化不再是梦": "https://www.8btc.com/article/125000"
+        },
+        {
+          "Chain联合九家金融机构发布区块链开放标准": "https://www.8btc.com/writer/27420"
+        },
+        {
+          "纳斯达克区块链平台Linq迎来首只私募股票": "https://www.8btc.com/writer/27420"
+        },
+        {
+          "区块链公司Chain将切断免费比特币API服务": "https://www.8btc.com/tag/chain"
+        },
+        {
+          "Chain CEO 亚当谈区块链引领下的数字资产的未来": "https://www.8btc.com/article/125000"
+        },
+        {
+          "Visa，纳斯达克等巨头投资区块链公司Chain 3000万美元": "https://www.8btc.com/article/107654"
+        },
+        {
+          "比特币的杀手级应用": "https://www.8btc.com/writer/33672"
+        },
+        {
+          "比特币API开发商Chain融资950万美元": "https://www.8btc.com/writer/33672"
+        },
+        {
+          "区块链API服务提供商Chain获950万美元A轮投资": "https://www.8btc.com/tag/blockchain"
+        },
+        {
+          "链（Chain）向比特币开发者提供区块链API": "https://www.8btc.com/tag/chain"
+        }
+      ]
+    },
+    {
+      "name": "Arbitrum",
+      "url": "https://www.8btc.com/p/arbitrum",
+      "articles_num": 20,
+      "articles": [
+        {
+          "互操作性协议Connext宣布已在主网上线其通用的跨链交易协议NXTP": "https://www.8btc.com/article/6692160"
+        },
+        {
+          "跨链协议Synapse Network宣布支持以太坊扩容方案Arbitrum": "https://www.8btc.com/article/6692160"
+        },
+        {
+          "以太坊L2网络总锁仓量达到36亿美元，Arbitrum占比74.18%": "https://www.8btc.com/article/6689456"
+        },
+        {
+          "以太坊Layer2总锁仓量突破36亿美元，Arbitrum以27亿美元排名第一": "https://www.8btc.com/article/6689456"
+        },
+        {
+          "跨Rollup转账应用Hop Protocol已支持L2扩容方案Arbitrum": "https://www.8btc.com/article/6688182"
+        },
+        {
+          "数据：Arbitrum锁仓量超23亿美元，7日增长超2500%": "https://www.8btc.com/article/6688182"
+        },
+        {
+          "Arbitrum：Sequencer漏洞导致昨日停机，已定位问题并修复": "https://www.8btc.com/article/6687450"
+        },
+        {
+          "以太坊扩容方案Arbitrum免许可代币桥接功能将于10月22日对所有项目开放": "https://www.8btc.com/article/6687450"
+        },
+        {
+          "以太坊L2网络总锁仓量突破30亿美元，Arbitrum占比73.75%": "https://www.8btc.com/article/6687256"
+        },
+        {
+          "Arbitrum锁仓值一周飙升3200%，以太坊Layer 2季节来了？": "https://www.8btc.com/article/6687256"
+        },
+        {
+          "Arbitrum唯一地址数量突破4万，9月11日新增17107个唯一地址": "https://www.8btc.com/article/6686414"
+        },
+        {
+          "Arbitrum官方提醒：并未发行Arbitrum代币，请当心骗局": "https://www.8btc.com/article/6686414"
+        },
+        {
+          "以太坊Layer 2扩容项目Arbitrum锁仓量突破15亿美元": "https://www.8btc.com/article/6686250"
+        },
+        {
+          "观点 | 交互式欺诈证明：Arbitrum 的秘密武器": "https://www.8btc.com/article/6686250"
+        },
+        {
+          "以太坊L2网络总锁仓量突破10亿美元，dYdX占比近30%": "https://www.8btc.com/article/6685342"
+        },
+        {
+          "数据：Arbitrum主网锁仓量近4400万美元": "https://www.8btc.com/article/6685342"
+        },
+        {
+          "数据：Arbitrum主网锁仓量突破2000万美元": "https://www.8btc.com/article/6685324"
+        },
+        {
+          "Celer推出的跨链支付网络cBridge宣布支持Optimism和Arbitrum": "https://www.8btc.com/article/6685324"
+        },
+        {
+          "以太坊扩容网络Arbitrum宣布主网测试版本Arbitrum One已全面上线": "https://www.8btc.com/article/6685152"
+        },
+        {
+          "加密资管协议Balancer上线Arbitrum主网": "https://www.8btc.com/writer/27420"
+        }
+      ]
+    },
+    {
+      "name": "PlatON",
+      "url": "https://www.8btc.com/p/platon",
+      "articles_num": 20,
+      "articles": [
+        {
+          "PlatON网络升级至1.1.0版，下个版本将全面兼容以太坊接口": "https://www.8btc.com/article/6679926"
+        },
+        {
+          "乌镇·PlatON创始人孙立林：隐私计算时代，“数据共享”是个暧昧的词": "https://www.8btc.com/article/6679926"
+        },
+        {
+          "基于隐私计算技术，新⼀代联盟区块链平台PlatONE正式上线": "https://www.8btc.com/article/509808"
+        },
+        {
+          "有奖征稿 | 庆祝PlatON云图发布一周年征文大赛开始啦！": "https://www.8btc.com/writer/353811"
+        },
+        {
+          "“大家来找茬”—BUG收集活动正在火热进行中": "https://www.8btc.com/writer/353811"
+        },
+        {
+          "史上最严数据安全管理办法征求意见，PlatON云图全力提供技术支持": "https://www.8btc.com/tag/platon"
+        },
+        {
+          "PlatON联手IRISnet启动全面生态合作": "https://www.8btc.com/tag/privacy-computing"
+        },
+        {
+          "邹传伟博士任万向区块链、PlatON云图首席经济学家": "https://www.8btc.com/tag/2019-world-blockchain-conference-wuzhen"
+        },
+        {
+          "【PlatON吉祥物征集令】 show出才华 大奖等你来拿！": "https://www.8btc.com/article/509808"
+        },
+        {
+          "PlatON与HashKey Hub达成战略合作，以隐私计算提升数字资产安全性": "https://www.8btc.com/article/487134"
+        },
+        {
+          "PlatON数字资产托管服务KeyShard正式上线": "https://www.8btc.com/writer/30213"
+        },
+        {
+          "PlatON测试网络重大功能升级": "https://www.8btc.com/writer/30213"
+        },
+        {
+          "PlatON宣布正式成立专项基金 打造隐私计算网络生态": "https://www.8btc.com/tag/platon"
+        },
+        {
+          "PlatON：我们为什么采用Giskard共识？": "https://www.8btc.com/tag/privacy-computing"
+        },
+        {
+          "PlatON算法科学家谢翔：隐私性和可扩展性是当前区块链面临的两个主要难题": "https://www.8btc.com/article/487134"
+        },
+        {
+          "PlatON和 IRISnet结成战略合作伙伴，共同开拓区块链企业服务市场": "https://www.8btc.com/article/432798"
+        },
+        {
+          "首发 | PlatON测试网络贝莱世界今日竣工，可验证计算压轴登场": "https://www.8btc.com/writer/582839"
+        },
+        {
+          "PlatON独创Giskard共识亮相测试网络": "https://www.8btc.com/writer/582839"
+        },
+        {
+          "PlatON测试网络即将升级": "https://www.8btc.com/tag/blockchain"
+        },
+        {
+          "隐私计算让人工智能更智能": "https://www.8btc.com/tag/platon"
+        }
+      ]
+    },
+    {
+      "name": "Corda",
+      "url": "https://www.8btc.com/p/corda",
+      "articles_num": 20,
+      "articles": [
+        {
+          "韦氏评级：XRP和XDC没有加密货币的特征 加密货币并不是数字化": "https://www.8btc.com/article/658430"
+        },
+        {
+          "瑞士加密银行SEBA将在Corda网络提供代币化资产的发行和投资": "https://www.8btc.com/article/658430"
+        },
+        {
+          "Hyperledger联合埃森哲及富士通推出区块链互操作性解决方案": "https://www.8btc.com/article/623403"
+        },
+        {
+          "汇丰银行已将100亿美元的纸质私募记录放入R3区块链": "https://www.8btc.com/article/623403"
+        },
+        {
+          "荷兰皇家航空公司使用R3区块链技术进行财务处理": "https://www.8btc.com/article/596205"
+        },
+        {
+          "在Fabric、 Quorum以及Corda之间实现跨链，超级账本的集成框架是这样的": "https://www.8btc.com/article/596205"
+        },
+        {
+          "观点：任何关于区块链的讨论都必须首先区分许可或无许可": "https://www.8btc.com/article/575169"
+        },
+        {
+          "R3起诉Coda区块链公司": "https://www.8btc.com/article/575169"
+        },
+        {
+          "荷兰金融服务公司ING为Corda区块链推出交易评估服务": "https://www.8btc.com/article/561996"
+        },
+        {
+          "SBI总裁：正考虑积极使用R3的Corda平台，SBI Ripple Aisa正在开发新系统": "https://www.8btc.com/article/561996"
+        },
+        {
+          "联盟链组织 R3 正经历工程师离职潮": "https://www.8btc.com/article/519655"
+        },
+        {
+          "保险巨头旗下区块链子公司B3i在R3的Corda平台推出第一款产品": "https://www.8btc.com/writer/8305"
+        },
+        {
+          "印度银行YES Bank利用R3的Corda平台发行价值1450万美元的公司债券": "https://www.8btc.com/writer/8305"
+        },
+        {
+          "报告显示：区块链平台软件市场的主要参与者包括IBM、英特尔、微软等": "https://www.8btc.com/tag/hyperledger"
+        },
+        {
+          "卡塔尔商业银行加入R3区块链联盟": "https://www.8btc.com/tag/corda"
+        },
+        {
+          "怒刷存在感，R3发布Corda企业版为自己正名": "https://www.8btc.com/tag/fabric"
+        },
+        {
+          "微软与R3达成深度合作，Corda节点和网络将实现“轻松部署”": "https://www.8btc.com/article/519655"
+        },
+        {
+          "Corda首个产品级版本1.0即将正式发布，R3将进行新的开发阶段": "https://www.8btc.com/article/512612"
+        },
+        {
+          "R3宣布Corda正式进入公测阶段，1.0版本尚需时日": "https://www.8btc.com/article/512612"
+        },
+        {
+          "1亿多美金入账之后，R3区块链联盟将迎来Corda平台的第一种现实实施": "https://www.8btc.com/article/502267"
+        }
+      ]
+    },
+    {
+      "name": "量子链（Qtum）",
+      "url": "https://www.8btc.com/p/qtum",
+      "articles_num": 20,
+      "articles": [
+        {
+          "量子链网络全节点数量超过1300个": "https://www.8btc.com/article/6691196"
+        },
+        {
+          "Qtum创始人：Qtum正在构建跨ETH桥以及Layer2 ZK-Rollup解决方案": "https://www.8btc.com/article/6691196"
+        },
+        {
+          "量子链帅初：只有跳出“框架”，区块链的未来应用才能取得更大发展": "https://www.8btc.com/article/6683740"
+        },
+        {
+          "Qtum创始人帅初确认出席世界区块链大会（乌镇）": "https://www.8btc.com/article/6683740"
+        },
+        {
+          "Qtum量子链帅初CNBC专访：探讨区块链发展及现状": "https://www.8btc.com/article/481951"
+        },
+        {
+          "Qtum量子链出席全球区块链峰会（旧金山站）， 与中美区块链专家共同探讨区块链未来": "https://www.8btc.com/writer/33672"
+        },
+        {
+          "Qtum 量子链首次赴台，吸引800位台湾区块链爱好者，推动未来产业发展": "https://www.8btc.com/writer/33672"
+        },
+        {
+          "IDHub宣布将基于Qtum量子链搭建区块链数字身份平台，共建可信数字生态体系": "https://www.8btc.com/tag/qtum"
+        },
+        {
+          "暴风影音携手Qtum量子链，推动中国区块链技术商业落地": "https://www.8btc.com/article/481951"
+        },
+        {
+          "全球首个分布式风险对冲区块链FORTUNA将携手Qtum量子链共建场外衍生品交易体系": "https://www.8btc.com/article/222168"
+        },
+        {
+          "Qtum量子链帅初受邀出席 联合国第12届互联网治理论坛": "https://www.8btc.com/writer/225118"
+        },
+        {
+          "韩国PlayCoin项目宣布基于Qtum量子链搭建新一代游戏创作平台": "https://www.8btc.com/writer/225118"
+        },
+        {
+          "基于QTUM的Dapp项目Energo Labs与印度最大去中心化能源组织签约达成战略合作关系": "https://www.8btc.com/tag/blockchain"
+        },
+        {
+          "为何Qtum量子链要设计X86虚拟机？": "https://www.8btc.com/tag/qtum"
+        },
+        {
+          "Qtum量子链携手东南亚Pundi X，带来全新支付解决方案": "https://www.8btc.com/tag/4871"
+        },
+        {
+          "Qtum量子链携手StormX，进一步推动全球广告技术（Adtech）的发展": "https://www.8btc.com/article/222168"
+        },
+        {
+          "HALAL Chain宣布将基于Qtum量子链搭建全球食品透明供应链体系，并与迪拜政府达成合作": "https://www.8btc.com/article/159513"
+        },
+        {
+          "基于Qtum量子链的闪电网络功能简介及测试": "https://www.8btc.com/writer/43995"
+        },
+        {
+          "Qtum量子链首个医疗信息平台项目MediBloc正式发布中文版白皮书": "https://www.8btc.com/writer/43995"
+        },
+        {
+          "Qtum量子链创始人帅初出席《福布斯》30/30精英榜颁奖礼": "https://www.8btc.com/tag/qtum"
+        }
+      ]
+    },
+    {
+      "name": "storj",
+      "url": "https://www.8btc.com/p/storj",
+      "articles_num": 10,
+      "articles": [
+        {
+          "Chia Network任命Storj前首席营销官为开发者关系主管": "https://www.8btc.com/article/6679970"
+        },
+        {
+          "理解PPIO，Filecoin和Storj之间差异的终极指南": "https://www.8btc.com/article/6679970"
+        },
+        {
+          "区块链公司Storj获300万美元种子轮融资，目标指向企业云": "https://www.8btc.com/media/386826"
+        },
+        {
+          "为什么下一代存储可能是区块链带来的去中心化存储？": "https://www.8btc.com/writer/435916"
+        },
+        {
+          "手把手教你玩区块链云存储Storj": "https://www.8btc.com/writer/435916"
+        },
+        {
+          "Storj成为最新加入微软区块链即服务（BaaS）的区块链服务供应商": "https://www.8btc.com/tag/storj"
+        },
+        {
+          "全球移动工作族群壮大，区块链技术为企业管理助力": "https://www.8btc.com/tag/ipfs"
+        },
+        {
+          "分布式云存储平台Storj取得新的里程碑，提高十倍资金奖励": "https://www.8btc.com/media/386826"
+        },
+        {
+          "展望加密货币项目之间的合作": "https://www.8btc.com/article/119417"
+        },
+        {
+          "Storj VS. Dropbox：为什么去中心化存储是未来": "https://www.8btc.com/article/119417"
+        }
+      ]
+    },
+    {
+      "name": "ConsenSys",
+      "url": "https://www.8btc.com/p/consensys",
+      "articles_num": 20,
+      "articles": [
+        {
+          "MetaMask与Emerging Impact Group合作，对尼日利亚、菲律宾和南美洲的用户进行研究": "https://www.8btc.com/article/6681932"
+        },
+        {
+          "数据：MetaMask 8月月活突破1000万，较去年增长19倍": "https://www.8btc.com/article/6681932"
+        },
+        {
+          "ConsenSys Quorum发布使用Dafny编写的Eth 2.0正式规范": "https://www.8btc.com/article/6679790"
+        },
+        {
+          "ConsenSys旗下以太坊开发工具Truffle已新增支持Arbitrum": "https://www.8btc.com/article/6679790"
+        },
+        {
+          "加拿大帝国商业银行等4家机构计划在ConsenSys基于以太坊上开发的平台上建立碳交易市场试点": "https://www.8btc.com/article/6669881"
+        },
+        {
+          "ConsenSys要求FinCEN延长拟议加密钱包新规的意见征询期": "https://www.8btc.com/article/6669881"
+        },
+        {
+          "ConsenSys参与香港金管局与泰国央行合作的央行数字货币研究项目": "https://www.8btc.com/article/6660249"
+        },
+        {
+          "重磅：ConsenSys获摩根大通战略投资，收购其区块链平台Quorum": "https://www.8btc.com/article/6660249"
+        },
+        {
+          "安永和ConsenSys宣布推出baseline协议，保障企业安全高效使用以太坊主网": "https://www.8btc.com/article/6658817"
+        },
+        {
+          "强强联合！摩根大通商讨将区块链部门Quorum合并给ConsenSys": "https://www.8btc.com/article/6658817"
+        },
+        {
+          "ConsenSys报告：央行数字货币可以为金融系统带来巨大的效率并节省成本": "https://www.8btc.com/article/6582534"
+        },
+        {
+          "以太坊发展开启新方向？Hyperledger宣布接纳首个公有以太坊区块链项目Pantheon": "https://www.8btc.com/article/6582534"
+        },
+        {
+          "ConsenSys前工程师自述：区块链让我感触最深的5个认识": "https://www.8btc.com/article/651138"
+        },
+        {
+          "IBM：联合医疗领域巨头，为共享敏感数据提供区块链解决方案": "https://www.8btc.com/writer/622247"
+        },
+        {
+          "ConsenSys与哈佛大学合作共建区块链工厂系统，或促进以太坊合法化": "https://www.8btc.com/writer/622247"
+        },
+        {
+          "以太坊联合创始人Joseph Lubin：2018年的加密货币已经触底": "https://www.8btc.com/tag/consensys"
+        },
+        {
+          "立志将太空去中心化，ConsenSys收购小行星采矿公司": "https://www.8btc.com/tag/cbdc"
+        },
+        {
+          "以太坊创业公司ConsenSys成立5000万美元区块链创业公司基金": "https://www.8btc.com/article/651138"
+        },
+        {
+          "毛里求斯会成为“以太坊之岛”？ConsenSys正在努力尝试": "https://www.8btc.com/article/639901"
+        },
+        {
+          "区块链创业公司LO3获得区块链能源专利，推动点对点能源传输": "https://www.8btc.com/writer/38354"
+        }
+      ]
+    },
+    {
+      "name": "巴比特",
+      "url": "https://www.8btc.com/p/8btc",
+      "articles_num": 13,
+      "articles": [
+        {
+          "2019，我在现场 | 理想主义向左，现实主义向右，这是矛盾的世界": "https://www.8btc.com/article/544309"
+        },
+        {
+          "重磅！乌镇落地全国首个“区块链”主题展馆，今起公开征集7个优质项目": "https://www.8btc.com/writer/500698"
+        },
+        {
+          "杭州将要举办的这场区块链论坛，可能会让全球3000家企业了解你": "https://www.8btc.com/writer/500698"
+        },
+        {
+          "巴比特亮相乌镇世界互联网大会，这是区块链和互联网界的“对话”": "https://www.8btc.com/tag/blockchain"
+        },
+        {
+          "区块链行业会多，饭局多，但我偏爱巴比特 | 巴比特乌镇大会": "https://www.8btc.com/tag/8btc"
+        },
+        {
+          "巴比特荣获“2019沙利文中国新经济--卓越科创奖”": "https://www.8btc.com/article/544309"
+        },
+        {
+          "杭州峰会早鸟票开抢！龙虾社交晚宴，邀你品尝区块链的“杭州味道”": "https://www.8btc.com/article/535134"
+        },
+        {
+          "新版上线！巴比特社区燃点七年热血": "https://www.8btc.com/writer/500698"
+        },
+        {
+          "寒冬中，致区块链创业者的一封信": "https://www.8btc.com/writer/500698"
+        },
+        {
+          "在巴比特，碰撞真正的区块链技术！巴比特技术社区正式上线": "https://www.8btc.com/tag/8btc"
+        },
+        {
+          "巴比特全新改版，开启全景式区块链资讯门户新纪元": "https://www.8btc.com/tag/4914"
+        },
+        {
+          "“区块链媒体综合影响力指数排行榜”发布，巴比特荣登第一": "https://www.8btc.com/tag/industrial-blockchain"
+        },
+        {
+          "巴比特收购信链社，知名媒体人王雷先生出任CEO": "https://www.8btc.com/article/535134"
+        }
+      ]
+    },
+    {
+      "name": "Blockchain.info",
+      "url": "https://www.8btc.com/p/blockchain-info",
+      "articles_num": 18,
+      "articles": [
+        {
+          "比特币钱包商Blockchain.info斩获4000万美元B轮融资": "https://www.8btc.com/article/131360"
+        },
+        {
+          "Blockchain创始人谈扩容：我们尽可能保持中立，但扩容是需要发生的": "https://www.8btc.com/article/131360"
+        },
+        {
+          "英国前首相大卫•卡梅伦：希望能够用区块链技术来改革政府管理和减少全球腐败": "https://www.8btc.com/article/127201"
+        },
+        {
+          "币价涨势虽喜人，用户也应提防钓鱼式攻击": "https://www.8btc.com/writer/10358"
+        },
+        {
+          "浅谈比特币的征税问题": "https://www.8btc.com/writer/10358"
+        },
+        {
+          "比特币区块链是最后的经济堡垒，为无银行账户的人创造就业机会": "https://www.8btc.com/tag/bitcoin"
+        },
+        {
+          "雷霆网络初始版本正式发布，交易处理速度远超Visa": "https://www.8btc.com/tag/blockchain-info"
+        },
+        {
+          "闪电网络和雷霆网络：未来困难重重，但前景仍旧乐观": "https://www.8btc.com/article/127201"
+        },
+        {
+          "Visa被甩出一条街，测试版雷霆网络代码已开源": "https://www.8btc.com/article/119891"
+        },
+        {
+          "Blockchain钱包引入动态交易费，缓解交易空转": "https://www.8btc.com/writer/25351"
+        },
+        {
+          "blockchain.info的“随机”问题分析": "https://www.8btc.com/writer/25351"
+        },
+        {
+          "Blockchain钱包丢失用户资金，白帽黑客归还255枚比特币": "https://www.8btc.com/tag/blockchain-info"
+        },
+        {
+          "Blockchain.info丢了钱，又丢了人": "https://www.8btc.com/article/119891"
+        },
+        {
+          "搞清楚Blockchain的安全，只需要一点技术！": "https://www.8btc.com/article/113853"
+        },
+        {
+          "Blockchain就明文保存用户密码问题作出回应": "https://www.8btc.com/writer/38354"
+        },
+        {
+          "Blockchain钱包保存明文密码有错吗": "https://www.8btc.com/writer/38354"
+        },
+        {
+          "Blockchain苹果钱包可能存在明文密码泄露隐患？": "https://www.8btc.com/tag/bitcoin"
+        },
+        {
+          "Nic Cary透露Blockchain即将上线苹果iOS比特币钱包": "https://www.8btc.com/tag/bitcoin-wallet"
+        }
+      ]
+    },
+    {
+      "name": "Colu",
+      "url": "https://www.8btc.com/p/colu",
+      "articles_num": 8,
+      "articles": [
+        {
+          "回购代币，集中销毁，这样的“退圈仪式”你接受吗？": "https://www.8btc.com/article/463603"
+        },
+        {
+          "比特币闪电网络实现兼容数字资产，彩色币技术成关键": "https://www.8btc.com/writer/38354"
+        },
+        {
+          "区块链初创公司Colu整合彩色币和闪电网络协议，将于下月发行英国本土数字货币": "https://www.8btc.com/writer/38354"
+        },
+        {
+          "Colu获数字货币集团参投的960万美元融资，旨在发行基于区块链的本地货币": "https://www.8btc.com/tag/blockchain"
+        },
+        {
+          "区块链开发平台Colu发布仪表盘和沙盒API": "https://www.8btc.com/tag/colu"
+        },
+        {
+          "Bitpay开源钱包Copay支持Colu彩色币插件": "https://www.8btc.com/article/463603"
+        },
+        {
+          "区块链公司Colu平台上线，携手Revelator简化音乐版权管理": "https://www.8btc.com/article/109667"
+        },
+        {
+          "用区块链技术买东西？Colu获250万美元融资": "https://www.8btc.com/writer/27420"
+        }
+      ]
+    },
+    {
+      "name": "比特股",
+      "url": "https://www.8btc.com/p/bitshares",
+      "articles_num": 20,
+      "articles": [
+        {
+          "比特股（BTS）核心开发者未经社区同意私自更改投票规则，引发社区争议": "https://www.8btc.com/article/629794"
+        },
+        {
+          "梦一直跑，我开始追": "https://www.8btc.com/writer/373540"
+        },
+        {
+          "比特股创始人：The DAO 在走BTS的老路，或离死期已不远": "https://www.8btc.com/writer/373540"
+        },
+        {
+          "微软Azure平台新增5个区块链合作伙伴": "https://www.8btc.com/tag/decentralization"
+        },
+        {
+          "10家交易平台在比特股区块链上提供偿付能力证明": "https://www.8btc.com/tag/bitshares"
+        },
+        {
+          "Ingenesist(TIP)联合Bitshares策划区块链历史性大事件": "https://www.8btc.com/article/629794"
+        },
+        {
+          "BitShares 2.0发生了哪些变化：可容纳比特币网络交易量的三倍": "https://www.8btc.com/article/127602"
+        },
+        {
+          "带你从币代码本身的新视角，观察比特币及其竞争币": "https://www.8btc.com/writer/64729"
+        },
+        {
+          "比特股2.0: 动态用户权限系统": "https://www.8btc.com/writer/64729"
+        },
+        {
+          "DACPLAY新功能：可抽奖的区块链日志": "https://www.8btc.com/tag/bitshares"
+        },
+        {
+          "展望加密货币项目之间的合作": "https://www.8btc.com/tag/nxt"
+        },
+        {
+          "BitShares Passbook——基于区块链的会员管理平台": "https://www.8btc.com/tag/Ripple"
+        },
+        {
+          "胡翌霖 ：BTS根本问题不是能不能锚定，而是根本没意义": "https://www.8btc.com/article/127602"
+        },
+        {
+          "驳刘明卖星星的人": "https://www.8btc.com/article/90521"
+        },
+        {
+          "刘明卖星星的人：BTS锚定成功了么？": "https://www.8btc.com/writer/8305"
+        },
+        {
+          "我们创建了很多二代币，但真有人用吗？": "https://www.8btc.com/writer/8305"
+        },
+        {
+          "比特玫瑰，唤作他名亦芬芳": "https://www.8btc.com/tag/bitshares"
+        },
+        {
+          "Bitusd（BTU）和Bitshare（BTS） 的关系": "https://www.8btc.com/tag/the-dao"
+        },
+        {
+          "比特股（Bitshares）狂想曲之二：价值稳定的梦想": "https://www.8btc.com/tag/ethereum"
+        },
+        {
+          "使用BitShares来掌握你自己的身份": "https://www.8btc.com/article/90521"
+        }
+      ]
+    },
+    {
+      "name": "NEO",
+      "url": "https://www.8btc.com/p/neo",
+      "articles_num": 16,
+      "articles": [
+        {
+          "乌镇·NEO创始人达鸿飞：下一代互联网采用的是分层结构": "https://www.8btc.com/article/510952"
+        },
+        {
+          "【巴比特每日热聊榜】币海钩沉：NEO，7元的时候，我群里问可以买吗，全说太高不能买": "https://www.8btc.com/writer/27420"
+        },
+        {
+          "小蚁宣布“NEO”品牌战略，打造全新智能经济生态体系": "https://www.8btc.com/writer/27420"
+        },
+        {
+          "小蚁发布新版本客户端，测试智能合约2.0功能": "https://www.8btc.com/tag/neo"
+        },
+        {
+          "Matchpool选择小蚁开发中国版dapp": "https://www.8btc.com/tag/2019-world-blockchain-conference-wuzhen"
+        },
+        {
+          "智能合约+群体智慧，小蚁推出智能基金Nest，百万级奖金悬赏黑客攻击": "https://www.8btc.com/article/510952"
+        },
+        {
+          "小蚁生态迎来新区块浏览器，追求个性化元素": "https://www.8btc.com/article/224649"
+        },
+        {
+          "萌果VR与小蚁团队合作，探索区块链+游戏": "https://www.8btc.com/writer/241953"
+        },
+        {
+          "反应链科技加入小蚁生态，微天使重装上阵": "https://www.8btc.com/writer/241953"
+        },
+        {
+          "联合采访：Wings和小蚁将进行哪些技术合作？": "https://www.8btc.com/tag/neo"
+        },
+        {
+          "小蚁发布轻量级通用型虚拟机Antshares VM": "https://www.8btc.com/article/224649"
+        },
+        {
+          "主网启动上线，小蚁下一步还有哪些计划？": "https://www.8btc.com/article/131308"
+        },
+        {
+          "Onchain与微软合作探索区块链应用，小蚁二期众筹将于七月开启": "https://www.8btc.com/writer/44672"
+        },
+        {
+          "Onchain小蚁加盟“超级账本”，参与制定区块链国际标准": "https://www.8btc.com/writer/44672"
+        },
+        {
+          "小蚁众筹抢滩期，24小时筹得840个比特币": "https://www.8btc.com/tag/bitcoinget"
+        },
+        {
+          "小蚁官网今日上线，发布官方白皮书": "https://www.8btc.com/tag/neo"
+        }
+      ]
+    },
+    {
+      "name": "Zcash",
+      "url": "https://www.8btc.com/p/zcash",
+      "articles_num": 20,
+      "articles": [
+        {
+          "隐私币翻车？研究：99%的Zcash交易可追踪": "https://www.8btc.com/article/600515"
+        },
+        {
+          "兰德公司报告：59% 的非法交易愿意接受BTC支付，Zcash 接受度不足1%": "https://www.8btc.com/writer/38354"
+        },
+        {
+          "观点 | 隐私币走势还在联动比特币吗？": "https://www.8btc.com/writer/38354"
+        },
+        {
+          "技术干货 | 深入理解Zcash的零知识证明体系": "https://www.8btc.com/tag/zcash"
+        },
+        {
+          "关闭交易后门，Zcash最大缺陷或因这个方案被解决": "https://www.8btc.com/tag/privacy-coin"
+        },
+        {
+          "Zcash季度报告：营运成本降低25%，创始人奖励重新调整": "https://www.8btc.com/article/600515"
+        },
+        {
+          "Zcash创始人推动新“抽成”计划，四年之约到期后换个套路？": "https://www.8btc.com/article/592457"
+        },
+        {
+          "Zcash创始人奖励即将取消，社区因资金问题而头大": "https://www.8btc.com/writer/373540"
+        },
+        {
+          "Zcash首席执行官Zooko Wilcox正酝酿一个重大开发计划……": "https://www.8btc.com/writer/373540"
+        },
+        {
+          "创始人奖励让Zcash所向披靡？这个漏洞花了近1年才解决": "https://www.8btc.com/tag/bitcoin"
+        },
+        {
+          "Zcash即将执行硬分叉“越冬（Overwinter）”，为更多硬分叉开路": "https://www.8btc.com/tag/zcash"
+        },
+        {
+          "Zcash第二次加密协议执行计划，建立初始信任成其最大挑战": "https://www.8btc.com/article/592457"
+        },
+        {
+          "成功整合Zcash隐私技术，摩根大通Quorum平台或成为首个企业区块链杀手级应用": "https://www.8btc.com/article/531423"
+        },
+        {
+          "更好更快的zk-SNARK技术：Zcash开发者发布新的交易隐私技术Jubjub": "https://www.8btc.com/writer/621801"
+        },
+        {
+          "Zcash旧版软件出现bug，社区担忧Zcash区块链出现分叉": "https://www.8btc.com/writer/621801"
+        },
+        {
+          "Zcash的价值何在？币价高达上千美元，交易者依然不确定其发展趋势": "https://www.8btc.com/tag/zcash"
+        },
+        {
+          "Vitalik Buterin：ETH将整合Zcash隐私功能": "https://www.8btc.com/tag/coindash"
+        },
+        {
+          "《币周刊》第114期：Zcash正式开挖；Core 0.13.1发布，隔离见证将开始激活；Overstock将发行第一种基于区块链的股票": "https://www.8btc.com/tag/privacy-coin"
+        },
+        {
+          "从技术、经济学和心理学角度看匿名区块链项目Zcash": "https://www.8btc.com/article/531423"
+        },
+        {
+          "匿名是一种设计": "https://www.8btc.com/article/526391"
+        }
+      ]
+    },
+    {
+      "name": "Optimism",
+      "url": "https://www.8btc.com/p/Optimism",
+      "articles_num": 18,
+      "articles": [
+        {
+          "以太坊L2网络总锁仓量达到36亿美元，Arbitrum占比74.18%": "https://www.8btc.com/article/6688182"
+        },
+        {
+          "Optimism将升级为EVM全兼容，开发者可使用Solidity智能合约直接部署": "https://www.8btc.com/article/6688182"
+        },
+        {
+          "以太坊Layer2总锁仓量突破36亿美元，Arbitrum以27亿美元排名第一": "https://www.8btc.com/article/6687698"
+        },
+        {
+          "Optimism透露即将公布大新闻后，其网络涌入超1万个独立以太坊地址": "https://www.8btc.com/article/6687698"
+        },
+        {
+          "数据：Arbitrum锁仓量超23亿美元，7日增长超2500%": "https://www.8btc.com/article/6687450"
+        },
+        {
+          "以太坊扩容方案Optimism将主网吞吐量限制提高一倍": "https://www.8btc.com/article/6687450"
+        },
+        {
+          "Arbitrum锁仓值一周飙升3200%，以太坊Layer 2季节来了？": "https://www.8btc.com/article/6686478"
+        },
+        {
+          "数据：L2扩容方案Optimism昨日费用收入超45万美元，较前一日上涨近283%": "https://www.8btc.com/article/6686478"
+        },
+        {
+          "以太坊L2扩容方案Optimism：计划于下次升级时降低L2 Gas成本": "https://www.8btc.com/article/6686414"
+        },
+        {
+          "以太坊L2网络总锁仓量突破10亿美元，dYdX占比近30%": "https://www.8btc.com/article/6686414"
+        },
+        {
+          "数据：9月4日Solana协议收入超过6.34万美元": "https://www.8btc.com/article/6685560"
+        },
+        {
+          "数据：Arbitrum主网锁仓量突破2000万美元": "https://www.8btc.com/article/6685560"
+        },
+        {
+          "Celer推出的跨链支付网络cBridge宣布支持Optimism和Arbitrum": "https://www.8btc.com/article/6685152"
+        },
+        {
+          "L2 扩容方案 Optimism 发布新网关接口，允许任意 ERC20 代币接入 Optimism": "https://www.8btc.com/writer/27420"
+        },
+        {
+          "二层原生期权协议Lyra正式在以太坊二层扩容方案Optimism主网启动": "https://www.8btc.com/writer/27420"
+        },
+        {
+          "以太坊扩容方案Optimism计划向更多项目开放白名单资格": "https://www.8btc.com/tag/ethereum"
+        },
+        {
+          "The Graph宣布集成以太坊二层扩容方案Optimism，将为开发者提供索引和查询服务": "https://www.8btc.com/tag/arbitrum"
+        },
+        {
+          "以太坊L2 Optimism宣布软启动，预计2月底上线公开测试网": "https://www.8btc.com/tag/layer-2"
+        }
+      ]
+    },
+    {
+      "name": "门罗币",
+      "url": "https://www.8btc.com/p/monero",
+      "articles_num": 17,
+      "articles": [
+        {
+          "门罗币前主要开发者Riccardo Spagni获释出狱": "https://www.8btc.com/article/6689268"
+        },
+        {
+          "门罗币生态团队推出与 BTC 之间的原子互换实现方案": "https://www.8btc.com/article/6689268"
+        },
+        {
+          "《上周今夜秀》主持人对隐私币门罗币进行抨击": "https://www.8btc.com/article/6677200"
+        },
+        {
+          "受到黑客组织REvil攻击的Kaseya公司已收到安全补丁": "https://www.8btc.com/article/6677200"
+        },
+        {
+          "门罗币开始审核零知识证明系统Bulletproofs+代码": "https://www.8btc.com/article/6674975"
+        },
+        {
+          "门罗币已于测试网成功执行第一笔CLSAG交易": "https://www.8btc.com/article/6674975"
+        },
+        {
+          "一文概览 门罗币（Monero）关键隐私技术": "https://www.8btc.com/article/6659845"
+        },
+        {
+          "CSW又出幺蛾子：我可以摧毁匿名币": "https://www.8btc.com/article/6659845"
+        },
+        {
+          "门罗开发者首谈Grin：并不害怕被取代": "https://www.8btc.com/article/6586943"
+        },
+        {
+          "美国国土安全部盯上门罗币，想追踪其交易动向": "https://www.8btc.com/article/6586943"
+        },
+        {
+          "门罗首席开发者：闪电网络和门罗的结合还差这一步": "https://www.8btc.com/article/644622"
+        },
+        {
+          "一种更高效的零知识证明：门罗币测试Bulletproofs机制": "https://www.8btc.com/article/644622"
+        },
+        {
+          "欧洲刑警组织：门罗币、ZCASH和达世币等匿名币存在重大风险": "https://www.8btc.com/media/610767"
+        },
+        {
+          "玛利亚凯莉等40位音乐家开始接受门罗币支付": "https://www.8btc.com/writer/6818"
+        },
+        {
+          "想哭病毒攻击者利用ShapeShift转移比特币资金，或暴露身份": "https://www.8btc.com/writer/6818"
+        },
+        {
+          "门罗币挑战比特币暗网市场地位，比特币却能受益，摆脱‘犯罪货币’身份": "https://www.8btc.com/tag/privacy"
+        },
+        {
+          "暗网市场支持门罗币引发加密货币社区关注": "https://www.8btc.com/tag/monero"
+        }
+      ]
+    },
+    {
+      "name": "Blockstack",
+      "url": "https://www.8btc.com/p/blockstack",
+      "articles_num": 9,
+      "articles": [
+        {
+          "Blockstack CEO：证券法规将在加密货币行业发挥决定性作用": "https://www.8btc.com/article/6578505"
+        },
+        {
+          "深度解析Blockstack 相关法规": "https://www.8btc.com/article/6578505"
+        },
+        {
+          "早期投资回报高达2000倍！Blockstack正式向美国SEC申请5000万美元代币销售": "https://www.8btc.com/article/450907"
+        },
+        {
+          "Blockstack推出2500万美元风险投资基金，正在研究进行ICO": "https://www.8btc.com/writer/424505"
+        },
+        {
+          "比特币区块链公司Blockstack获400万美元融资，由USV领投，数字货币集团等参投": "https://www.8btc.com/writer/424505"
+        },
+        {
+          "区块链技术引领的第二代分布式互联网即将到来": "https://www.8btc.com/tag/blockstack"
+        },
+        {
+          "微软创建开源身份平台，整合比特币和以太坊区块链": "https://www.8btc.com/article/450907"
+        },
+        {
+          "Blockstack运用区块链技术分散DNS（域名服务器）系统": "https://www.8btc.com/article/391195"
+        },
+        {
+          "前摩根大通一姐Masters再收购一家区块链初创公司Blockstack": "https://www.8btc.com/writer/33672"
+        }
+      ]
+    },
+    {
+      "name": "未来币",
+      "url": "https://www.8btc.com/p/nxt",
+      "articles_num": 20,
+      "articles": [
+        {
+          "梦一直跑，我开始追": "https://www.8btc.com/article/127602"
+        },
+        {
+          "NXT全票一致通过：利用混币技术达成匿名": "https://www.8btc.com/writer/64729"
+        },
+        {
+          "Nxt客户端安装指南之RaspberryPi树莓派版": "https://www.8btc.com/writer/64729"
+        },
+        {
+          "希腊经济危机：“并行虚拟货币”救市或可行": "https://www.8btc.com/tag/bitshares"
+        },
+        {
+          "未来币系统内完善去中心化数字币购物功能的可行性分析": "https://www.8btc.com/tag/nxt"
+        },
+        {
+          "Nxt插件系统简介": "https://www.8btc.com/tag/Ripple"
+        },
+        {
+          "未来币1.5版钱包新功能前瞻": "https://www.8btc.com/article/127602"
+        },
+        {
+          "创建完全离线的Nxt钱包和交易": "https://www.8btc.com/article/63411"
+        },
+        {
+          "未来币Teases投票系统 、两阶段的交易以及基金会": "https://www.8btc.com/writer/89"
+        },
+        {
+          "未来币客户端常见问题和解决方法": "https://www.8btc.com/writer/89"
+        },
+        {
+          "如何验证未来币钱包的sha256？": "https://www.8btc.com/tag/nxt"
+        },
+        {
+          "未来币功能之别名系统": "https://www.8btc.com/article/63411"
+        },
+        {
+          "未来币打赏工具NxtTips介绍": "https://www.8btc.com/article/63039"
+        },
+        {
+          "未来币功能之任意消息Arbitrary Message（AM）": "https://www.8btc.com/writer/9253"
+        },
+        {
+          "未来币客户端软件运行须知": "https://www.8btc.com/writer/9253"
+        },
+        {
+          "去中心化电子商务：NXT自由市场": "https://www.8btc.com/tag/nxt"
+        },
+        {
+          "创建一个基于IP地址和私钥的未来币标志节点": "https://www.8btc.com/article/63039"
+        },
+        {
+          "我们创建了很多二代币，但真有人用吗？": "https://www.8btc.com/article/61658"
+        },
+        {
+          "未来币、黑币等数字货币开始进军体育界": "https://www.8btc.com/writer/89"
+        },
+        {
+          "Nxtty: 一款基于P2P网络的加密通信软件": "https://www.8btc.com/writer/89"
+        }
+      ]
+    },
+    {
+      "name": "Bitwala",
+      "url": "https://www.8btc.com/p/bitwala",
+      "articles_num": 3,
+      "articles": [
+        {
+          "德国最大规模区块链企业融资，Bitwala获得索尼领投1450万美元": "https://www.8btc.com/article/456910"
+        },
+        {
+          "Bitwala获80万欧元融资，已实现比特币SEPA支付": "https://www.8btc.com/article/456910"
+        },
+        {
+          "荷兰比特币支付商 Bitwala 推出 EmailPay 转账服务": "https://www.8btc.com/article/85607"
+        }
+      ]
+    },
+    {
+      "name": "BlockFi",
+      "url": "https://www.8btc.com/p/blockfi",
+      "articles_num": 1,
+      "articles": [
+        {
+          "领投5250万美元之后，亿万富豪Mike Novogratz再参与BlockFi 400万美元融资": "https://www.8btc.com/article/327922"
+        }
+      ]
+    },
+    {
+      "name": "Synereo",
+      "url": "https://www.8btc.com/p/synereo",
+      "articles_num": 19,
+      "articles": [
+        {
+          "区块链创业公司Synereo尝试打破以太坊对主要DAPPs供应的垄断": "https://www.8btc.com/article/109143"
+        },
+        {
+          "硅谷NFX协会与Synereo合作加快ÐApp开发团队建设": "https://www.8btc.com/writer/29044"
+        },
+        {
+          "区块链创业公司Synereo公开分布式存储协议": "https://www.8btc.com/writer/29044"
+        },
+        {
+          "Synereo 2.0技术堆栈成为了以太坊协议的竞争对手？": "https://www.8btc.com/tag/synereo"
+        },
+        {
+          "世界计算机在区块链技术的引领下重生": "https://www.8btc.com/tag/ethereum"
+        },
+        {
+          "去中心化社交网络Synereo将投向中国市场的怀抱": "https://www.8btc.com/article/109143"
+        },
+        {
+          "Synereo发展简史": "https://www.8btc.com/article/104819"
+        },
+        {
+          "Synereo的技术堆栈：Rchain，SpecialK和Rholang": "https://www.8btc.com/writer/44275"
+        },
+        {
+          "Synereo区块链技术堆栈实现无中心化服务器且可扩展的网络计算和存储": "https://www.8btc.com/writer/44275"
+        },
+        {
+          "站在巨人的肩膀上——Synereo的区块链2.0": "https://www.8btc.com/tag/synereo"
+        },
+        {
+          "R-chain（R链）：第一个可扩展的，速度极快且图灵完备的区块链": "https://www.8btc.com/tag/nfx"
+        },
+        {
+          "Synereo开发者基金启动，为去中心化应用开发提供近20万美元补助": "https://www.8btc.com/article/104819"
+        },
+        {
+          "Synereo项目二轮融资活动即将开启": "https://www.8btc.com/article/104804"
+        },
+        {
+          "区块链项目Synereo为社交网络领域带来去中心化，捍卫个人信息隐私": "https://www.8btc.com/writer/44275"
+        },
+        {
+          "为什么我们需要去中心化的社交网络？": "https://www.8btc.com/writer/44275"
+        },
+        {
+          "区块链驱动的Synereo社交网络向Facebook和推特发起挑战": "https://www.8btc.com/tag/blockchain-technology"
+        },
+        {
+          "去中心化半自治平台Synereo全力推进alpha开发": "https://www.8btc.com/tag/synereo"
+        },
+        {
+          "Synereo首席技术官谈DAO的教训：如何避免信任滥用": "https://www.8btc.com/tag/r-chain"
+        },
+        {
+          "如何使用Synereo的智能合约语言来防止黑客入侵": "https://www.8btc.com/article/104804"
+        }
+      ]
+    },
+    {
+      "name": "DECENT",
+      "url": "https://www.8btc.com/p/decent",
+      "articles_num": 20,
+      "articles": [
+        {
+          "亚美尼亚区块链研发中心CEO表示区块链将是构建未来的基础": "https://www.8btc.com/article/123523"
+        },
+        {
+          "DECENT测试网络第一版“凯撒”正式启动": "https://www.8btc.com/writer/43770"
+        },
+        {
+          "DECENT入选联合国教科文组织下的竞选活动": "https://www.8btc.com/writer/43770"
+        },
+        {
+          "DECENT网络2017年开发计划": "https://www.8btc.com/tag/decent"
+        },
+        {
+          "DECENT参加全球跨媒体创新峰会：区块链——内容分发和创作者权利保护的未来": "https://www.8btc.com/article/123523"
+        },
+        {
+          "“能源互联网”的路不能少了区块链": "https://www.8btc.com/article/121157"
+        },
+        {
+          "DECENT音乐应用案例": "https://www.8btc.com/writer/43770"
+        },
+        {
+          "DECENT迎来新的合作伙伴北京快网": "https://www.8btc.com/writer/43770"
+        },
+        {
+          "DECENT 网页应用原型进入内测阶段，ICO进入倒计时": "https://www.8btc.com/tag/decent"
+        },
+        {
+          "DECENT在亚美尼亚建立区块链研发中心": "https://www.8btc.com/article/121157"
+        },
+        {
+          "《黑客行》漏洞管理平台－DECENT迎来中国第一款潜力应用": "https://www.8btc.com/article/118920"
+        },
+        {
+          "财经直播平台爱K线与DECENT携手创建内容": "https://www.8btc.com/writer/43770"
+        },
+        {
+          "无限制全球流媒体服务与数以千记的电影和电视节目？DECENT流媒体的革命性优势": "https://www.8btc.com/writer/43770"
+        },
+        {
+          "比特币、区块链技术和应用DECENT": "https://www.8btc.com/tag/decent"
+        },
+        {
+          "基于DECENT去中心化网络的博客长什么样？": "https://www.8btc.com/article/118920"
+        },
+        {
+          "DECENT数据发布技术：安全的节点间通信": "https://www.8btc.com/article/117805"
+        },
+        {
+          "区块链应用DECENT为生态环境整体部署，在多方面取得进展": "https://www.8btc.com/writer/43770"
+        },
+        {
+          "区块链：新经济蓝图": "https://www.8btc.com/writer/43770"
+        },
+        {
+          "DECENT亮相CoinTelegraph 区块链大会": "https://www.8btc.com/tag/decent"
+        },
+        {
+          "DECENT技术：DECENT开发的秘钥分配": "https://www.8btc.com/article/117805"
+        }
+      ]
+    },
+    {
+      "name": "imToken",
+      "url": "https://www.8btc.com/p/imtoken",
+      "articles_num": 5,
+      "articles": [
+        {
+          "ImToken投资孵化硬件钱包imKey，何斌：安全产品无关市场容量，更需用户教育": "https://www.8btc.com/article/340171"
+        },
+        {
+          "加密货币钱包 imToken 正式宣布开源，目前用户已超过700万": "https://www.8btc.com/writer/10358"
+        },
+        {
+          "史上最大规模区块链开发者大会 Devcon3 看点汇总": "https://www.8btc.com/writer/10358"
+        },
+        {
+          "如何安全的捂住你的imToken钱包": "https://www.8btc.com/tag/hardware-wallet"
+        },
+        {
+          "共建社区，迎接数字资产的寒武纪大爆发——比原链与imToken达成深度合作": "https://www.8btc.com/tag/imtoken"
+        }
+      ]
+    },
+    {
+      "name": "GEMS",
+      "url": "https://www.8btc.com/p/gems",
+      "articles_num": 6,
+      "articles": [
+        {
+          "GEMZ开发更新：贴纸功能即将发布": "https://www.8btc.com/article/47313"
+        },
+        {
+          "去中心化社交通信应用GEMS试用测评": "https://www.8btc.com/writer/11238"
+        },
+        {
+          "去中心化通信应用GetGems获40万美元融资": "https://www.8btc.com/writer/11238"
+        },
+        {
+          "有关“预售”的悖论——Gems引发的思考": "https://www.8btc.com/tag/counterparty"
+        },
+        {
+          "GEMS：比特币地址即社交身份，用户聊天即赚币": "https://www.8btc.com/tag/getgems"
+        },
+        {
+          "Gems：建立于加密货币技术之上的社交网络": "https://www.8btc.com/tag/gems"
+        }
+      ]
+    },
+    {
+      "name": "Grin",
+      "url": "https://www.8btc.com/p/grin",
+      "articles_num": 11,
+      "articles": [
+        {
+          "Mimblewimble的隐私限制确实存在，如何解决它才是重点": "https://www.8btc.com/article/516281"
+        },
+        {
+          "Grin开发基金再次收到50 BTC匿名捐赠，捐赠者是09-10年比特币“上古大神团体”": "https://www.8btc.com/writer/8305"
+        },
+        {
+          "像中本聪一样消失，Grin创始人宣布暂时离开该项目": "https://www.8btc.com/writer/8305"
+        },
+        {
+          "Grin全职开发者增至3人，为代码审查“一掷千金”": "https://www.8btc.com/tag/mimblewimble"
+        },
+        {
+          "为什么保持匿名？为什么设置通胀型供应曲线？Grin创始人为你解答": "https://www.8btc.com/tag/grin"
+        },
+        {
+          "加密数字货币两大技术的热议推动莱特币大涨：是不是新技术热议是涨价的指标？": "https://www.8btc.com/article/516281"
+        },
+        {
+          "嘲笑 Grin 之前，你应该知道这个去中心化项目如何运作": "https://www.8btc.com/article/512420"
+        },
+        {
+          "MimbleWimble新势力：双胞胎Beam与Grin孰优孰劣": "https://www.8btc.com/writer/8305"
+        },
+        {
+          "总量2100万 VS 无限：grin值得拿比特币换吗？": "https://www.8btc.com/writer/8305"
+        },
+        {
+          "基于Mimblewimble的Beam区块链今日停止出块近两个半小时": "https://www.8btc.com/tag/bitcoin"
+        },
+        {
+          "门罗开发者首谈Grin：并不害怕被取代": "https://www.8btc.com/tag/grin"
+        }
+      ]
+    },
+    {
+      "name": "企业以太坊联盟",
+      "url": "https://www.8btc.com/p/eea",
+      "articles_num": 13,
+      "articles": [
+        {
+          "企业以太坊联盟（EEA）正式发布测试网络，区块链互操作性时代即将来临": "https://www.8btc.com/article/546916"
+        },
+        {
+          "以太坊企业联盟联合微软、IBM等推出通证分类标准，促进跨平台交易": "https://www.8btc.com/writer/33672"
+        },
+        {
+          "微软、企业以太坊联盟（EEA）：推出面向企业的“通证分类”项目": "https://www.8btc.com/writer/33672"
+        },
+        {
+          "企业以太坊联盟中国首秀，悉数解答各方疑问": "https://www.8btc.com/tag/eea"
+        },
+        {
+          "对话企业以太坊联盟（EEA）：区块链领域从未像现在这样令人兴奋，互操作性将让企业摆脱单一供应商束缚": "https://www.8btc.com/article/546916"
+        },
+        {
+          "区块链应该怎么玩？企业以太坊联盟公布新标准": "https://www.8btc.com/article/507852"
+        },
+        {
+          "打破格局！超级账本与企业以太坊联盟（EEA）宣布结盟，要为区块链制定通用标准": "https://www.8btc.com/writer/164840"
+        },
+        {
+          "数字身份、能源和多平台互通——以太坊联盟公布明年重点研究领域": "https://www.8btc.com/writer/164840"
+        },
+        {
+          "惠普企业（HPE）等48家公司及机构加入企业以太坊联盟": "https://www.8btc.com/tag/blockchain"
+        },
+        {
+          "具有法律约束力的智能合约？10家律师事务所加入企业以太坊联盟": "https://www.8btc.com/tag/eea"
+        },
+        {
+          "企业以太坊联盟（EEA）成员总数达到150个，印度政府和MasterCard等加入": "https://www.8btc.com/tag/tongzheng"
+        },
+        {
+          "企业以太坊联盟（EEA）成立新的技术指导委员会，并组建7个新的工作组": "https://www.8btc.com/article/507852"
+        },
+        {
+          "第一种成功的能源区块链应用？英国石油BP与维也纳能源完成区块链能源贸易试验": "https://www.8btc.com/article/394237"
+        }
+      ]
+    },
+    {
+      "name": "彩色币(coloredcoin)",
+      "url": "https://www.8btc.com/p/coloredcoin",
+      "articles_num": 9,
+      "articles": [
+        {
+          "比特币闪电网络实现兼容数字资产，彩色币技术成关键": "https://www.8btc.com/article/109667"
+        },
+        {
+          "区块链初创公司Colu整合彩色币和闪电网络协议，将于下月发行英国本土数字货币": "https://www.8btc.com/writer/27420"
+        },
+        {
+          "区块链房地产平台Ubiquity：首笔基于彩色币技术的产权转让交易宣告成功": "https://www.8btc.com/writer/27420"
+        },
+        {
+          "Ubitquity采用比特币区块链保护房地产产权": "https://www.8btc.com/tag/coloredcoin"
+        },
+        {
+          "Bitpay开源钱包Copay支持Colu彩色币插件": "https://www.8btc.com/tag/colu"
+        },
+        {
+          "区块链公司Colu平台上线，携手Revelator简化音乐版权管理": "https://www.8btc.com/tag/lightning-network"
+        },
+        {
+          "LHV银行将打造基于比特币区块链的钱包应用": "https://www.8btc.com/article/109667"
+        },
+        {
+          "BitcoinX—彩色币  白皮书": "https://www.8btc.com/article/109319"
+        },
+        {
+          "彩色币与P2P衍生交易平台": "https://www.8btc.com/writer/38354"
+        }
+      ]
+    },
+    {
+      "name": "云象区块链",
+      "url": "https://www.8btc.com/p/yunphant",
+      "articles_num": 5,
+      "articles": [
+        {
+          "云象获数千万A+轮融资，推动区块链技术商业化落地": "https://www.8btc.com/article/486844"
+        },
+        {
+          "云象区块链成为科技部《“十三五”现代服务业科技创新专项规划》区块链基础设施承建单位": "https://www.8btc.com/article/486844"
+        },
+        {
+          "对话云象CEO黄步添：区块链未来两到三年不会爆发": "https://www.8btc.com/article/149900"
+        },
+        {
+          "云象区块链与浪潮集团就区块链健康医疗达成战略合作": "https://www.8btc.com/writer/6818"
+        },
+        {
+          "融资300万，云象区块链加速推进联盟链与私有链应用落地": "https://www.8btc.com/writer/6818"
+        }
+      ]
+    },
+    {
+      "name": "Synthetix",
+      "url": "https://www.8btc.com/p/synthetix",
+      "articles_num": 16,
+      "articles": [
+        {
+          "Synthetix已开始将合成资产从L1迁移至L2，部分L1网络的合成资产被废弃": "https://www.8btc.com/article/6688776"
+        },
+        {
+          "二元期权协议 Thales将发行代币THALES，约1.5万个SNX质押地址可领取空投": "https://www.8btc.com/article/6688776"
+        },
+        {
+          "二层原生期权协议Lyra正式在以太坊二层扩容方案Optimism主网启动": "https://www.8btc.com/article/6682088"
+        },
+        {
+          "AC：已根据Synthetix SIP-120要求开发了两款易于集成的链上预言机": "https://www.8btc.com/article/6682088"
+        },
+        {
+          "二层原生期权协议Lyra推出启动委员会，将监督协议和代币的启动": "https://www.8btc.com/article/6677448"
+        },
+        {
+          "Synthetix生态期权协议Thales在以太坊主网上集成Chainlink喂价": "https://www.8btc.com/article/6677448"
+        },
+        {
+          "Synthetix生态期权协议Thales已上线以太坊主网": "https://www.8btc.com/article/6675261"
+        },
+        {
+          "基于Synthetix的衍生品交易平台Kwenta 7月交易量已超10亿美元，占其2021年总交易量的43.63%": "https://www.8btc.com/article/6675261"
+        },
+        {
+          "Synthetix生态项目Thales完成250万美元融资，Framework Ventures等领投": "https://www.8btc.com/article/6675171"
+        },
+        {
+          "Synthetix 已支持使用 Optimistic 进行质押": "https://www.8btc.com/article/6675171"
+        },
+        {
+          "Synthetix：将在新投票功能发布后宣布下个Spartan理事会投票周期": "https://www.8btc.com/article/6667209"
+        },
+        {
+          "以太坊扩容方案 Optimism 主网开启软启动，SNX 质押已在 Optimistic Ethereum 上线": "https://www.8btc.com/article/6667209"
+        },
+        {
+          "Synthetix：质押者需将托管SNX迁移至新合约Reward Escrow V2": "https://www.8btc.com/article/6667173"
+        },
+        {
+          "Synthetix已正式启动Castor版本升级": "https://www.8btc.com/article/6667173"
+        },
+        {
+          "Synthetix提示风险称并不存在空投": "https://www.8btc.com/article/6664109"
+        },
+        {
+          "Synthetix：警惕声称可提供OTC交易服务的冒牌核心贡献者": "https://www.8btc.com/article/6664109"
+        }
+      ]
+    },
+    {
+      "name": "智能坊",
+      "url": "https://www.8btc.com/p/dacrs",
+      "articles_num": 6,
+      "articles": [
+        {
+          "对话智能坊”P2P淘宝”开发团队": "https://www.8btc.com/article/72804"
+        },
+        {
+          "智能坊（DACRS）正式版最新发布": "https://www.8btc.com/writer/7008"
+        },
+        {
+          "只需6步，小白也可玩转智能坊": "https://www.8btc.com/writer/7008"
+        },
+        {
+          "智能坊（DACRS）即将正式发布": "https://www.8btc.com/tag/p2p"
+        },
+        {
+          "四招助你识破坑爹骗局类虚拟货币": "https://www.8btc.com/tag/787"
+        },
+        {
+          "Bitnews专访智能坊项目发起人ranger": "https://www.8btc.com/tag/dacrs"
+        }
+      ]
+    },
+    {
+      "name": "Clearmatics",
+      "url": "https://www.8btc.com/p/clearmatics",
+      "articles_num": 2,
+      "articles": [
+        {
+          "区块链金融公司Clearmatics获1200万美元A轮融资，V神担任公司顾问": "https://www.8btc.com/article/288651"
+        },
+        {
+          "区块链公司Clearmatics和Axoni实现智能合约跨网迁移": "https://www.8btc.com/article/288651"
+        }
+      ]
+    },
+    {
+      "name": "万维链",
+      "url": "https://www.8btc.com/p/wanchain",
+      "articles_num": 20,
+      "articles": [
+        {
+          "韩国MangoBerry宣布加入Wanchain星系共识节点计划， 双方将联合开发韩国市场": "https://www.8btc.com/article/456281"
+        },
+        {
+          "Wanchain星系共识探索04——委托机制": "https://www.8btc.com/writer/128944"
+        },
+        {
+          "专业PoS矿池服务机构SNZ Holding加入Wanchain星系共识节点计划": "https://www.8btc.com/writer/128944"
+        },
+        {
+          "Morpheus Labs将为Dapp开发者提供基于Wanchain高效开发工具": "https://www.8btc.com/tag/pos"
+        },
+        {
+          "东南亚社区入场，Validators.Online 正式加入Wanchain星系共识节点生态": "https://www.8btc.com/tag/wanchain"
+        },
+        {
+          "企业加密服务商入局，Keystore正式加入Wanchain星系共识节点计划": "https://www.8btc.com/article/456281"
+        },
+        {
+          "万维链发布PoS共识方案——星系共识，正式开启完全去中心化进程": "https://www.8btc.com/article/425551"
+        },
+        {
+          "Wanchain钱包新增一键跨链功能，轻松搞定资产的链间流转": "https://www.8btc.com/writer/128944"
+        },
+        {
+          "西班牙电信集团宣布携手万维链（Wanchain）和RIVETZ，提供基于区块链的移动安全解决方案": "https://www.8btc.com/writer/128944"
+        },
+        {
+          "吕旭军：区块链红利下，深解企业人和创业者的破局之道": "https://www.8btc.com/tag/consensus-mechanism"
+        },
+        {
+          "Wanchain就真实世界数据上链与Chainlink建立合作关系": "https://www.8btc.com/tag/wanchain"
+        },
+        {
+          "Wanchain宣布加入Hyperledger，聚焦公链与联盟链的互操作性研究": "https://www.8btc.com/article/425551"
+        },
+        {
+          "世界杯饕餮之余，wanchain2.0万维之夜在乌镇等你": "https://www.8btc.com/article/419041"
+        },
+        {
+          "Wanchain发布2.0 Beta测试网络，面向全球展开公测": "https://www.8btc.com/writer/128944"
+        },
+        {
+          "Wanchain确认将出席乌镇区块链大会，拟发布2.0主网及生态重大信息": "https://www.8btc.com/writer/128944"
+        },
+        {
+          "Wanchain获评BlockChain3.0 TOP项目": "https://www.8btc.com/tag/pos"
+        },
+        {
+          "万维链与Quantstamp就智能合约安全建立合作关系": "https://www.8btc.com/tag/consensus-mechanism"
+        },
+        {
+          "Wanchain万维链浏览器（1.1版本）正式上线": "https://www.8btc.com/tag/wanchain"
+        },
+        {
+          "视频|《8问》吕旭军：建造全球区块链互联网，是万维链最大的价值": "https://www.8btc.com/article/419041"
+        },
+        {
+          "万维链发布万维域名服务Wanchain Name Service(WNS)": "https://www.8btc.com/article/418795"
+        }
+      ]
+    },
+    {
+      "name": "Purse",
+      "url": "https://www.8btc.com/p/purse",
+      "articles_num": 6,
+      "articles": [
+        {
+          "Bcoin：Core的替代品，一种基于Javascript的比特币库": "https://www.8btc.com/article/105109"
+        },
+        {
+          "Purse：要做比特币界的Etsy": "https://www.8btc.com/writer/27420"
+        },
+        {
+          "一窥比特币电商Purse.io的神秘项目“Tritium”": "https://www.8btc.com/writer/27420"
+        },
+        {
+          "比特币电商Purse融资100万美元，计划神秘比特币项目": "https://www.8btc.com/tag/bitcoin"
+        },
+        {
+          "比特币服务提供商Purse用户资金遭窃": "https://www.8btc.com/tag/purse"
+        },
+        {
+          "Purse.io推出礼品卡兑换比特币购物，亚马逊优惠日交易额破24,000美元": "https://www.8btc.com/tag/bcoin"
+        }
+      ]
+    },
+    {
+      "name": "Everledger",
+      "url": "https://www.8btc.com/p/everledger",
+      "articles_num": 6,
+      "articles": [
+        {
+          "澳大利亚政府向两个区块链试点项目提供410万美元资金": "https://www.8btc.com/article/6660257"
+        },
+        {
+          "获得腾讯、富达和乐天等巨头青睐，Everledger终获2000万美元A轮融资": "https://www.8btc.com/article/6660257"
+        },
+        {
+          "从原材料到成品，区块链在供应链和物流领域的应用让消费者对产品质量和安全更放心": "https://www.8btc.com/article/485960"
+        },
+        {
+          "IBM研究新型云端区块链安全服务，为企业区块链项目提供数据安全保护": "https://www.8btc.com/article/485960"
+        },
+        {
+          "德国保险业巨头安联旗下分公司与Everledger合作，探索区块链技术": "https://www.8btc.com/article/96831"
+        },
+        {
+          "区块链初创公司 EverLedger斩获Meffy奖": "https://www.8btc.com/writer/33672"
+        }
+      ]
+    },
+    {
+      "name": "Dapper Labs",
+      "url": "https://www.8btc.com/p/Dapper%20Labs",
+      "articles_num": 11,
+      "articles": [
+        {
+          "Dapper Labs再融资2.5亿美元，估值达到76亿美元": "https://www.8btc.com/article/6689518"
+        },
+        {
+          "浅谈加密朋克和加密猫：NFT收藏类的两种范式": "https://www.8btc.com/article/6689518"
+        },
+        {
+          "Dapper Labs聘请前Ticketmaster首席信息官及前PayPal高管": "https://www.8btc.com/article/6681208"
+        },
+        {
+          "Filecoin与区块链游戏开发商Dapper Labs达成合作": "https://www.8btc.com/writer/573179"
+        },
+        {
+          "NBA Top Shot将出售纪念美国女子国家篮球协会的NFT": "https://www.8btc.com/writer/573179"
+        },
+        {
+          "NBA Top Shot开发公司Dapper Labs将于2022年6月推出类似的西甲NFT": "https://www.8btc.com/tag/cryptokitties"
+        },
+        {
+          "风投机构AppWorks推出1.5亿美元风投基金，主打区块链和AI方向": "https://www.8btc.com/tag/NFT"
+        },
+        {
+          "Muse乐队主唱将在NFT拍卖平台Cryptograph上发布NFT形式单曲": "https://www.8btc.com/tag/CryptoPunks"
+        },
+        {
+          "NBA Top Shot的狂热是否会使其成为以太坊的竞争者？": "https://www.8btc.com/article/6681208"
+        },
+        {
+          "揭秘Dapper Labs背后的男人——NFT的造梦师Roham Gharegozlou": "https://www.8btc.com/article/6679834"
+        },
+        {
+          "融资新闻丨Dapper Labs完成3.05亿美元融资，NBA巨星迈克尔·乔丹等参投": "https://www.8btc.com/article/6679834"
+        }
+      ]
+    },
+    {
+      "name": "元界(Metaverse)",
+      "url": "https://www.8btc.com/p/metaverse",
+      "articles_num": 6,
+      "articles": [
+        {
+          "维优与OpenLedger在纽约宣布正式开启战略合作": "https://www.8btc.com/article/128637"
+        },
+        {
+          "贵阳市政府领导在上海视察维优元界": "https://www.8btc.com/writer/43222"
+        },
+        {
+          "开启数字价值流转生态，公有链维优元界将如何打造生态圈？": "https://www.8btc.com/writer/43222"
+        },
+        {
+          "比特币课堂：不可能结果": "https://www.8btc.com/tag/openledger"
+        },
+        {
+          "货币的一种互联网体系架构": "https://www.8btc.com/tag/metaverse"
+        },
+        {
+          "拜占庭将军问题深入探讨": "https://www.8btc.com/article/128637"
+        }
+      ]
+    },
+    {
+      "name": "Plasm",
+      "url": "https://www.8btc.com/p/plasm",
+      "articles_num": 9,
+      "articles": [
+        {
+          "Astar发起构建Astar/Shiden&Cosmos跨链桥新提案": "https://www.8btc.com/article/6689308"
+        },
+        {
+          "Astar宣布启动3000万美元Astar/Shiden生态系统成长基金": "https://www.8btc.com/article/6689308"
+        },
+        {
+          "Astar宣布启动3000万美元Astar/Shiden生态系统成长基金": "https://www.8btc.com/article/6681976"
+        },
+        {
+          "Astar先行网Shiden Network上线代币转账功能": "https://www.8btc.com/article/6681976"
+        },
+        {
+          "波卡生态DApp平台Astar推出shiden-7版本，新增兼容MetaMask钱包": "https://www.8btc.com/article/6681832"
+        },
+        {
+          "波卡生态项目Astar Network将支持MetaMask钱包账户": "https://www.8btc.com/article/6681832"
+        },
+        {
+          "波卡生态项目Astar Network（原Plasm）宣布获得Web3开放资助": "https://www.8btc.com/article/6679206"
+        },
+        {
+          "波卡周报 | Rococo 已接入 4 个测试平行链：Plasm、Mandala、Phala 和 KILT": "https://www.8btc.com/article/6679206"
+        },
+        {
+          "波卡伙伴们：Plasm团队故事": "https://www.8btc.com/article/6677940"
+        }
+      ]
+    },
+    {
+      "name": "BitFury",
+      "url": "https://www.8btc.com/p/bitfury",
+      "articles_num": 15,
+      "articles": [
+        {
+          "首次登陆比特币主网，BitFury的闪电网络与SW‘解绑’": "https://www.8btc.com/article/134633"
+        },
+        {
+          "当比特币遇上DLT，Bitfury推出“可锚定的”企业区块链Exonum": "https://www.8btc.com/writer/38354"
+        },
+        {
+          "更改比特币PoW算法？BitFury表示将起诉到底": "https://www.8btc.com/writer/38354"
+        },
+        {
+          "格鲁吉亚司法部长：我国的房地产文件区块链平台已经准备就绪，2017年开始使用": "https://www.8btc.com/tag/bitfury"
+        },
+        {
+          "Bitfury得到安永赏识，成为其“御用”区块链软件供应商": "https://www.8btc.com/tag/lightning-network"
+        },
+        {
+          "Bitfury支付路由系统Flare经测试成功整合闪电网络，大大减少交易处理时间": "https://www.8btc.com/article/134633"
+        },
+        {
+          "BitFury研究报告表明比特币交易共享发送（Shared Send）无法提供足够的安全性（白皮书下载）": "https://www.8btc.com/article/133992"
+        },
+        {
+          "区块链在数字时代对民主的意义": "https://www.8btc.com/writer/33672"
+        },
+        {
+          "腐败的末日：区块链技术构建透明政府，消除腐败": "https://www.8btc.com/writer/33672"
+        },
+        {
+          "BitFury白皮书：公共区块链上的数字资产": "https://www.8btc.com/tag/bitcoin"
+        },
+        {
+          "BitFury集团宣布对BitPesa公司进行投资": "https://www.8btc.com/tag/bitfury"
+        },
+        {
+          "前奥巴马总统特别助理Jamie Smith：我为什么会选择区块链": "https://www.8btc.com/tag/exonum"
+        },
+        {
+          "Bitfury 任命美国司法部前任官员为顾问委员会成员": "https://www.8btc.com/article/133992"
+        },
+        {
+          "BitFury推出新一代28nm比特币矿机芯片": "https://www.8btc.com/article/121853"
+        },
+        {
+          "三星首席战略官孙英权加盟BitFury，担任顾问": "https://www.8btc.com/writer/27420"
+        }
+      ]
+    },
+    {
+      "name": "Lisk",
+      "url": "https://www.8btc.com/p/lisk",
+      "articles_num": 9,
+      "articles": [
+        {
+          "比特股创始人：Lisk智能合约并不智能，远不及以太坊": "https://www.8btc.com/article/91928"
+        },
+        {
+          "募资600多万美金的Lisk平台5月24日正式上线，你准备好了吗": "https://www.8btc.com/writer/8305"
+        },
+        {
+          "Lisk要把Dapp放到侧链上，主链表示毫无压力": "https://www.8btc.com/writer/8305"
+        },
+        {
+          "Lisk发布基于侧链的模块化加密货币": "https://www.8btc.com/tag/lisk"
+        },
+        {
+          "千呼万唤始出来！Lisk终于公布平台正式发布日期": "https://www.8btc.com/tag/steem"
+        },
+        {
+          "众筹了580万美金的Lisk宣布2016年发展路线图": "https://www.8btc.com/tag/ethereum"
+        },
+        {
+          "Lisk宣布结束ICO，筹集资金超过600万美元，用于构建DApps": "https://www.8btc.com/article/91928"
+        },
+        {
+          "Lisk众筹超过4600BTC，正式加入微软Azure BaaS项目": "https://www.8btc.com/article/90724"
+        },
+        {
+          "微软Azure平台新增5个区块链合作伙伴": "https://www.8btc.com/writer/38354"
+        }
+      ]
+    },
+    {
+      "name": "公证通（Factom）",
+      "url": "https://www.8btc.com/p/factom",
+      "articles_num": 11,
+      "articles": [
+        {
+          "区块链公司网录科技完成千万级天使轮融资，创始人是Factom原CTO": "https://www.8btc.com/article/109042"
+        },
+        {
+          "不把鸡蛋放在一个篮子！Factom同时使用比特币和以太坊区块链": "https://www.8btc.com/article/109042"
+        },
+        {
+          "Factom与Intrinio合作将华尔街金融数据放到区块链上，实现快速查询美国股市数据": "https://www.8btc.com/article/103535"
+        },
+        {
+          "美国国土安全部投资Factom等区块链项目，安全与隐私是首要关注点": "https://www.8btc.com/writer/33672"
+        },
+        {
+          "Factom获美国国土安全局19.9万美元项目拨款，利用区块链提高物联网安全性": "https://www.8btc.com/writer/33672"
+        },
+        {
+          "Factom计划加入以太坊大部队": "https://www.8btc.com/tag/bitcoin"
+        },
+        {
+          "Factom与杭州安存正信达成区块链技术合作": "https://www.8btc.com/tag/factom"
+        },
+        {
+          "洪都拉斯区块链土地产权项目停滞，Factom澄清说法": "https://www.8btc.com/tag/ethereum"
+        },
+        {
+          "公证通众筹获54万美元": "https://www.8btc.com/article/103535"
+        },
+        {
+          "传Factom与洪都拉斯政府达成合作，测试区块链技术": "https://www.8btc.com/article/101477"
+        },
+        {
+          "二代币Factom联姻Tether，并宣布众筹时间": "https://www.8btc.com/writer/33672"
+        }
+      ]
+    },
+    {
+      "name": "KnCMiner",
+      "url": "https://www.8btc.com/p/kncminer",
+      "articles_num": 4,
+      "articles": [
+        {
+          "KNC创始人如何看ASICboost": "https://www.8btc.com/article/124224"
+        },
+        {
+          "竞争不过中国矿机商KnC宣布破产": "https://www.8btc.com/writer/54153"
+        },
+        {
+          "KnCMiner创始人：利益冲突正在控制Blockstream": "https://www.8btc.com/writer/54153"
+        },
+        {
+          "KnCMiner的比特币矿机Jupiter开始发货": "https://www.8btc.com/tag/bitcoin"
+        }
+      ]
+    },
+    {
+      "name": "BitSE",
+      "url": "https://www.8btc.com/p/bitse",
+      "articles_num": 10,
+      "articles": [
+        {
+          "首个区块链小镇落户贵州，区块链政府引导母基金诞生": "https://www.8btc.com/article/128838"
+        },
+        {
+          "区块链给人类带来了全球高效协同新方式，把信任所需付出的代价降到最低": "https://www.8btc.com/writer/10358"
+        },
+        {
+          "BitSE受邀出席2016年上海国际智库峰会": "https://www.8btc.com/writer/10358"
+        },
+        {
+          "普华永道合伙人季瑞华：区块链将从根本上改变很多商业领域": "https://www.8btc.com/tag/bitse"
+        },
+        {
+          "普华永道与BitSE达成合作，共同推动区块链技术在中国的应用落地": "https://www.8btc.com/tag/china-big-data-expo-2017"
+        },
+        {
+          "普华永道与BitSE携手推动“区块链”的中国之路": "https://www.8btc.com/article/128838"
+        },
+        {
+          "前Louis Vuitton中国区CIO 陆扬将领导公司区块链防伪平台Vechain业务": "https://www.8btc.com/article/117634"
+        },
+        {
+          "中国区块链企业BitSE受邀至美国Cisco公司技术交流，透露拟近期发布区块链技术全栈": "https://www.8btc.com/writer/37522"
+        },
+        {
+          "BitAngel主席对国内区块链项目VeChain青睐有加，称其最具独角兽潜质": "https://www.8btc.com/writer/37522"
+        },
+        {
+          "Blockchain 元年 —2016旧金山区块链峰会全程回顾": "https://www.8btc.com/tag/blockchain"
+        }
+      ]
+    },
+    {
+      "name": "Bancor",
+      "url": "https://www.8btc.com/p/bancor",
+      "articles_num": 7,
+      "articles": [
+        {
+          "去中心化交易协议Bancor宣布BNT已集成至Opensea": "https://www.8btc.com/article/6675295"
+        },
+        {
+          "去中心化交易协议Bancor将xSushi加入白名单，允许质押xSushi赚取交易费用": "https://www.8btc.com/article/6675295"
+        },
+        {
+          "去中心化交易协议Bancor推出Vortex机制": "https://www.8btc.com/article/6665659"
+        },
+        {
+          "Bancor协议推出Bancor治理和v2.1版本更新": "https://www.8btc.com/article/6665659"
+        },
+        {
+          "Bancor V2新增ENJ作为其启动池去中心化交易协议": "https://www.8btc.com/article/6599479"
+        },
+        {
+          "Bancor安全事件分析：简单漏洞引发50万美元损失": "https://www.8btc.com/article/6599479"
+        },
+        {
+          "BM最新撰文《高流动性价格挂钩代币算法》": "https://www.8btc.com/article/655413"
+        }
+      ]
+    },
+    {
+      "name": "Quorum",
+      "url": "https://www.8btc.com/p/quorum",
+      "articles_num": 8,
+      "articles": [
+        {
+          "重磅：ConsenSys获摩根大通战略投资，收购其区块链平台Quorum": "https://www.8btc.com/article/639901"
+        },
+        {
+          "为什么Hyperledger Fabric会战胜R3 Corda和Quorum？": "https://www.8btc.com/writer/38354"
+        },
+        {
+          "一文了解摩根大通的金融区块链平台：Quorum": "https://www.8btc.com/writer/38354"
+        },
+        {
+          "强强联合！摩根大通商讨将区块链部门Quorum合并给ConsenSys": "https://www.8btc.com/tag/consensys"
+        },
+        {
+          "在Fabric、 Quorum以及Corda之间实现跨链，超级账本的集成框架是这样的": "https://www.8btc.com/tag/quorum"
+        },
+        {
+          "摩根大通扩展Zether协议，或为Quorum项目开发新隐私功能": "https://www.8btc.com/article/639901"
+        },
+        {
+          "成功整合Zcash隐私技术，摩根大通Quorum平台或成为首个企业区块链杀手级应用": "https://www.8btc.com/media/638961"
+        },
+        {
+          "摩根大通企业区块链Quorum正式上线微软Azure平台，进入合作发展模式": "https://www.8btc.com/writer/570799"
+        }
+      ]
+    },
+    {
+      "name": "合约币",
+      "url": "https://www.8btc.com/p/counterparty",
+      "articles_num": 10,
+      "articles": [
+        {
+          "合约币以太坊虚拟机+比特币区块链，比特币智能合约时代即将到来": "https://www.8btc.com/article/95035"
+        },
+        {
+          "合约币植入以太坊虚拟机，打造拥有以太坊的属性的比特币区块链": "https://www.8btc.com/writer/38354"
+        },
+        {
+          "合约币社区主管：以太坊不可能成功，它就是100%的炒作": "https://www.8btc.com/writer/38354"
+        },
+        {
+          "GEMZ开发更新：贴纸功能即将发布": "https://www.8btc.com/tag/bitcoin"
+        },
+        {
+          "IEET研究所：合约币和以太坊，比特币2.0刚刚开始": "https://www.8btc.com/tag/blockchain"
+        },
+        {
+          "Counterparty宣布成功移植以太坊编程语言": "https://www.8btc.com/tag/counterparty"
+        },
+        {
+          "我们创建了很多二代币，但真有人用吗？": "https://www.8btc.com/article/95035"
+        },
+        {
+          "理解现如今可交易币种的生态系统": "https://www.8btc.com/article/93266"
+        },
+        {
+          "合约币率先支持Armory的离线钱包服务": "https://www.8btc.com/writer/33672"
+        },
+        {
+          "Swarm采用合约币协议打造众筹界的Facebook": "https://www.8btc.com/writer/33672"
+        }
+      ]
+    },
+    {
+      "name": "Skuchain",
+      "url": "https://www.8btc.com/p/skuchain",
+      "articles_num": 4,
+      "articles": [
+        {
+          "区块链加供应链会出现宇宙大爆炸的效果吗？": "https://www.8btc.com/article/85119"
+        },
+        {
+          "Skuchain：利用Amino Capital, DCG, and FBS Capital的资金为全球贸易金融市场打造区块链解决方案": "https://www.8btc.com/writer/33672"
+        },
+        {
+          "5家区块链创业公司加入Plug and Play 金融技术孵化器": "https://www.8btc.com/writer/33672"
+        },
+        {
+          "Skuchain：用区块链技术建设新一代供应链": "https://www.8btc.com/tag/blockchain"
+        }
+      ]
+    },
+    {
+      "name": "Block.one",
+      "url": "https://www.8btc.com/p/b1",
+      "articles_num": 14,
+      "articles": [
+        {
+          "抽丝剥茧：从B1的24万枚BTC揪出B1背后股东": "https://www.8btc.com/article/6581243"
+        },
+        {
+          "BB：看好BSV和DPoS，相信不同共识机制将共同繁荣": "https://www.8btc.com/writer/6818"
+        },
+        {
+          "BB：EOSVC正致力于帮助加密项目解决合规问题": "https://www.8btc.com/writer/6818"
+        },
+        {
+          "Block.one推出EOSIO区块链的商业版本": "https://www.8btc.com/tag/eos"
+        },
+        {
+          "高盛前技术专家将加入Block.One顾问委员会担任主席": "https://www.8btc.com/tag/b1"
+        },
+        {
+          "Tether联合创始人Brock Pierce涉嫌证券欺诈": "https://www.8btc.com/article/6581243"
+        },
+        {
+          "CEO认为今年是最好一年，但两周年庆祝没能实现EOS大涨": "https://www.8btc.com/article/667497"
+        },
+        {
+          "Block.one又陷集体诉讼，EOS能否再“渡劫”？": "https://www.8btc.com/article/667497"
+        },
+        {
+          "Block.one官方1亿EOS将开始参与节点投票，对EOS生态影响几何？": "https://www.8btc.com/article/667395"
+        },
+        {
+          "Block.one宣布再拿出1.5亿美元让Voice独立运营，总计投入已达3亿美元": "https://www.8btc.com/article/667395"
+        },
+        {
+          "育碧与区块链公司Ultra达成合作，这次它要当EOS侧链超级节点": "https://www.8btc.com/article/656809"
+        },
+        {
+          "Block.one花费1.5亿美元打造Voice，光域名就价值3000万美元": "https://www.8btc.com/writer/622247"
+        },
+        {
+          "1.5亿美元不是白给的，Block.one考虑对Voice收取“通胀税”": "https://www.8btc.com/writer/622247"
+        },
+        {
+          "66倍收益！Block.one不惜巨额资金回购股票的背后是SEC要出手了？": "https://www.8btc.com/tag/eos"
+        }
+      ]
+    },
+    {
+      "name": "Avalanche",
+      "url": "https://www.8btc.com/p/Avalanche",
+      "articles_num": 7,
+      "articles": [
+        {
+          "摩根大通董事总经理：ETH被严重高估，其公允价值为1500美元": "https://www.8btc.com/article/6688336"
+        },
+        {
+          "Aave社区同意在Avalanche链上部署Aave协议": "https://www.8btc.com/article/6688336"
+        },
+        {
+          "AVAX市值突破160亿美元，升至第11位": "https://www.8btc.com/article/6688266"
+        },
+        {
+          "Celer推出的跨链支付网络cBridge宣布支持Optimism和Arbitrum": "https://www.8btc.com/article/6688266"
+        },
+        {
+          "YFI创始人AC：Fantom将向使用过Polygon等6个跨链桥的用户发送FTM代币": "https://www.8btc.com/article/6687742"
+        },
+        {
+          "Avalanche生态桌面钱包AVME Beta版将推出": "https://www.8btc.com/article/6687742"
+        },
+        {
+          "Avalanche推出AvalancheGo v1.5.2版本修复关键安全漏洞，节点运营商应尽快更新": "https://www.8btc.com/article/6679846"
+        }
+      ]
+    },
+    {
+      "name": "BitX",
+      "url": "https://www.8btc.com/p/bitx",
+      "articles_num": 2,
+      "articles": [
+        {
+          "比特币交易平台BitX进军尼日利亚，ICE3x迎来竞争对手": "https://www.8btc.com/article/61740"
+        },
+        {
+          "比特币服务公司BitX获82.4万美元天使轮投资": "https://www.8btc.com/writer/11917"
+        }
+      ]
+    },
+    {
+      "name": "Xapo",
+      "url": "https://www.8btc.com/p/xapo",
+      "articles_num": 8,
+      "articles": [
+        {
+          "Xapo正式终止与Blockstream的比特币合作，转向以太坊？": "https://www.8btc.com/article/82912"
+        },
+        {
+          "Xapo CEO遭起诉，前东家LifeLock称其侵犯公司知识产权": "https://www.8btc.com/writer/33672"
+        },
+        {
+          "Xapo CEO：希腊不应该采用比特币": "https://www.8btc.com/writer/33672"
+        },
+        {
+          "XAPO迎来三位大人物，Visa创始人看好比特币": "https://www.8btc.com/tag/bitcoin"
+        },
+        {
+          "阿根廷知名社交网络Taringa整合比特币打赏": "https://www.8btc.com/tag/xapo"
+        },
+        {
+          "《企业家》专访雷德·霍夫曼：豪赌比特币背后的秘密": "https://www.8btc.com/tag/blockstream"
+        },
+        {
+          "Xapo CEO：比特币会超过互联网对世界所做的改变": "https://www.8btc.com/article/82912"
+        },
+        {
+          "Xapo首席执行官Casares：发展中国家将决定比特币的未来": "https://www.8btc.com/article/62395"
+        }
+      ]
+    },
+    {
+      "name": "IOTA",
+      "url": "https://www.8btc.com/p/iota",
+      "articles_num": 8,
+      "articles": [
+        {
+          "IOTA基金会被选为欧洲区块链基础设施项目参与者，旨在改善欧洲政企间的跨境服务": "https://www.8btc.com/article/6683680"
+        },
+        {
+          "分布式账本IOTA发布新的Track & Trace Ledger API": "https://www.8btc.com/article/6683680"
+        },
+        {
+          "IOTA基金会发布终端用户钱包Firefly 1.2.0，支持Ledger Nano硬件钱包": "https://www.8btc.com/article/6675333"
+        },
+        {
+          "引谈 | 使用IPFS、IOTA构建的智能回收系统": "https://www.8btc.com/article/6675333"
+        },
+        {
+          "被盗最高120万美元，基金会关闭IOTA网络": "https://www.8btc.com/article/6670749"
+        },
+        {
+          "IOTA联合创始人宣布退圈，清仓所有加密货币": "https://www.8btc.com/article/6670749"
+        },
+        {
+          "钱包安全性太差，IOTA被窃取400万美元资金": "https://www.8btc.com/media/554198"
+        },
+        {
+          "比特币等公有链不适合物联网行业？物联网需要专用区块链": "https://www.8btc.com/writer/466580"
+        }
+      ]
+    },
+    {
+      "name": "MaidSafe",
+      "url": "https://www.8btc.com/p/maidsafe",
+      "articles_num": 7,
+      "articles": [
+        {
+          "在数字货币众筹项目中如何赋权给众筹者": "https://www.8btc.com/article/64756"
+        },
+        {
+          "MaidSafe开发迎来里程碑，SAFE网络接近完成": "https://www.8btc.com/writer/89"
+        },
+        {
+          "Maidsafe-去中心化互联网白皮书": "https://www.8btc.com/writer/89"
+        },
+        {
+          "Maidsafe：去中心化互联网之安全网络的架构": "https://www.8btc.com/tag/maidsafe"
+        },
+        {
+          "展望加密货币项目之间的合作": "https://www.8btc.com/tag/2506"
+        },
+        {
+          "MaidSafe创始人Irvine访谈：建立互联网上的巨大蚁群": "https://www.8btc.com/tag/ethereum"
+        },
+        {
+          "如果你能了解蚂蚁，你就能理解MaidSafe": "https://www.8btc.com/article/64756"
+        }
+      ]
+    },
+    {
+      "name": "Voice",
+      "url": "https://www.8btc.com/p/voice",
+      "articles_num": 5,
+      "articles": [
+        {
+          "Block.one宣布再拿出1.5亿美元让Voice独立运营，总计投入已达3亿美元": "https://www.8btc.com/article/574913"
+        },
+        {
+          "少了中国的 Voice，还说要「game changing」吗？": "https://www.8btc.com/writer/33672"
+        },
+        {
+          "这里，真相有“声”（Voice）": "https://www.8btc.com/writer/33672"
+        },
+        {
+          "1.5亿美元不是白给的，Block.one考虑对Voice收取“通胀税”": "https://www.8btc.com/tag/b1"
+        },
+        {
+          "10大关键词，让你全面了解Voice": "https://www.8btc.com/tag/voice"
+        }
+      ]
+    },
+    {
+      "name": "Balancer",
+      "url": "https://www.8btc.com/p/balancer",
+      "articles_num": 6,
+      "articles": [
+        {
+          "Balancer与WSB DApp将合作推出加密ETP投资组合产品": "https://www.8btc.com/article/6683720"
+        },
+        {
+          "加密资管协议Balancer上线Arbitrum主网": "https://www.8btc.com/article/6683720"
+        },
+        {
+          "Indexed Finance已向Balancer Grants DAO申请15万美元赠款，第一笔款项已获批准": "https://www.8btc.com/article/6679796"
+        },
+        {
+          "Balancer宣布推出MetaStable池，并与Lido合作开展联合MetaStable池激励计划": "https://www.8btc.com/article/6679796"
+        },
+        {
+          "Balancer启动Gas费补贴计划，平均补贴Gas费用的40％": "https://www.8btc.com/article/6679194"
+        },
+        {
+          "成都链安：Balancer项目漏洞分析": "https://www.8btc.com/article/6679194"
+        }
+      ]
+    },
+    {
+      "name": "REN",
+      "url": "https://www.8btc.com/p/ren",
+      "articles_num": 5,
+      "articles": [
+        {
+          "RenVM测试网支持Greycore，将逐个向成员开放": "https://www.8btc.com/article/6685894"
+        },
+        {
+          "YFI创始人AC：Fantom将向使用过Polygon等6个跨链桥的用户发送FTM代币": "https://www.8btc.com/article/6685894"
+        },
+        {
+          "RenVM已集成以太坊二层扩容方案Arbitrum": "https://www.8btc.com/article/6679232"
+        },
+        {
+          "以太坊隐私解决方案Railgun已支持renBTC和renZEC": "https://www.8btc.com/article/6679232"
+        },
+        {
+          "Ren宣布其跨链桥RenBridge已支持本地RenVM取款": "https://www.8btc.com/article/6675821"
+        }
+      ]
+    },
+    {
+      "name": "RootStock",
+      "url": "https://www.8btc.com/p/rootstock",
+      "articles_num": 9,
+      "articles": [
+        {
+          "比特币智能合约协议Rootstock被正式收购，将不再局限于比特币": "https://www.8btc.com/article/313180"
+        },
+        {
+          "比特币智能合约平台Rootstock敲定发布时间，SegWit2x成‘不确定因素’": "https://www.8btc.com/writer/33672"
+        },
+        {
+          "新型扩容方案Lumino：每秒交易处理量达100笔，无需等待隔离验证激活": "https://www.8btc.com/writer/33672"
+        },
+        {
+          "《币周刊》第118期：高盛等退出R3区块链联盟；以太坊（分叉）网络再分叉": "https://www.8btc.com/tag/smart-contract"
+        },
+        {
+          "Rootstock的智能合约梦想：用比特币助力金融服务普及化": "https://www.8btc.com/tag/rootstock"
+        },
+        {
+          "智能合约之战，比特币＋Rootstock将比以太坊更智能？": "https://www.8btc.com/article/313180"
+        },
+        {
+          "银行最终会从私链转向公链？": "https://www.8btc.com/article/140616"
+        },
+        {
+          "RootStock=最好的比特币+最好的以太坊": "https://www.8btc.com/writer/38354"
+        },
+        {
+          "rootstock，挂钩于比特币网络的智能合约平台": "https://www.8btc.com/writer/38354"
+        }
+      ]
+    },
+    {
+      "name": "Augur",
+      "url": "https://www.8btc.com/p/augur",
+      "articles_num": 6,
+      "articles": [
+        {
+          "细说 Augur：如何用“四腿策略”抗击欺诈、稳定市场": "https://www.8btc.com/article/431759"
+        },
+        {
+          "巨鲸交易员在去中心化预测市场押注50万美元ETH": "https://www.8btc.com/writer/596522"
+        },
+        {
+          "Augur与Airbitz合作去中心化存储私钥和账户数据，解决了Dapp的一个最大问题": "https://www.8btc.com/writer/596522"
+        },
+        {
+          "风险投资：以太坊区块链创业公司未来将是重要投资对象": "https://www.8btc.com/tag/augur"
+        },
+        {
+          "微软Azure平台新增5个区块链合作伙伴": "https://www.8btc.com/tag/4621"
+        },
+        {
+          "区块链预测市场平台Augur进入Beta测试": "https://www.8btc.com/article/431759"
+        }
+      ]
+    },
+    {
+      "name": "Dfinity",
+      "url": "https://www.8btc.com/p/dfinity",
+      "articles_num": 8,
+      "articles": [
+        {
+          "DFINITY社区批准了一项提案，使容器智能合约能够转移ICP代币": "https://www.8btc.com/article/6688242"
+        },
+        {
+          "DFINITY生态去中心化社交媒体网络Distrikt发布安卓版客户端": "https://www.8btc.com/article/6688242"
+        },
+        {
+          "DFINITY互联网计算机关于提升容器内存的提案获得通过": "https://www.8btc.com/article/6686388"
+        },
+        {
+          "DFINITY基金会上线互联网计算机路线图页面，可以进行社区讨论或投票治理": "https://www.8btc.com/article/6686388"
+        },
+        {
+          "DFINITY官方：1400名开发人员通过Cycles Faucet在DFINITY进行编码，比上周增加了40%": "https://www.8btc.com/article/6681174"
+        },
+        {
+          "超过700个网站已通过Fleek部署至DFINITY互联网计算机": "https://www.8btc.com/article/6681174"
+        },
+        {
+          "DFINITY互联网计算机（ICP）自5月以来吸引500名开发者和近25万名用户": "https://www.8btc.com/article/6675053"
+        },
+        {
+          "一文了解Dfinity互联网计算机的网络认证和身份验证": "https://www.8btc.com/article/6675053"
+        }
+      ]
+    },
+    {
+      "name": "Energo",
+      "url": "https://www.8btc.com/p/energo",
+      "articles_num": 8,
+      "articles": [
+        {
+          "联合国亚太地区低碳生活方式挑战赛落幕 区块链公司Energo Labs获得冠军": "https://www.8btc.com/article/187886"
+        },
+        {
+          "Energo Labs携手菲律宾最大清洁能源生产商举办区块链+新能源工作坊": "https://www.8btc.com/writer/94439"
+        },
+        {
+          "Energo Labs出席华盛顿数字资产投资论坛": "https://www.8btc.com/writer/94439"
+        },
+        {
+          "基于QTUM的Dapp项目Energo Labs与印度最大去中心化能源组织签约达成战略合作关系": "https://www.8btc.com/tag/energo"
+        },
+        {
+          "基于QTUM的D-app项目Energo正式加入菲律宾PE²组织，为电力交易自由化发声": "https://www.8btc.com/article/187886"
+        },
+        {
+          "Energo Labs宣布2018年战略布局，加速亚洲的能源革命浪潮": "https://www.8btc.com/article/172784"
+        },
+        {
+          "Energo Labs接受韩国著名科技类媒体Bloter专访": "https://www.8btc.com/writer/94439"
+        },
+        {
+          "基于量子链的应用——能源链ICO圆满收官": "https://www.8btc.com/writer/94439"
+        }
+      ]
+    },
+    {
+      "name": "WINGS",
+      "url": "https://www.8btc.com/p/wings",
+      "articles_num": 6,
+      "articles": [
+        {
+          "视频娱乐软件商Stremio众筹登录WINGS去中心化智能合约平台": "https://www.8btc.com/article/112237"
+        },
+        {
+          "做数字资产领域的kickstarter，Wings如何避免重蹈The DAO覆辙？": "https://www.8btc.com/writer/45859"
+        },
+        {
+          "郭宏才加入WINGS基金会顾问委员会": "https://www.8btc.com/writer/45859"
+        },
+        {
+          "已经筹得近1500比特币的Wings，有哪些看点？": "https://www.8btc.com/tag/wings"
+        },
+        {
+          "瑞士监管当局批准WINGS基金会开启捐赠众筹": "https://www.8btc.com/article/112237"
+        },
+        {
+          "WINGS与Airbitz达成战略合作，将“边界安全”集成到下一代分布式自治组织中": "https://www.8btc.com/article/112277"
+        }
+      ]
+    },
+    {
+      "name": "Shiden Network",
+      "url": "https://www.8btc.com/p/Shiden%20Network",
+      "articles_num": 6,
+      "articles": [
+        {
+          "Astar发起构建Astar/Shiden&Cosmos跨链桥新提案": "https://www.8btc.com/article/6689308"
+        },
+        {
+          "波卡隐私保护项目Manta Network先行网Calamari赢得Kusama第七次平行链插槽竞拍": "https://www.8btc.com/article/6689308"
+        },
+        {
+          "开源区块链协议KILT Protocol赢得Kusama第六个平行链插槽竞拍": "https://www.8btc.com/article/6686470"
+        },
+        {
+          "Astar宣布启动3000万美元Astar/Shiden生态系统成长基金": "https://www.8btc.com/article/6686470"
+        },
+        {
+          "Astar先行网Shiden Network上线代币转账功能": "https://www.8btc.com/article/6683226"
+        },
+        {
+          "Astar先行网Shiden Network：从未打算IDO，请用户当心诈骗": "https://www.8btc.com/article/6683226"
+        }
+      ]
+    },
+    {
+      "name": "ADEPT物联网",
+      "url": "https://www.8btc.com/p/adept",
+      "articles_num": 5,
+      "articles": [
+        {
+          "IBM Adept系统：使用区块链技术的物联网架构": "https://www.8btc.com/article/83825"
+        },
+        {
+          "如何让几十亿物联网设备加入比特币网络？": "https://www.8btc.com/writer/6818"
+        },
+        {
+          "IBM联合三星：利用以太坊协议打造去中心化的物联网Adept": "https://www.8btc.com/writer/6818"
+        },
+        {
+          "猜测IBM公司Adept物联网技术三原则": "https://www.8btc.com/tag/adept"
+        },
+        {
+          "IBM高管强调区块链在物联网中的用途": "https://www.8btc.com/article/83825"
+        }
+      ]
+    },
+    {
+      "name": "Enjin",
+      "url": "https://www.8btc.com/p/enjin",
+      "articles_num": 4,
+      "articles": [
+        {
+          "Enjin钱包暂时从iOS App Store中下架": "https://www.8btc.com/article/6678154"
+        },
+        {
+          "区块链平台Enjin计划利用NFT来促进可持续性和平等性": "https://www.8btc.com/article/6678154"
+        },
+        {
+          "独家丨小小Enjin将自成元宇宙生态？一文了解Enjin发展潜力": "https://www.8btc.com/article/6663521"
+        },
+        {
+          "融资新闻 | Enjin完成1890万美元融资，打造基于波卡的NFT网络": "https://www.8btc.com/article/6663521"
+        }
+      ]
+    },
+    {
+      "name": "Symbiont",
+      "url": "https://www.8btc.com/p/symbiont",
+      "articles_num": 5,
+      "articles": [
+        {
+          "马云出手投资区块链，其控股公司恒生电子战略投资Symbiont": "https://www.8btc.com/article/126663"
+        },
+        {
+          "R3联盟连续发布新成果，联合金融技术公司Symbiont完成银团贷款交易区块链测试": "https://www.8btc.com/writer/27420"
+        },
+        {
+          "数字安全巨头金雅拓联手Symbiont，提高区块链证券交易安全水平": "https://www.8btc.com/writer/27420"
+        },
+        {
+          "Symbiont：基于区块链的私募股权市场才是未来": "https://www.8btc.com/tag/symbiont"
+        },
+        {
+          "智能合约平台Symbiont宣布首次发行“智能证券”": "https://www.8btc.com/article/126663"
+        }
+      ]
+    },
+    {
+      "name": "Metis",
+      "url": "https://www.8btc.com/p/Metis",
+      "articles_num": 3,
+      "articles": [
+        {
+          "Layer2 DAO基础协议Metis将于10月推出主网": "https://www.8btc.com/article/6684790"
+        },
+        {
+          "Layer 2基础协议Metis推出中间件系统Polis的MVP版本": "https://www.8btc.com/article/6684790"
+        },
+        {
+          "Layer2+DAO基础协议Metis开启Alpha测试网测试计划": "https://www.8btc.com/article/6663487"
+        }
+      ]
+    },
+    {
+      "name": "Aragon",
+      "url": "https://www.8btc.com/p/aragon",
+      "articles_num": 4,
+      "articles": [
+        {
+          "Aragon协会的12名员工宣布辞职": "https://www.8btc.com/article/6583340"
+        },
+        {
+          "走进Aragon V2": "https://www.8btc.com/article/6583340"
+        },
+        {
+          "除了3.5亿美元BTC，风险投资家Tim Draper透露他还持有这些币": "https://www.8btc.com/media/656691"
+        },
+        {
+          "打工是不可能打工的，另类赛博组织DAO的脱畜指南": "https://www.8btc.com/writer/902910"
+        }
+      ]
+    },
+    {
+      "name": "Coinkite",
+      "url": "https://www.8btc.com/p/coinkite",
+      "articles_num": 5,
+      "articles": [
+        {
+          "Coinkite即将关闭用户钱包服务，专注企业级比特币硬件开发": "https://www.8btc.com/article/84854"
+        },
+        {
+          "Backpage遭围剿后，用户流入比特币交易平台BitQuick": "https://www.8btc.com/writer/11758"
+        },
+        {
+          "让比特币禁令成为废纸，Coinkite推出钱包API": "https://www.8btc.com/writer/11758"
+        },
+        {
+          "用短信发送比特币": "https://www.8btc.com/tag/bitcoin"
+        },
+        {
+          "两家加拿大公司Coinkite和Virtex都将推出比特币借记卡服务": "https://www.8btc.com/tag/bitcoin-wallet"
+        }
+      ]
+    },
+    {
+      "name": "Oasis",
+      "url": "https://www.8btc.com/p/oasis",
+      "articles_num": 1,
+      "articles": [
+        {
+          "Dawn Song：建立有责数据经济，实现隐私数据保护 | 世界区块链大会·武汉": "https://www.8btc.com/article/676787"
+        }
+      ]
+    },
+    {
+      "name": "Trezor",
+      "url": "https://www.8btc.com/p/trezor",
+      "articles_num": 4,
+      "articles": [
+        {
+          "修复隔离见证漏洞，Trezor的固件更新反而会导致用户资金被锁": "https://www.8btc.com/article/606181"
+        },
+        {
+          "所有硬件钱包都能被攻破？这个团队现场揭露了Trezor和Leger的漏洞": "https://www.8btc.com/writer/164840"
+        },
+        {
+          "比特币硬件钱包TREZOR曝安全漏洞，开发商已发布更新": "https://www.8btc.com/writer/164840"
+        },
+        {
+          "KeepKey 和 Trezor：口袋里的比特币钱包": "https://www.8btc.com/tag/bitcoin"
+        }
+      ]
+    },
+    {
+      "name": "Tezos",
+      "url": "https://www.8btc.com/p/tezos",
+      "articles_num": 3,
+      "articles": [
+        {
+          "区块链打车应用Tada转向更环保的Tezos技术": "https://www.8btc.com/article/6659863"
+        },
+        {
+          "科普 | XTZ质押率是78%还是94%？原来ATOM流动性只剩下4%": "https://www.8btc.com/article/6659863"
+        },
+        {
+          "币价翻3倍！Tezos完成第一次链上治理正在部署": "https://www.8btc.com/article/589298"
+        }
+      ]
+    },
+    {
+      "name": "Moonriver",
+      "url": "https://www.8btc.com/p/Moonriver",
+      "articles_num": 4,
+      "articles": [
+        {
+          "跨链交易协议Anyswap与Moonriver集成，已部署18种资产": "https://www.8btc.com/article/6690320"
+        },
+        {
+          "波卡隐私保护项目Manta Network先行网Calamari赢得Kusama第七次平行链插槽竞拍": "https://www.8btc.com/article/6690320"
+        },
+        {
+          "Moonbeam与流动性抵押协议Lido合作，为Polkadot生态系统提供流动性质押": "https://www.8btc.com/article/6686470"
+        },
+        {
+          "开源区块链协议KILT Protocol赢得Kusama第六个平行链插槽竞拍": "https://www.8btc.com/article/6686470"
+        }
+      ]
+    },
+    {
+      "name": "tØ",
+      "url": "https://www.8btc.com/p/t0",
+      "articles_num": 5,
+      "articles": [
+        {
+          "Overstock旗下TØ即将发行史上第一种区块链证券，总额高达5亿美元": "https://www.8btc.com/article/103877"
+        },
+        {
+          "区块链项目Medici迎来新“掌门”，T0与Bitt将继续发力": "https://www.8btc.com/writer/33672"
+        },
+        {
+          "Overstock.com CEO：公司计划在区块链账本上发行证券": "https://www.8btc.com/writer/33672"
+        },
+        {
+          "Overstock公布tØ区块链平台上发行自己的股票计划": "https://www.8btc.com/tag/overstock"
+        },
+        {
+          "第三季度Overstcok在其区块链项目上投资了300万美元": "https://www.8btc.com/tag/blockchain-technology"
+        }
+      ]
+    },
+    {
+      "name": "Enigma",
+      "url": "https://www.8btc.com/p/enigma",
+      "articles_num": 4,
+      "articles": [
+        {
+          "ICO盗窃再次上演，Enigma项目支持者被骗50万美元": "https://www.8btc.com/article/138300"
+        },
+        {
+          "MIT Enigma：让你用区块链销售私人数据": "https://www.8btc.com/writer/33672"
+        },
+        {
+          "麻省理工媒体实验室Enigma区块链项目将推出测试版": "https://www.8btc.com/writer/33672"
+        },
+        {
+          "受比特币启发，MIT神秘Enigma项目让计算机挖掘加密数据": "https://www.8btc.com/tag/blockchain"
+        }
+      ]
+    },
+    {
+      "name": "Cyber​​Miles",
+      "url": "https://www.8btc.com/p/cybermiles",
+      "articles_num": 5,
+      "articles": [
+        {
+          "证券化资产上链，电商平台如何从中受益": "https://www.8btc.com/article/231367"
+        },
+        {
+          "CyberMiles新上线零交易费的电商平台Blocktonic": "https://www.8btc.com/writer/156952"
+        },
+        {
+          "CyberMiles首席科学家：我们要建立去中心化的电子商务": "https://www.8btc.com/writer/156952"
+        },
+        {
+          "CyberMiles测试链Travis测试指南": "https://www.8btc.com/tag/cybermiles"
+        },
+        {
+          "5miles携手CyberMiles，把区块链带入真实商业世界": "https://www.8btc.com/article/231367"
+        }
+      ]
+    },
+    {
+      "name": "比特信（Bitmessage）",
+      "url": "https://www.8btc.com/p/bitmessage",
+      "articles_num": 3,
+      "articles": [
+        {
+          "“棱镜杀手”比特信（Bitmessage）火起来了": "https://www.8btc.com/article/83793"
+        },
+        {
+          "比特信：一个由比特币启发的P2P通讯软件": "https://www.8btc.com/writer/6818"
+        },
+        {
+          "Bitmessage：基于比特币技术的在线通信协议": "https://www.8btc.com/writer/6818"
+        }
+      ]
+    },
+    {
+      "name": "Brave",
+      "url": "https://www.8btc.com/p/brave",
+      "articles_num": 5,
+      "articles": [
+        {
+          "浅谈区块链如何解决社媒的真痛点：分布式+隐私计算+奖励机制": "https://www.8btc.com/media/6575303"
+        },
+        {
+          "一周暴涨50%，BAT如何走猥琐发育的路，做虎口拔牙的事？": "https://www.8btc.com/writer/603613"
+        },
+        {
+          "Brave比特币微支付服务成功运行，华尔街日报成首例用户": "https://www.8btc.com/writer/603613"
+        },
+        {
+          "Opera浏览器或整合比特币微支付，让广告无可遁形！": "https://www.8btc.com/tag/social-network"
+        },
+        {
+          "比特币浏览器Brave在新闻出版业点燃了一把大火": "https://www.8btc.com/tag/brave"
+        }
+      ]
+    },
+    {
+      "name": "IMC",
+      "url": "https://www.8btc.com/p/imc",
+      "articles_num": 1,
+      "articles": [
+        {
+          "IMC：区块链+AI+医疗，让用户享受健康大数据带来的价值丨2019全球区块链（杭州）高峰论坛": "https://www.8btc.com/article/411343"
+        }
+      ]
+    },
+    {
+      "name": "zkSync",
+      "url": "https://www.8btc.com/p/zksync",
+      "articles_num": 3,
+      "articles": [
+        {
+          "Matter Labs推迟上线zkSync 2.0，将在几周后分阶段开放测试网": "https://www.8btc.com/article/6679490"
+        },
+        {
+          "以太坊二层解决方案zkSync 1.x主网升级完成，新增代币交易和支持NFT等功能": "https://www.8btc.com/article/6679490"
+        },
+        {
+          "ImToken将支持MatterLabs扩容方案zkSync": "https://www.8btc.com/article/6661193"
+        }
+      ]
+    },
+    {
+      "name": "Beam",
+      "url": "https://www.8btc.com/p/beam",
+      "articles_num": 3,
+      "articles": [
+        {
+          "为什么《攻破MimbleWimble隐私模型》不适用于BEAM": "https://www.8btc.com/media/518564"
+        },
+        {
+          "基于Mimblewimble的Beam区块链今日停止出块近两个半小时": "https://www.8btc.com/writer/598580"
+        },
+        {
+          "加纳初创公司Beam宣布关闭比特币国际汇款业务": "https://www.8btc.com/writer/598580"
+        }
+      ]
+    },
+    {
+      "name": "iCube",
+      "url": "https://www.8btc.com/p/icube",
+      "articles_num": 2,
+      "articles": [
+        {
+          "自征信：引领金融互联网下一个2.0时代到来": "https://www.8btc.com/article/158052"
+        },
+        {
+          "区块链项目iCube新版白皮书发布，十大应用场景构筑全新数字经济生态": "https://www.8btc.com/writer/225578"
+        }
+      ]
+    },
+    {
+      "name": "BTC.com",
+      "url": "https://www.8btc.com/p/btc-com",
+      "articles_num": 2,
+      "articles": [
+        {
+          "BTC.com正式入驻Chrome网上应用商店": "https://www.8btc.com/article/76482"
+        },
+        {
+          "比特大陆上线新产品BTC区块，启用百万美元级域名btc.com": "https://www.8btc.com/writer/7909"
+        }
+      ]
+    },
+    {
+      "name": "Coinnice",
+      "url": "https://www.8btc.com/p/coinnice",
+      "articles_num": 4,
+      "articles": [
+        {
+          "谈谈合约交易的一部分---爆仓": "https://www.8btc.com/article/73931"
+        },
+        {
+          "Coinnice交易课堂：合约交易=赌博？": "https://www.8btc.com/writer/27628"
+        },
+        {
+          "Coinnice交易课堂：准市商系统": "https://www.8btc.com/writer/27628"
+        },
+        {
+          "“coinnice蝉蛰杯”现货大赛": "https://www.8btc.com/tag/coinnice"
+        }
+      ]
+    },
+    {
+      "name": "Cover",
+      "url": "https://www.8btc.com/p/CoverProtocol",
+      "articles_num": 2,
+      "articles": [
+        {
+          "Cover团队在Kovan以太坊测试网部署xCOVER智能合约": "https://www.8btc.com/article/6586941"
+        },
+        {
+          "卖意外险的保险公司也遭受了意外？Cover Protocol漏洞分析": "https://www.8btc.com/article/6586941"
+        }
+      ]
+    },
+    {
+      "name": "亦来云",
+      "url": "https://www.8btc.com/p/elastos",
+      "articles_num": 2,
+      "articles": [
+        {
+          "亦来云团队受邀在阿里总部交流“亦来云的计算思维和网络安全”": "https://www.8btc.com/article/150612"
+        },
+        {
+          "亦来云：区块链驱动的智能万维网": "https://www.8btc.com/article/150612"
+        }
+      ]
+    },
+    {
+      "name": "Opium",
+      "url": "https://www.8btc.com/p/opium",
+      "articles_num": 1,
+      "articles": [
+        {
+          "Opium推出针对跨链资产桥安全性的保险服务Bridge Protection": "https://www.8btc.com/article/6631331"
+        }
+      ]
+    },
+    {
+      "name": "Connext",
+      "url": "https://www.8btc.com/p/connext",
+      "articles_num": 1,
+      "articles": [
+        {
+          "YFI创始人AC：Fantom将向使用过Polygon等6个跨链桥的用户发送FTM代币": "https://www.8btc.com/article/6679232"
+        }
+      ]
+    },
+    {
+      "name": "点点币",
+      "url": "https://www.8btc.com/p/peercoin",
+      "articles_num": 2,
+      "articles": [
+        {
+          "基于朵朵系统的物联网支付与智能设备自治项目": "https://www.8btc.com/article/58685"
+        },
+        {
+          "点点币创始人回应op_return小数据交易和修剪区块问题": "https://www.8btc.com/writer/10581"
+        }
+      ]
+    },
+    {
+      "name": "Kyber",
+      "url": "https://www.8btc.com/p/kyber",
+      "articles_num": 2,
+      "articles": [
+        {
+          "增加操作gas花费，伊斯坦布尔升级将破坏Arago上近680份智能合约": "https://www.8btc.com/article/490364"
+        },
+        {
+          "3分钟速读大会之跨链丨2018全球区块链（杭州）高峰论坛": "https://www.8btc.com/writer/164840"
+        }
+      ]
+    },
+    {
+      "name": "CEX.io",
+      "url": "https://www.8btc.com/p/cex-io",
+      "articles_num": 2,
+      "articles": [
+        {
+          "GHash.IO在矿业集团会议上承诺将限制算力": "https://www.8btc.com/article/23805"
+        },
+        {
+          "GHash.IO：我们永远不会发动51%攻击": "https://www.8btc.com/writer/6967"
+        }
+      ]
+    },
+    {
+      "name": "Band",
+      "url": "https://www.8btc.com/p/band",
+      "articles_num": 1,
+      "articles": [
+        {
+          "预言机协议 Band Protocol 由于验证者服务器内存问题暂停升级": "https://www.8btc.com/article/6660743"
+        }
+      ]
+    },
+    {
+      "name": "Ampleforth",
+      "url": "https://www.8btc.com/p/ampleforth",
+      "articles_num": 1,
+      "articles": [
+        {
+          "Ampleforth将推出新Ampleforth NFT，由社区设计和决定外观": "https://www.8btc.com/article/6671067"
+        }
+      ]
+    },
+    {
+      "name": "Cobo",
+      "url": "https://www.8btc.com/p/cobo",
+      "articles_num": 1,
+      "articles": [
+        {
+          "Cobo刘力心、BITHD果子：开源是硬件钱包的发展趋势 | 链节点AMA": "https://www.8btc.com/article/536308"
+        }
+      ]
+    },
+    {
+      "name": "Nervos",
+      "url": "https://www.8btc.com/p/nervos",
+      "articles_num": 1,
+      "articles": [
+        {
+          "2019杭州区块链周 | Nervos吕国宁：区块链系统未来一定是分层": "https://www.8btc.com/article/409736"
+        }
+      ]
+    },
+    {
+      "name": "亿书（Ebookchain）",
+      "url": "https://www.8btc.com/p/ebookchain",
+      "articles_num": 1,
+      "articles": [
+        {
+          "亿书发布绿皮书，首推社区管理共识机制": "https://www.8btc.com/article/107688"
+        }
+      ]
+    },
+    {
+      "name": "dHEDGE",
+      "url": "https://www.8btc.com/p/dhedge",
+      "articles_num": 1,
+      "articles": [
+        {
+          "Mask Network提议推出代币互换基金，计划与Gitcoin、Sushi、dHEDGE等合作": "https://www.8btc.com/article/6690282"
+        }
+      ]
+    },
+    {
+      "name": "Edgeware",
+      "url": "https://www.8btc.com/p/edgeware",
+      "articles_num": 5,
+      "articles": [
+        {
+          "Kusama平行链拍卖在即，Edgeware推出平行链Hedgeware": "https://www.8btc.com/article/6636005"
+        },
+        {
+          "Edgeware主网启动时间再次推迟，最新时间为2月17日": "https://www.8btc.com/writer/33672"
+        },
+        {
+          "Gavin Wood：Edgeware启动主网很勇敢，Polkadot主网将在2019年Q4或者明年Q1发布": "https://www.8btc.com/writer/33672"
+        },
+        {
+          "研究员Justin Drake：以太坊2.0验证人支付押金过程与Edgeware类似": "https://www.8btc.com/tag/polkadot"
+        },
+        {
+          "EdgeWare开发者回应针对其锁仓空投模式质疑：钱包开发团队和当前团队完全独立": "https://www.8btc.com/tag/edgeware"
+        }
+      ]
+    },
+    {
+      "name": "烤猫矿机",
+      "url": "https://www.8btc.com/p/asicminer",
+      "articles_num": 1,
+      "articles": [
+        {
+          "疯狂小强：关于AMHash的统一回复": "https://www.8btc.com/article/47586"
+        }
+      ]
+    },
+    {
+      "name": "BWallet",
+      "url": "https://www.8btc.com/p/bwallet",
+      "articles_num": 1,
+      "articles": [
+        {
+          "BWallet系列文章之一：基本原理简介": "https://www.8btc.com/article/48558"
+        }
+      ]
+    },
+    {
+      "name": "IRISnet",
+      "url": "https://www.8btc.com/p/irisnet",
+      "articles_num": 1,
+      "articles": [
+        {
+          "PlatON和 IRISnet结成战略合作伙伴，共同开拓区块链企业服务市场": "https://www.8btc.com/article/355380"
+        }
+      ]
+    },
+    {
+      "name": "Delphy",
+      "url": "https://www.8btc.com/p/delphy",
+      "articles_num": 1,
+      "articles": [
+        {
+          "区块链帮助开启预测市场革命": "https://www.8btc.com/article/135623"
+        }
+      ]
+    },
+    {
+      "name": "Crust",
+      "url": "https://www.8btc.com/p/crust",
+      "articles_num": 1,
+      "articles": [
+        {
+          "Crust Network宣布为Polygon提供分布式存储解决方案": "https://www.8btc.com/article/6689260"
+        }
+      ]
+    },
+    {
+      "name": "tBTC",
+      "url": "https://www.8btc.com/p/tbtc",
+      "articles_num": 1,
+      "articles": [
+        {
+          "tBTC安全漏洞完整披露，去中心化锚定币为何步履艰难？": "https://www.8btc.com/article/599249"
+        }
+      ]
+    },
+    {
+      "name": "深脑链",
+      "url": "https://www.8btc.com/p/DeepBrainChain",
+      "articles_num": 0,
+      "articles": []
+    },
+    {
+      "name": "Polkaswap",
+      "url": "https://www.8btc.com/p/Polkaswap",
+      "articles_num": 0,
+      "articles": []
+    },
+    {
+      "name": "Zenlink",
+      "url": "https://www.8btc.com/p/Zenlink",
+      "articles_num": 0,
+      "articles": []
+    },
+    {
+      "name": "KILT",
+      "url": "https://www.8btc.com/p/KILT",
+      "articles_num": 0,
+      "articles": []
+    },
+    {
+      "name": "Polkastarter",
+      "url": "https://www.8btc.com/p/Polkastarter",
+      "articles_num": 0,
+      "articles": []
+    },
+    {
+      "name": "Perpetual",
+      "url": "https://www.8btc.com/p/perpetual",
+      "articles_num": 0,
+      "articles": []
+    },
+    {
+      "name": "Yam Finance",
+      "url": "https://www.8btc.com/p/yam",
+      "articles_num": 0,
+      "articles": []
+    },
+    {
+      "name": "NEST",
+      "url": "https://www.8btc.com/p/nest",
+      "articles_num": 0,
+      "articles": []
+    },
+    {
+      "name": "比特派",
+      "url": "https://www.8btc.com/p/bitpie",
+      "articles_num": 0,
+      "articles": []
+    },
+    {
+      "name": "WBTC",
+      "url": "https://www.8btc.com/p/wbtc",
+      "articles_num": 0,
+      "articles": []
+    },
+    {
+      "name": "LAVA",
+      "url": "https://www.8btc.com/p/lava",
+      "articles_num": 0,
+      "articles": []
+    },
+    {
+      "name": "币创网",
+      "url": "https://www.8btc.com/p/bichuang",
+      "articles_num": 0,
+      "articles": []
+    },
+    {
+      "name": "比权网",
+      "url": "https://www.8btc.com/p/bitsquan",
+      "articles_num": 0,
+      "articles": []
+    },
+    {
+      "name": "Korbit",
+      "url": "https://www.8btc.com/p/korbit",
+      "articles_num": 0,
+      "articles": []
+    },
+    {
+      "name": "币贝网",
+      "url": "https://www.8btc.com/p/bitbays",
+      "articles_num": 0,
+      "articles": []
+    }
+  ],
+  "projects_num": 150
+}
