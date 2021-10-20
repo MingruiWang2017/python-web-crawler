@@ -1,0 +1,55 @@
+{
+  "projects": [
+    {
+      "name": "比特币",
+      "url": "https://www.8btc.com/p/bitcoin",
+      "articles_num": 20,
+      "articles": [
+        {
+          "数据：比特币闪电网络中锁定的BTC数量近3000枚": "https://www.8btc.com/article/6693740"
+        },
+        {
+          "技术贴：如何用Signet 测试网尝鲜体验Taproot": "https://www.8btc.com/article/6693740"
+        },
+        {
+          "The Giving Block与RenPSG合作为慈善机构提供加密货币捐赠解决方案": "https://www.8btc.com/article/6692348"
+        },
+        {
+          "数据：比特币闪电网络通道数量达72380个，创历史新高": "https://www.8btc.com/writer/27420"
+        }
+      ]
+    },
+    {
+      "name": "IPFS",
+      "url": "https://www.8btc.com/p/ipfs",
+      "articles_num": 20,
+      "articles": [
+        {
+          "使用分布式存储协议能让您的NFT收藏保存100年": "https://www.8btc.com/media/6638251"
+        },
+        {
+          "为IPFS产业提供新动能，“蒙顶论链”2021全球算力峰会圆满成功": "https://www.8btc.com/writer/653200"
+        },
+        {
+          "IPFS存储一致性难题？IPFS-Cluster帮你解决": "https://www.8btc.com/writer/653200"
+        }
+      ]
+    },
+    {
+      "name": "EOS",
+      "url": "https://www.8btc.com/p/eos",
+      "articles_num": 20,
+      "articles": [
+        {
+          "赛迪发布第25期全球公有链技术评估指数：EOS、以太坊、波场居前三": "https://www.8btc.com/article/6674827"
+        },
+        {
+          "数据：USDT已在8条公链发行，TRC版发行逾319亿美元居首位": "https://www.8btc.com/article/6674827"
+        },
+        {
+          "EOS母公司Block.One支付承包商8.3万枚EOS": "https://www.8btc.com/article/6669587"
+        }
+      ]
+    }
+  ]
+}
