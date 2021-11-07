@@ -12,7 +12,6 @@ BOT_NAME = 'properties'
 SPIDER_MODULES = ['properties.spiders']
 NEWSPIDER_MODULE = 'properties.spiders'
 
-COMMANDS_MODULE = 'properties.hi'
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'properties (+http://www.yourdomain.com)'
@@ -63,15 +62,9 @@ ROBOTSTXT_OBEY = True
 
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
-ITEM_PIPELINES = {
-   'properties.pipelines.PropertiesPipeline': 300,
-   'scrapy.pipelines.images.ImagesPipeline': 1,
-}
-
-IMAGES_STORE = "images"
-IMAGES_THUMBS = {
-    'small': (30, 30)
-}
+#ITEM_PIPELINES = {
+#    'properties.pipelines.PropertiesPipeline': 300,
+#}
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://docs.scrapy.org/en/latest/topics/autothrottle.html

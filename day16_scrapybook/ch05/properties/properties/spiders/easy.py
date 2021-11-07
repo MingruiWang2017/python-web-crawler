@@ -6,27 +6,21 @@ from scrapy.loader import ItemLoader
 from itemloaders.processors import MapCompose, Join
 from scrapy.linkextractors import LinkExtractor
 from scrapy.spiders import CrawlSpider, Rule
-from scrapy.http import Request, FormRequest
+from scrapy.http import FormRequest
 
 
-class NonceLoginSpider(CrawlSpider):
-    name = 'noncelogin'
+class LoginSpider(CrawlSpider):
+    name = 'login'
     allowed_domains = ['192.168.73.130']
 
-    # start on the welcome page
+    # start with a login request
     def start_requests(self):
         return [
-            Request(
-                "http://192.168.73.130:9312/dynamic/nonce",
-                callback=self.parse_welcome
+            FormRequest(
+                "http://192.168.73.130:9312/dynamic/login",
+                formdata={"user": "user",
+                          "pass": "pass"}
             )]
-
-    # Post welcome page's first form with the given user/pass
-    def parse_welcome(self, response):
-        return FormRequest.from_response(
-            response,
-            formdata={"user": "user", "pass": "pass"}
-        )
 
     # Rules for horizontal and vertical crawling
     rules = (

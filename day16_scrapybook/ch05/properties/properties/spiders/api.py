@@ -1,17 +1,18 @@
 import scrapy
 import datetime
 import socket
+import json
 
 from scrapy.http import Request
 from scrapy.loader import ItemLoader
-from scrapy.loader.processors import Join, MapCompose
+from itemloaders.processors import Join, MapCompose
 from ..items import PropertiesItem
 
 
-class BasicSpider(scrapy.Spider):
-    name = 'manual'
+class ApiSpider(scrapy.Spider):
+    name = 'api'
     allowed_domains = ['192.168.73.130']
-    start_urls = ['http://192.168.73.130:9312/properties/index_00000.html']
+    start_urls = ['http://192.168.73.130:9312/properties/api.json']
 
     def parse_item(self, response):
         """
@@ -24,8 +25,11 @@ class BasicSpider(scrapy.Spider):
         # 使用ItemLoader
         l = ItemLoader(item=PropertiesItem(), response=response)
 
-        l.add_xpath('title', '//*[@itemprop="name"][1]/text()',
+        # l.add_xpath('title', '//*[@itemprop="name"][1]/text()',
+        #             MapCompose(str.strip, str.title))
+        l.add_value('title', response.meta['title'],
                     MapCompose(str.strip, str.title))
+
         l.add_xpath('price', '//*[@itemprop="price"][1]/text()',
                     MapCompose(lambda i: i.replace(',', ''), float), re='[,.0-9]+')
         l.add_xpath('description', '//*[@itemprop="description"][1]/text()',
@@ -45,14 +49,9 @@ class BasicSpider(scrapy.Spider):
         return l.load_item()
 
     def parse(self, response):
-        # Get the next index URLs and yield Requests
-        next_selector = response.xpath('//*[contains(@class, "next")]//@href')
-
-        for url in next_selector.extract():
-            yield Request(response.urljoin(url))
-
-        # Get item URLs and yield Requests
-        item_selector = response.xpath('//*[@itemprop="url"]/@href')
-        for url in item_selector.extract():
-            yield Request(response.urljoin(url),
-                          callback=self.parse_item)
+        base_url = "http://192.168.73.130:9312/properties/"
+        json_data = json.loads(response.body)
+        for item in json_data:
+            url = base_url + "property_%06d.html" % item["id"]
+            title = item["title"]
+            yield Request(url, meta={"title": title}, callback=self.parse_item)
