@@ -5,12 +5,16 @@ from ..items import RoomInfoHzItem  # 相对引用items.py中定义的类
 class RoomSpider(scrapy.Spider):
     name = "room_spider"
     start_urls = ["https://hz.zu.anjuke.com/fangyuan/",
-                  "https://hz.zu.anjuke.com/fangyuan/p2"]
+                  "https://hz.zu.anjuke.com/fangyuan/p2",
+                  "https://hz.zu.anjuke.com/fangyuan/p3",
+                  "https://hz.zu.anjuke.com/fangyuan/p4",
+                  "https://hz.zu.anjuke.com/fangyuan/p5",
+                  ]
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36"
     }
 
-    # 重写start_request 方法, 自行设置代理
+    # 重载start_request 方法, 自行设置代理
     def start_requests(self):
         for url in RoomSpider.start_urls:
             yield scrapy.Request(url=url, callback=self.parse, headers=RoomSpider.headers)
@@ -39,6 +43,7 @@ class RoomSpider(scrapy.Spider):
                 'other': self.clean(room.xpath('.//p[@class="details-item bot-tag"]//text()').extract())[1:]
             }
 
+        # # 获取继续爬取的下一页url
         # next_page_url = response.xpath('//a[@class="aNxt"]/@href').extract_first()
         # if next_page_url:
         #     yield scrapy.Request(next_page_url)
