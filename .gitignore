@@ -136,6 +136,8 @@ dmypy.json
 
 # 爬取的html网页信息
 *.html
-# 软件、视频
+# 软件、视频、图片
 *.exe
 *.mp4
+*.jpg
+*.png
