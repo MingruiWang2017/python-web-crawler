@@ -11,4 +11,5 @@ sys.path.append(pwd)
 
 # 调用爬虫
 
-execute(['scrapy', 'crawl', 'cnblog_news'])
+# execute(['scrapy', 'crawl', 'cnblog_news'])
+execute(['scrapy', 'crawl', 'cnblog_news2'])
